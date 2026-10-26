@@ -1,0 +1,32 @@
+{
+  "initial_v1": {
+    "prompt": "prompts/initial_7class.txt",
+    "prompt_sha256": "f0b97b3f685817d24ad7af525d410ab7ca537c68c404747fa5c36aebffe9f8f5",
+    "device": "cpu",
+    "dtype": "float32",
+    "seed": 20261024,
+    "torch_threads": 4,
+    "max_new_tokens": 16,
+    "do_sample": false,
+    "classifier_train_count": 1219,
+    "v1_train_count": 2079,
+    "v1_train_classes": 13,
+    "v1_adapter_sha256": "15103dbdbf05d89d185edf36d18fde59f2e2eea361624b1a5d5545c02c6dcdd9"
+  },
+  "compact_regression": {
+    "prompt": "data/training/prompt.txt",
+    "prompt_sha256": "58498965d1121d2734d6c285dc68385adb725a8e938d58ca989fba83427de711",
+    "device": "cuda:0",
+    "dtype": "float16",
+    "seed": 20261025,
+    "torch_threads": 4,
+    "max_new_tokens": 16,
+    "do_sample": false,
+    "classifier_train_count": 371,
+    "v21_train_count": 371,
+    "v21_dev_count": 75,
+    "v1_adapter_sha256": "15103dbdbf05d89d185edf36d18fde59f2e2eea361624b1a5d5545c02c6dcdd9",
+    "v21_adapter_sha256": "4b0ca128a047a0ac71025b22cc891851276cf8f4366de8e4f786cb33605e8136",
+    "interpretation": "Development-stage regression; observed recording errors informed optimization; not independent testing."
+  }
+}

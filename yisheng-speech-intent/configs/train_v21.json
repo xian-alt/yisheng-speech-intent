@@ -1,0 +1,25 @@
+{
+  "base": "Qwen/Qwen2.5-0.5B-Instruct (supply your own local model path)",
+  "dataset_sha256": "790c398d8431e50ab641e2ce3a4087339512fe1961c2b84ecf551c1a315ec5cd",
+  "prompt_sha256": "58498965d1121d2734d6c285dc68385adb725a8e938d58ca989fba83427de711",
+  "seed": 20261025,
+  "epochs": 5,
+  "lr": 0.0002,
+  "batch_size": 2,
+  "gradient_accumulation": 4,
+  "max_length": 1024,
+  "r": 8,
+  "alpha": 16,
+  "dropout": 0.05,
+  "label_loss": "assistant-only including assistant end tokens",
+  "best_selection": "minimum synthetic development loss; no selection on existing 700",
+  "torch": "2.7.0+cu128",
+  "transformers": "4.57.6",
+  "peft": "0.18.1",
+  "dtype": "torch.bfloat16",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "actual_max_tokens": {
+    "train": 290,
+    "dev": 289
+  }
+}

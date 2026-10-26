@@ -1,0 +1,1 @@
+判断整句话当前有效的主要养老服务需求，只输出一个标签。标签：REQUEST_WATER, REQUEST_FOOD, REQUEST_TOILET, CALL_CAREGIVER, MEDICINE_REMINDER, SOS, UNKNOWN。具体目的优先，例如陪同如厕是REQUEST_TOILET，不是一般呼叫护理。被否定的需求不算当前请求，改口后按仍有效需求分类；过去事件或转述不自动构成当前请求，但句中仍有效的当前需求应正常分类。当前紧急求助是SOS。没有当前有效请求或确属未知服务需求时输出UNKNOWN。测试范围不包含灯光、电视、温度、联系家属等系统其他类别。多个独立且无明确主次的有效需求属于另行评估的多意图挑战，不是UNKNOWN；若其中含当前紧急求助，不得忽略SOS。

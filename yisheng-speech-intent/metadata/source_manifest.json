@@ -1,0 +1,50 @@
+{
+  "scripts/intent_v2_research.py": {
+    "source_relative_path": "scripts/intent_v2_research.py",
+    "source_sha256": "a55e8858b6028f3319ef0b9bb661fdbc1da84ec5c67eec4db0a68db52b7a9ec8",
+    "export_sha256": "a55e8858b6028f3319ef0b9bb661fdbc1da84ec5c67eec4db0a68db52b7a9ec8",
+    "modified": false
+  },
+  "yisheng/__init__.py": {
+    "source_relative_path": "yisheng/__init__.py",
+    "source_sha256": "8f4945131dc794fa29eeb2b563c0aab8b6f99a5c3daeff539d2de7b4a26f5aa3",
+    "export_sha256": "8f4945131dc794fa29eeb2b563c0aab8b6f99a5c3daeff539d2de7b4a26f5aa3",
+    "modified": false
+  },
+  "yisheng/models.py": {
+    "source_relative_path": "yisheng/models.py",
+    "source_sha256": "d068e4b23c306a671ab264e6cbe519d14e8b74725889d89f6a53a65c897b4a38",
+    "export_sha256": "d068e4b23c306a671ab264e6cbe519d14e8b74725889d89f6a53a65c897b4a38",
+    "modified": false
+  },
+  "yisheng/intents.py": {
+    "source_relative_path": "yisheng/intents.py",
+    "source_sha256": "a9580581a64213065025bf819542d91fda81133e3be8df6e7feaf59f626e5382",
+    "export_sha256": "a9580581a64213065025bf819542d91fda81133e3be8df6e7feaf59f626e5382",
+    "modified": false
+  },
+  "data/training/dataset.json": {
+    "source_relative_path": "training/intent_v2_compact_frozen/dataset.json",
+    "source_sha256": "790c398d8431e50ab641e2ce3a4087339512fe1961c2b84ecf551c1a315ec5cd",
+    "export_sha256": "790c398d8431e50ab641e2ce3a4087339512fe1961c2b84ecf551c1a315ec5cd",
+    "modified": false
+  },
+  "data/training/prompt.txt": {
+    "source_relative_path": "training/intent_v2_compact_frozen/prompt.txt",
+    "source_sha256": "58498965d1121d2734d6c285dc68385adb725a8e938d58ca989fba83427de711",
+    "export_sha256": "58498965d1121d2734d6c285dc68385adb725a8e938d58ca989fba83427de711",
+    "modified": false
+  },
+  "yisheng/qwen_asr.py": {
+    "source_project": "original browser-input prototype",
+    "export_sha256": "75dc532b58d803bbf107e2c07e9f73e5b4311c772d49769e89a1ba3832a1d502",
+    "modified": false
+  },
+  "data/evaluation.sqlite3": {
+    "export_sha256": "82f9a8299edfc8c2e2d6cf903b555cfdde7960b1f337ae150afcacc47b1e72c9",
+    "utterances": 700,
+    "predictions": 9800,
+    "contains_audio": false,
+    "derived_public_schema": true
+  }
+}

@@ -1,0 +1,3570 @@
+[
+  {
+    "input": "嗓子有点干，床边能放杯温开水吗？",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "水壶够不着，请把里面的水倒给我喝。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我坐着不方便拿杯子，帮我喂两口水吧。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/assisted_drinking",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "先别拿饭菜，我现在只需要一杯水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请把刚烧的水晾温一点端给我。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "能接一些白开水给我吗，半杯就行。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "这杯水喝完了，麻烦续一点。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/refill",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我嘴里干得难受，想润润口。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "床头没有饮用水了，替我送一瓶来。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "饭可以等会儿，先帮我解决口渴。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "杯子里太少了，再倒一点让我喝。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/refill",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不要糖水，给我普通的白开水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "想喝点热乎的水，别太烫。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我怕烫，能把开水兑到温温的吗？",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "手有点抖，扶着我的杯子让我喝水。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/assisted_drinking",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天你已经送过水，今天也请再送一杯。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "刚才说不喝是水太热，凉下来我还是想喝。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不是饿了，是口干，接杯水吧。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请叫护工拿水过来，我现在渴。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我把吸管插进水杯，我想喝几口。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/assisted_drinking",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "水在桌子另一头，帮我递到嘴边。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/assisted_drinking",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "来一点凉白开，我不想喝热的。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "这会儿不吃东西，只想补点水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "能给我端碗干净的饮用水吗？",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "瓶盖打不开，帮我拧开让我喝。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我已经有杯子了，请往里面装水。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/refill",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请把水倒进带把的杯子，方便我喝。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "等不及吃饭，口渴得想先喝水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不是叫人陪聊，是请人送些水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "现在给我准备一小杯常温水就好。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "肚子空了，麻烦把午餐送到床边。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想吃些软烂的面条，帮我准备一下。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "碗和勺子够不着，扶我吃两口饭。",
+    "output": "REQUEST_FOOD",
+    "split": "dev",
+    "family": "REQUEST_FOOD/assisted_eating",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不是要水，我需要吃点东西垫肚子。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请给我盛小半碗粥，早饭还没吃。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "饭菜做好了吗，给我端一份。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想要软一点的米饭，嚼着方便。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "今天胃口还行，麻烦拿份晚餐来。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "手没力气拿勺子，需要人喂饭。",
+    "output": "REQUEST_FOOD",
+    "split": "dev",
+    "family": "REQUEST_FOOD/assisted_eating",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我已经饿了，叫护工帮我弄点吃的。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "可以把饭切碎些再送来吗？",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请把餐盘移近些，我要开始吃饭。",
+    "output": "REQUEST_FOOD",
+    "split": "dev",
+    "family": "REQUEST_FOOD/assisted_eating",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "先不用陪我出去，帮我准备早餐吧。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天说不吃是没胃口，现在想吃一些。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "下午还没吃东西，给我拿块能吃的点心。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "饭有点硬，能换成容易吞的粥吗？",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请扶着我坐好，然后帮我吃这顿饭。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不是找药，我是想问有没有饭吃。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "把我的那份饭留下，我现在要吃。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "面包能掰成小块给我吗，我想吃。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不想喝粥了，换一碗软面给我。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "叫人把饭端到这里，我腿脚不方便。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "麻烦再加一点饭，刚才那份没吃饱。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "菜放远了，帮我夹到碗里吃。",
+    "output": "REQUEST_FOOD",
+    "split": "dev",
+    "family": "REQUEST_FOOD/assisted_eating",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "早餐想吃蒸蛋，能给我安排吗？",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我没有说不吃饭，只是不吃辣的。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "现在给我拿点清淡的食物就行。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "想吃一份热乎的饭，别放凉了。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "把勺子递给我，我要吃桌上的饭。",
+    "output": "REQUEST_FOOD",
+    "split": "dev",
+    "family": "REQUEST_FOOD/assisted_eating",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不是口渴，是肚子叫了想吃饭。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我有尿意，麻烦搀我走到卫生间。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "要解大手，床边能放一个便盆吗？",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请找人陪我上厕所，回来再休息。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "脚步不稳，去洗手间时扶着我一点。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "先不吃饭，我急着小便。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "麻烦把坐便椅推近，我需要用。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我现在想排便，帮我起身去厕所。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "晚上看不清路，请陪我去一趟卫生间。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不是来闲聊的，叫护工带我如厕。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "尿壶放哪儿了，我现在要小便用。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请把我扶到马桶旁，我要上厕所。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天去厕所没人扶，今天能陪我去吗？",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "刚才不想去，现在有便意了。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我自己走不稳，需要人陪着解手。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "先不要帮我找药，先带我去厕所。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "轮椅准备好，推我去卫生间解决一下。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我急着方便，能叫个人来搀一下吗？",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我把便盆摆好，现在就要用。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "厕所太远，拿个尿壶过来吧。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我没有摔倒，只是去厕所需要扶着。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "能不能陪我去小便，我怕走路摔着。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "想拉肚子，赶紧帮我到厕所去。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "护理员在吗，请协助我使用坐便器。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不是要吃饭，是要先去解个手。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "去卫生间的路上麻烦帮我推轮椅。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "能扶我下床排便吗，肚子有便意。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "先帮我上厕所，洗澡以后再说。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请有人守在旁边，让我安全用便盆。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想去厕所，但拐杖够不到，扶我过去。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "现在还不能自己如厕，请安排人协助。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "靠背不舒服，来个人帮我调整一下坐姿。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "袖子套不上，麻烦帮我穿好外套。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想坐起来看看窗外，扶我一下。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "把床头那副眼镜递给我好吗？",
+    "output": "CALL_CAREGIVER",
+    "split": "dev",
+    "family": "CALL_CAREGIVER/retrieve_daily_object",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "躺久了腰酸，帮我翻到另一侧。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "想有人坐在旁边陪我聊一会儿。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我的袜子掉了，叫护工帮我穿上。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请护理员过来检查一下床单是不是皱了。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "今天没急事，就是想有人照顾一下。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不是要去厕所，想请人陪我在屋里走走。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "衣领勒着了，帮我松一松。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "枕头太低，来帮我垫高一些。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "被子滑到地上了，麻烦替我盖好。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想洗把脸，帮我拿毛巾来。",
+    "output": "CALL_CAREGIVER",
+    "split": "dev",
+    "family": "CALL_CAREGIVER/retrieve_daily_object",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "没有受伤，只是起床时想有人搭把手。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想梳一下头，叫护理员协助一下。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "扶我到椅子上坐坐，床上躺累了。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天护工帮我换过衣服，今天也请帮一下。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "手不太方便，帮我扣一下扣子。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想整理一下衣柜，找个人过来帮忙。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不是需要吃药，我想找护理员说点日常的事。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请把拖鞋摆正，扶我穿上。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我没有喘不过气，就是想把床抬高坐着。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "叫个护工来陪我下盘棋吧。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我的书掉到床底了，帮我拾起来。",
+    "output": "CALL_CAREGIVER",
+    "split": "dev",
+    "family": "CALL_CAREGIVER/retrieve_daily_object",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我怕一个人待着，请来个人陪会儿。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请协助我从轮椅挪到床上休息。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "眼镜脏了，帮忙擦一擦再递给我。",
+    "output": "CALL_CAREGIVER",
+    "split": "dev",
+    "family": "CALL_CAREGIVER/retrieve_daily_object",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "现在不口渴，只需要换一条干净毛巾。",
+    "output": "CALL_CAREGIVER",
+    "split": "dev",
+    "family": "CALL_CAREGIVER/retrieve_daily_object",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我挪一下腿的位置，躺着不太舒坦。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请看看今天早上的药有没有记录为已服。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/dose_record_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "药盒不知道收哪儿了，帮我找一找。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "到原定吃药时间时，叫我一声就行。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想核对药袋上的姓名，叫护理员来看看。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我查一下医生原来交代的服药时间。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "提醒是不是漏设了，麻烦检查今天那一项。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不是要吃饭，我在找自己的常用药。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天的药我记不清吃没吃，请核对记录。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/dose_record_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我的药袋和别人的很像，帮我确认拿对没有。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请把药盒拿到我面前，我要核对里面的名字。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "按照原来的用药安排，下一次是什么时候？",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "别改药量，只替我确认已经安排好的提醒。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不知道晚上的药放在什么位置，请帮忙找。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请护理员查一下我今天是否已经服过这一顿。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/dose_record_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不是说现在要加药，是请你核对既定药单。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "把我的服药提示打开让我看看有没有设好。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "原定饭后吃的药，请到时候提醒我。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我把药袋落在抽屉里了，麻烦拿给我核对。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "今天换了外套，帮我找一下随身药盒。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我怕把别人的药拿错，请帮忙核实标签。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请确认昨天设的吃药提示今天还有效。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "今天的药是护理员放的吗，我想核对一下。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我刚才忘记记录服药了，请一起确认原有记录。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/dose_record_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请按医生交代的时间叫我服药，不要漏提醒。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "装药的小袋没在床头，找人帮我找一下。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我没有问该吃多少，只想知道原来的安排。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "麻烦拿来我的药品清单，我要对一下名字。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "下一顿药的提醒安排还在吗，替我查查。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨晚那次我记不清了，请护理员核对服药情况。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "请帮我检查药盒是不是属于我自己的。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我倒在浴室地上了，怎么也起不来，快来救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "突然吸不上气，快叫人来帮我急救！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我胸口猛地疼得厉害，立刻找护理员救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "胳膊伤口一直流血，按不住了，需要紧急帮助！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我被床架夹住动不了了，赶紧叫人过来救！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "刚才跌下床，现在无法自己站起来，快帮我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "有人吗，我正被困在这里，出不去了！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我现在喘气很困难，快把护工叫来！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "摔在地上腿动不了，帮我找人救援！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "救命，我被食物噎住，呼吸很难受！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不是昨天摔倒，是我现在躺在地上起不来！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我刚刚从椅子上摔下来了，快来扶救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "突然胸痛还冒冷汗，赶紧叫人帮我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "血一直往外流，别等了，快叫护理员来处理！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我被门夹住了，抽不出手，救救我！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "现在全身没力气瘫在地上，自己起不来！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "快点来人，我呼吸越来越费劲了！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我头突然痛得受不了，还站不稳，快找人救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "床边跌倒后爬不起来，请马上叫护工过来！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我出不了这个被卡住的位置，需要立即救助！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不是想有人陪着，是正在呼吸困难，快救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "现在头上破了口子，出血不止，叫人救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我被绊倒压在椅子下面，没法脱身，来救我！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "胸口突然疼得不能说长句，快叫人急救！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我正摔在卫生间里，站不起来，急需人帮忙！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "救命啊，我卡在床和墙之间，动弹不得！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我现在呛得厉害喘不过气，请立刻叫护理员！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "刚才不是开玩笑，我是真的跌倒起不来了！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我受伤流很多血，现在就需要有人来救！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "人在哪里，我现在有危险，快过来救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我昨晚梦见自己摔倒，醒来以后好好的。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "这本故事里的人在喊救命，我是在念台词。",
+    "output": "UNKNOWN",
+    "split": "dev",
+    "family": "UNKNOWN/quotation",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "今天不需要送水，我的杯子还是满的。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "饭已经吃过了，现在不想再吃。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天护理员扶我上厕所，我是在回想那件事。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "药品知识节目刚刚讲了服药提醒，不是我的请求。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我说的是小时候掉进沟里的经历，现在没事。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不用叫护工，我正在自己看书。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "如果以后摔倒了应该求救，这是在讨论假设。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "窗外那只鸟今天又来了，真好看。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我暂时没有任何需要帮忙的地方。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我查一查明天会不会下雨。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想知道这首老歌叫什么名字。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不是我胸痛，是电视故事里的人胸痛。",
+    "output": "UNKNOWN",
+    "split": "dev",
+    "family": "UNKNOWN/quotation",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "救命这两个字怎么写，我在练书法。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天流鼻血已经处理好了，现在没有新情况。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我没让你端饭，我是在说昨天的晚饭不错。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "不需要找药盒，我已经找到并收好了。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "假如哪天被困了就按呼叫铃，这是提醒自己。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我只是读新闻里的求救内容，不是自己遇险。",
+    "output": "UNKNOWN",
+    "split": "dev",
+    "family": "UNKNOWN/quotation",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "厕所今天挺干净的，我没有说要去。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想请你猜个谜语，不涉及护理服务。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "现在既不想吃也不想喝，先让我休息。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天不舒服那阵已经过去，不用再叫人。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我正在讲急救知识，并没有人正需要救助。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "药的事情都核对完了，现在不需要处理。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "这句话是在模仿电影人物，不是真的呼救。",
+    "output": "UNKNOWN",
+    "split": "dev",
+    "family": "UNKNOWN/quotation",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想查一下老家那条河叫什么名字。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "水壶的颜色真好看，不用给我倒水。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "以前没人陪我聊天，今天我想自己安静待着。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "train"
+  },
+  {
+    "input": "嘴唇干巴巴的，帮忙装一杯能喝的水来。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请把保温壶里的饮用水添进我的杯子。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/refill",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想抿几口水，帮我把吸管拿过来。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/assisted_drinking",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "不要给我端粥，眼下想喝的是清水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "渴得嗓子发紧了，来一点温度合适的水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "杯底只剩一点，请再给我倒上半杯。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/refill",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "叫位护理员送水，我够不到饮水机。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "刚才怕烫才没喝，水温降了就给我喝吧。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "昨天口渴忍着了，今天请给我备杯水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "想喝凉一些的白开水，帮我晾晾再送来。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "水杯太重，托一下让我喝两口。",
+    "output": "REQUEST_WATER",
+    "split": "dev",
+    "family": "REQUEST_WATER/assisted_drinking",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想要的是一口水，不是要吃东西。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "床旁那瓶水帮我拧松瓶盖，我要喝。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请用小杯给我接点饮用水润喉。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "把水放到我手能拿到的地方，我现在想喝。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "这壶是开水吧，倒一些让我喝。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "能把温水送过来吗，我渴了一阵了。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我不用护理员陪坐，请他给我接杯水就行。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "不要饮料，我只想喝干净的白水。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "想先补点水分，请把水端到床头。",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "胃里空落落的，给我安排一份软食。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "午饭还没送到，麻烦拿我的餐盒来。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "想吃点容易嚼的，能煮一碗烂面吗？",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "帮我舀几口饭，我的手不方便握勺。",
+    "output": "REQUEST_FOOD",
+    "split": "dev",
+    "family": "REQUEST_FOOD/assisted_eating",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "不是请你送水，想让人准备吃的。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我现在想吃早点，把蒸好的食物端来吧。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "饭粒太硬了，请给我换一份软饭。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "这顿还没有吃饱，能添少量主食吗？",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "叫护理员过来协助进餐，不是单纯聊天。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "昨天没吃多少，今天肚子饿了想吃些。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "刚才说不要的是辣菜，清淡的饭我还要。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "想要热粥配一点菜，帮忙准备吧。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "帮我把餐桌拉近，我准备吃这一顿。",
+    "output": "REQUEST_FOOD",
+    "split": "dev",
+    "family": "REQUEST_FOOD/assisted_eating",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "给我弄些碎一点的食物，方便咀嚼。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我不是在问药在哪儿，是问饭在哪里领。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "今天想吃鸡蛋羹，给我盛一小碗。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请把晚饭送进房间，我现在饿。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "那块面包掰开递给我，我想先吃一点。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "帮我把碗端稳，好让我吃饭。",
+    "output": "REQUEST_FOOD",
+    "split": "dev",
+    "family": "REQUEST_FOOD/assisted_eating",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "等下再扶我出门，我先吃点东西。",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想小解，来位护理员带我到卫生间。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "想大便但起身费劲，扶着我去一趟。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "把床旁的便器准备一下，我现在要用。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请陪同我如厕，走路时搀着我的胳膊。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我不是要聊天，喊人来推我去上厕所。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "晚上去厕所怕摔，能安排人陪着吗？",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "有尿意了，先把尿壶递过来。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "昨天有人陪我方便，今天现在也请陪我去。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "刚才没便意，现在需要去解手了。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我没有受伤，只是要去厕所需要搀扶。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请把轮椅推过来，送我到坐便器旁。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "先把吃饭放一放，眼下急着排尿。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请让护工协助我用一下便盆。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想去卫生间解决大便，麻烦扶下床。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "要小便了，帮我稳住身体走过去。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "不用整理衣服，先陪我到厕所。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想方便一下，叫人扶着我走那段路。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "把坐便椅放在合适的位置，我等着上厕所。",
+    "output": "REQUEST_TOILET",
+    "split": "dev",
+    "family": "REQUEST_TOILET/toileting_equipment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我不是说不去厕所，是不能一个人走过去。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请护理员帮我完成如厕，我自己行动不便。",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "领口的扣子系不上，叫个人帮我扣好。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想从床上挪到沙发，来人搭一下手。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请护工把背后的垫子摆平一点。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想找人陪着看一会儿相册。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "床单卷起来了，帮我铺平了再躺。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "帮我把掉在椅子底下的老花镜拿出来。",
+    "output": "CALL_CAREGIVER",
+    "split": "dev",
+    "family": "CALL_CAREGIVER/retrieve_daily_object",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "今天没有急症，只想有人陪着走几步。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "不要给我拿药，帮我穿上这双袜子。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我的肩膀想换个舒服的姿势，请协助翻身。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "叫位护理员来，帮我整理床旁的东西。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我现在不用上厕所，是想扶着坐到窗边。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "昨天有人帮我擦脸，今天也想请人帮一把。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "被子压着脚不舒服，请过来挪开一些。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "想换一身干净衣服，我自己穿不方便。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我需要的是陪伴，不是紧急救助。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "帮我把梳子递来，再协助梳一下头。",
+    "output": "CALL_CAREGIVER",
+    "split": "dev",
+    "family": "CALL_CAREGIVER/retrieve_daily_object",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "扶我站稳就行，我想在房间里活动一下。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "没发生跌倒，我只是想请人帮助起床。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "叫个护工过来替我拿一下书。",
+    "output": "CALL_CAREGIVER",
+    "split": "dev",
+    "family": "CALL_CAREGIVER/retrieve_daily_object",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想坐在门边休息，请护理员陪着过去。",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我记不住上午那次服药是否完成，查一下记录。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/dose_record_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "装着我药的小袋被收走了，能协助找到吗？",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "麻烦确认原先设置的服药提示还会不会响。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "晚餐后的药别让我忘了，按原时间提醒。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想核实眼前这袋药是不是写的我的名字。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请把现有的服药安排读给我核对一下。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "不是要调整剂量，只是问既定服药时间。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "昨天设过一次提醒，请看今天有没有保留。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我不清楚今天的药放哪一格，帮我找找。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请护理员确认这份药品是不是拿错了。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "帮我核对一下刚才有没有登记吃药。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/dose_record_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "下一次原定用药还隔多久，替我查查安排。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我刚换床位，自己的药盒找不到了。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请看看服药提醒设置有没有遗漏一顿。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "叫个人来核实我的药袋，别和邻床混了。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我是在问服药记录，不是在要饭吃。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/dose_record_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "原来的用药计划已经确定，请到点叫醒我服药。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "麻烦找到我那只带姓名贴的药盒。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "今天的服药提示是否已经启用，请检查。",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "请协助对一下药单和药袋标签是否一致。",
+    "output": "MEDICINE_REMINDER",
+    "split": "dev",
+    "family": "MEDICINE_REMINDER/identity_check",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "人呢，我摔在淋浴间了，自己爬不起来！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我突然气都喘不上来了，快来人！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "快把护理员找来，我现在胸口剧痛！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "伤口的血一直止不住，赶紧帮我求救！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我夹在床边出不来，快叫护工救一下！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "刚倒下后腿完全使不上劲，扶救我起来！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "被锁住又困在里面了，我现在很危险，来救我！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "呼吸非常困难，请立即叫人来救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我不是让人陪着走，是已经摔倒不能动了！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "喉咙卡着东西吸不了气，快点救命！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我头上摔破了正在流血，找护理员来急救！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "身体突然疼得站不住，救我，别让我一个人待着！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我被椅子压住抽不出身，马上叫人帮忙！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "胸口像压着石头又喘不上气，赶紧来人！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我现在在地板上，跌倒后没法自己起来！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "这次不是在讲过去，我现在真被困住了！",
+    "output": "SOS",
+    "split": "dev",
+    "family": "SOS/entrapment",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "快来护理员，我正受伤大量出血！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "刚刚从轮椅掉下来了，起不来，求你救我！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我现在有急事救命，喘气越来越困难！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "突然一阵很厉害的胸痛，立刻找人救助！",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "昨晚梦里有人喊救命，我现在是在讲那个梦。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我正在朗读一段被困后获救的故事。",
+    "output": "UNKNOWN",
+    "split": "dev",
+    "family": "UNKNOWN/quotation",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "水已经够喝了，现在别给我再倒。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "刚吃完一大碗饭，这会儿不需要饭菜。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "小时候我曾摔倒在河边，是很多年前的事。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "电视演员在演胸痛，不是我自己胸口疼。",
+    "output": "UNKNOWN",
+    "split": "dev",
+    "family": "UNKNOWN/quotation",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "不用检查吃药提醒，我刚刚已经核对好了。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "这道谜语有意思，你猜答案是什么？",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想问的是花名，院子里开的是哪种花？",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "如果将来有人摔倒就立即求救，我只是在举例。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "昨天去厕所的经过我还记得，今天没要求去。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "现在不用人陪，我想独自看看报纸。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "救命是书里的对白，我没有遇到现实危险。",
+    "output": "UNKNOWN",
+    "split": "dev",
+    "family": "UNKNOWN/quotation",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "药盒已经找到了，刚才的寻找请求取消。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想了解今晚会出现哪几个星座。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我刚才说饿是在讲昨天，现在已经吃饱。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "这会儿没有任何需要，护理员可以先忙。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "新闻里的老人受伤了，我是在复述新闻。",
+    "output": "UNKNOWN",
+    "split": "dev",
+    "family": "UNKNOWN/quotation",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "我想知道这个字读什么音，帮我解释读法。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "不是想请人来照顾，我只是回忆从前的护理员。",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "AI-authored synthetic; human review pending",
+    "initial_split": "dev"
+  },
+  {
+    "input": "帮我拿药",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "想去厕所有人扶吗",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "想吃面条",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "药放在哪帮我找找",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "快来救我",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "嗯",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不需要帮助",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "暂时不用调空调",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想问问怎么吃药",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "不要提醒吃药",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "谢谢你",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我儿子刚打过电话",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "快救救我",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨天去过厕所",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我喘不过气了",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "别关灯",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "唔",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "给我拿些饼干",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "晚饭送过来吧",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "急救我很难受",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "给我送点水喝",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "请帮我确认今天的药",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我要去卫生间",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我设置吃药提醒",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想喝点水",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "扶我坐起来",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "扶我去卫生间",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "今天天气不错",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想吃点东西",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "刚才有点难受现在好了",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我今天没有摔倒",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "不用送饭",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我要如厕",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "给我端碗粥",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我去洗手间",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我现在不饿",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我需要吃药",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我昨天摔倒过现在没事",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "水杯空了帮我加水",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "给我送饭",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "找个人帮我",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不渴",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我忘记吃药了",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我翻个身",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我拿点吃的",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "这杯水已经喝完了不用再倒",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我渴了",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我拿一杯水",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "来人帮我起床",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "带我去厕所",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "昨晚摔了一下现在很好",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我肚子饿",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不需要喝水",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我口渴得很",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我说的是昨天的事情",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想小便",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "倒些白开水给我",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我已经吃过药了不用提醒",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我该吃药了吗",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "扶我去解手",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我要上厕所",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "需要护理员检查我的药",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "提醒我吃药",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "准备一份早餐",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "到吃药时间叫我",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想大便",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我受伤了流血了",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "灯已经亮了不用开",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我叫护理员",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "拿点温水过来",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "有人吗紧急救助",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "晚上提醒我服药",
+    "output": "MEDICINE_REMINDER",
+    "split": "train",
+    "family": "MEDICINE_REMINDER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "叫护工过来",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "请来照顾我一下",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我需要如厕协助",
+    "output": "REQUEST_TOILET",
+    "split": "train",
+    "family": "REQUEST_TOILET/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我摔倒了",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我胸痛得厉害",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我需要帮助",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "你好",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "今天阳光真好",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我现在倒在地上动不了",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "嘴巴干想喝水",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "帮我换衣服",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "给我倒杯水",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "不要开灯",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我要喝水",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "给我转账",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我饿了",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我不想联系家人",
+    "output": "UNKNOWN",
+    "split": "train",
+    "family": "UNKNOWN/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想洗澡需要人帮忙",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我需要饮水",
+    "output": "REQUEST_WATER",
+    "split": "train",
+    "family": "REQUEST_WATER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我跌倒了快来",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "救命",
+    "output": "SOS",
+    "split": "train",
+    "family": "SOS/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我想吃午饭",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "我要吃饭",
+    "output": "REQUEST_FOOD",
+    "split": "train",
+    "family": "REQUEST_FOOD/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  },
+  {
+    "input": "叫护士帮我",
+    "output": "CALL_CAREGIVER",
+    "split": "train",
+    "family": "CALL_CAREGIVER/remaining_current_and_context",
+    "source": "legacy_AI_synthetic_deduplicated",
+    "initial_split": "train"
+  }
+]
