@@ -47,16 +47,8 @@ python reproduce_metrics.py > metrics-all.json
 python -m unittest discover -s tests -v
 ```
 
-这会从已保存的逐条预测复算成绩，不会运行模型。数据库保留14组历史比较；目前论文只取`compact_regression`协议下`base`、`v21`两种方法及`asr`、`proofread`两种输入，共四组。归档键名保持原样，`v21`对应论文中的LoRA模型。
 
-| 输入 | 方法 | Accuracy | Macro P | Macro R | Macro F1 |
-|---|---|---:|---:|---:|---:|
-| ASR | 基础模型 | 48.86 | 53.93 | 48.86 | 45.70 |
-| ASR | LoRA模型 | 98.43 | 98.58 | 98.43 | 98.50 |
-| 校对文本 | 基础模型 | 48.71 | 54.70 | 48.71 | 45.63 |
-| 校对文本 | LoRA模型 | 99.00 | 99.15 | 99.00 | 99.07 |
 
-以上数值为百分比。表3使用LoRA模型在ASR条件下的逐类指标；表4使用相应分组的SOS混淆计数。完整对应关系和数值见复现说明。
 
 ## 重新运行模型
 
@@ -74,6 +66,5 @@ python recognize.py --base "D:/models/Qwen2.5-0.5B-Instruct" --adapter "D:/model
 
 评测包含两位参与者的700条录音对应文本，七类各100条，每人每类50条。原始ASR文本与参与者校对文本使用相同录音编号和参考标签，12条转写经校正。训练和开发语料与录音评测集分开保存。
 
-公开资料不含姓名、联系方式或业务数据库。项目负责人已确认匿名转写和原始录音的公开许可。音频单独放在录音目录，不包含在SQLite中；公开音频上传进度见复现说明。
 
 源文件校验信息见`metadata/source_manifest.json`，数据库结构见`data/schema.sql`，第三方组件及使用条款见`LICENSING.md`。数据库中的历史预测和原始元数据保留用于核对。
