@@ -1,134 +1,79 @@
 # 颐声：养老护理需求意图识别
 
-颐声通过语音接收饮水、用餐、如厕、用药提醒和紧急求助等护理需求。系统使用Qwen3-ASR进行语音转写，再由经过LoRA微调的Qwen2.5-0.5B-Instruct识别当前需求，生成候选护理任务，交由护理人员确认。
+颐声将语音转写成文本，再识别饮水、用餐、如厕、呼叫护理人员、用药相关请求和紧急求助等当前需求。转写使用Qwen3-ASR，意图识别使用Qwen2.5-0.5B-Instruct及护理领域LoRA适配器，识别结果作为候选护理任务交由护理人员确认。
 
-本仓库提供论文实验相关的核心代码、提示词、训练配置和匿名评测数据，主要比较基础语言模型与LoRA微调模型在七类护理需求上的识别表现。
+仓库保存论文实验使用的核心代码、中文提示词、训练配置和匿名评测数据库。目前论文比较基础模型与LoRA模型，按ASR和参与者校对两种文本条件报告结果，共四张表。
 
-## 文件说明
+**完整流程、文件位置和运行命令见：[实验复现说明](yisheng-speech-intent/docs/实验复现说明.md)。**
 
-| 文件或目录 | 用途 |
+## 代码与数据
+
+程序位于本仓库的`yisheng-speech-intent/`子目录。运行命令前先进入该目录。
+
+| 文件 | 用途 |
 |---|---|
-| `recognize.py` | 单条文本或音频识别入口 |
-| `yisheng/models.py` | 意图模型加载与推理 |
-| `yisheng/intents.py` | 意图标签及输出解析 |
-| `yisheng/qwen_asr.py` | Qwen3-ASR语音转写 |
-| `scripts/intent_v2_research.py` | 数据检查、LoRA训练与比较评测 |
-| `reproduce_metrics.py` | 根据归档预测复算论文指标 |
-| `data/evaluation.sqlite3` | 匿名转写文本、参考标签及预测记录 |
-| `data/training/` | V2.1训练语料及训练、推理共用的中文提示词 |
-| `prompts/initial_7class.txt` | 初始实验的七分类提示词 |
-| `configs/` | 训练参数、实验协议、软件版本与模型校验信息 |
-| `tests/` | 指标复算与错误计数检查 |
+| `recognize.py` | 单条文本或音频识别 |
+| `yisheng/qwen_asr.py` | Qwen3-ASR转写 |
+| `yisheng/models.py` | 基础模型和LoRA模型的加载、推理及输出解析 |
+| `yisheng/intents.py` | 标签定义和解析规则 |
+| `scripts/intent_v2_research.py` | 已有的数据处理、LoRA训练和批量文本评测 |
+| `reproduce_metrics.py` | 从已保存预测复算论文指标 |
+| `data/training/prompt.txt` | 训练、推理共用的七类中文提示词 |
+| `data/training/dataset.json` | 371条训练样本和75条开发样本 |
+| `data/evaluation.sqlite3` | 700条匿名转写、参考标签和归档预测 |
+| `configs/` | 训练配置、实验分组、版本和模型哈希 |
+| `tests/test_reproduction.py` | 数据及计分规则检查 |
 
-数据库表结构见`data/schema.sql`，文件来源与哈希记录见`metadata/source_manifest.json`。完整网页、ESP32固件及模型权重未包含在本仓库中。
+已有代码保持原样，没有增加测试入口。完整网页、ESP32固件及模型权重不包含在本代码目录中。
 
-## 识别类别
+## 七类标签
 
-| 标签 | 统一英文名称 | 护理需求 |
+| 标签 | 英文名称 | 含义 |
 |---|---|---|
 | `REQUEST_WATER` | Drinking water | 饮水、倒水或饮水协助 |
 | `REQUEST_FOOD` | Eating | 用餐、送饭或进食协助 |
 | `REQUEST_TOILET` | Toileting | 如厕及相关协助 |
-| `CALL_CAREGIVER` | Calling a caregiver | 呼叫护理人员或一般护理协助 |
+| `CALL_CAREGIVER` | Calling a caregiver | 一般护理协助 |
 | `MEDICINE_REMINDER` | Medication-related requests | 用药提醒及原定服药安排相关请求 |
 | `SOS` | SOS | 当前紧急求助 |
-| `UNKNOWN` | UNKNOWN | 没有当前有效需求，或超出本次评测范围的表达 |
+| `UNKNOWN` | UNKNOWN | 无有效当前请求，或超出定义范围 |
 
-模型根据完整语义判断当前请求。例如，“我要吃药”表达当前需求，“我已经吃过药了”描述过去发生的事情，“现在不用吃药”则表示否定。提示词据此说明各类含义，并要求模型只输出一个标签。
+## 先核对论文成绩
 
-原型支持13种意图，论文选取上述七类进行评测。`recognize.py`输出转写文本、模型原始回答、解析标签和输出合法性检查结果。
+以下命令在代码子目录运行，只需Python标准库：
 
-## 运行环境
-
-- Python 3.10或更高版本。
-- 模型推理与训练使用PyTorch、Transformers、PEFT等依赖。
-- 本地Qwen2.5-0.5B-Instruct模型，以及需要使用的LoRA适配器。
-- 识别音频时，另需本地Qwen3-ASR-1.7B模型。
-
-实验电脑采用Intel Core i7-13700HX和NVIDIA GeForce RTX 5060 Laptop GPU（约8GB显存）。初始语言模型比较使用CPU float32，后续紧凑提示词回归比较使用GPU float16。软件版本记录在`configs/recorded_versions.json`。
-
-以下命令均在`recognize.py`所在目录运行。目前该目录位于GitHub仓库的`yisheng-speech-intent/`子文件夹中。
-
-安装模型相关依赖：
-
-```sh
-python -m pip install -r requirements.txt
-```
-
-处理音频时另行安装：
-
-```sh
-python -m pip install -r requirements-asr.txt
-```
-
-## 使用方法
-
-将命令中的`/path/to/local/...`替换为自己的模型和适配器路径。
-
-### 文本识别
-
-```sh
-python recognize.py --base /path/to/local/Qwen2.5-0.5B-Instruct --adapter /path/to/local/adapter --text "请给我倒杯水" --device cpu
-```
-
-省略`--adapter`使用基础模型；GPU推理将设备改为`--device cuda:0`。默认提示词为`data/training/prompt.txt`，也可通过`--prompt`指定其他提示词文件。
-
-### 音频识别
-
-```sh
-python recognize.py --base /path/to/local/Qwen2.5-0.5B-Instruct --adapter /path/to/local/adapter --audio /path/to/request.wav --asr-model /path/to/local/Qwen3-ASR-1.7B --device cuda:0
-```
-
-### LoRA训练
-
-```sh
-python scripts/intent_v2_research.py train --data data/training --output runs/my-v21 --base /path/to/local/Qwen2.5-0.5B-Instruct
-```
-
-V2.1使用371条合成训练样本和75条合成开发样本。训练样本由275条新编写AI合成文本和96条去重后的历史合成文本组成。训练与推理使用相同的中文提示词，仅对助手答案部分计算损失，并按合成开发集损失选择检查点。
-
-主要训练参数如下，完整记录见`configs/train_v21.json`：
-
-| 参数 | 设置 |
-|---|---|
-| LoRA rank / alpha | 8 / 16 |
-| Dropout | 0.05 |
-| Epochs | 5 |
-| Batch size | 2 |
-| 梯度累积 | 4 |
-| 学习率 | 0.0002 |
-
-训练命令不使用评测SQLite数据库进行梯度训练。适配器版本与提示词版本分别记录，初始实验和后续回归比较的配置见`configs/protocols.json`。
-
-## 实验结果
-
-数据集包含两位志愿者使用ESP32-S3连接的麦克风录制并通过Wi-Fi上传的700条语音，七类各100条，每人每类50条。音频由ESP32-S3上传至本地电脑，电脑端完成ASR转写与意图识别。实验分别使用原始ASR文本与参与者校对文本，比较转写条件对意图识别的影响。
-
-在紧凑提示词协议下，原始ASR文本的回归评估结果如下。所有数值均为百分比，P、R和F1采用七类宏平均。
-
-| 方法 | Accuracy | Macro P | Macro R | Macro F1 |
-|---|---:|---:|---:|---:|
-| 基础语言模型 | 48.86 | 53.93 | 48.86 | 45.70 |
-| 原始LoRA V1 | 81.14 | 88.40 | 81.14 | 82.07 |
-| LoRA V2.1 | 98.43 | 98.58 | 98.43 | 98.50 |
-
-V2.1正确识别689条请求，准确率比同协议下的原LoRA V1提高17.29个百分点，比基础语言模型提高49.57个百分点。使用校对文本后，正确识别693条，准确率为99.00%，宏平均F1为99.07%。对100条SOS样本，两种输入条件下均未出现漏判；原始ASR输入下出现1次误报，校对后该误报消除。
-
-### 复算指标
-
-```sh
-python reproduce_metrics.py
+```powershell
+python reproduce_metrics.py > metrics-all.json
 python -m unittest discover -s tests -v
 ```
 
-复算仅使用Python标准库，无需下载模型。脚本只读数据库，计算总体与各类指标、混淆计数和SOS误报／漏报，并核对14组归档比较。输出分数乘以100可换算为百分比。无效输出与失败样本保留为错误，宏平均固定覆盖七类，未定义分量按零处理。
+这会从已保存的逐条预测复算成绩，不会运行模型。数据库保留14组历史比较；目前论文只取`compact_regression`协议下`base`、`v21`两种方法及`asr`、`proofread`两种输入，共四组。归档键名保持原样，`v21`对应论文中的LoRA模型。
 
-数据库中的9800条预测来自同一批700条语音的14组归档比较，保留完整历史实验记录；论文选取其中10组基础语言模型与LoRA模型的比较。`initial_v1`对应论文表1—4，`compact_regression`对应表5—7；两阶段配置不同，分别报告，不能把阶段间的全部差异归因于LoRA重新训练。复用的预测已记录来源。
+| 输入 | 方法 | Accuracy | Macro P | Macro R | Macro F1 |
+|---|---|---:|---:|---:|---:|
+| ASR | 基础模型 | 48.86 | 53.93 | 48.86 | 45.70 |
+| ASR | LoRA模型 | 98.43 | 98.58 | 98.43 | 98.50 |
+| 校对文本 | 基础模型 | 48.71 | 54.70 | 48.71 | 45.63 |
+| 校对文本 | LoRA模型 | 99.00 | 99.15 | 99.00 | 99.07 |
 
-## 数据与使用说明
+以上数值为百分比。表3使用LoRA模型在ASR条件下的逐类指标；表4使用相应分组的SOS混淆计数。完整对应关系和数值见复现说明。
 
-匿名转写文本已取得参与者公开许可。公开数据保留原始ASR文本、校对文本、参考标签和模型输出，不包含原始录音、姓名、联系方式或业务数据库中的其他信息。参考标签经人工逐条核对。
+## 重新运行模型
 
+模型训练、推理依赖见`requirements.txt`，音频识别另需`requirements-asr.txt`。实验计算机为Intel Core i7-13700HX、NVIDIA GeForce RTX 5060 Laptop GPU，约8GB显存；当前论文语言模型比较使用GPU float16。
 
+单条识别示例，替换本地模型路径后运行：
 
+```powershell
+python recognize.py --base "D:/models/Qwen2.5-0.5B-Instruct" --adapter "D:/models/care-intent-adapter" --text "请给我倒杯水" --device cuda:0
+```
 
+去掉`--adapter`即使用基础模型。批量评测、原脚本兼容参数和可选训练步骤见复现说明。模型权重尚未包含在仓库；只有代码时可以复算指标，重新运行论文适配器还需要相应权重。
+
+## 数据说明
+
+评测包含两位参与者的700条录音对应文本，七类各100条，每人每类50条。原始ASR文本与参与者校对文本使用相同录音编号和参考标签，12条转写经校正。训练和开发语料与录音评测集分开保存。
+
+公开资料不含姓名、联系方式或业务数据库。项目负责人已确认匿名转写和原始录音的公开许可。音频单独放在录音目录，不包含在SQLite中；公开音频上传进度见复现说明。
+
+源文件校验信息见`metadata/source_manifest.json`，数据库结构见`data/schema.sql`，第三方组件及使用条款见`LICENSING.md`。数据库中的历史预测和原始元数据保留用于核对。
