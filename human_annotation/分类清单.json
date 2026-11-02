@@ -1,0 +1,4202 @@
+[
+  {
+    "utterance_id": "utt-0001",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0001.mp4",
+    "sha256": "b08abdff357f3e8a5e859f0aad6f3915e76e979999229fecf5c9e84638b01b97"
+  },
+  {
+    "utterance_id": "utt-0002",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0002.mp4",
+    "sha256": "ffb59f114cfca0f3ae32d5ec0ae15d5e19559ed9efa92ddae7ea54a593625d42"
+  },
+  {
+    "utterance_id": "utt-0003",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0003.mp4",
+    "sha256": "f4e5ea6e94c5f6be6fa39f5cb0dbed4f985d7d1e21da31c2d5ce2c7ca7748b20"
+  },
+  {
+    "utterance_id": "utt-0004",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0004.mp4",
+    "sha256": "9b2e848f3467d33f04a3e8dc35f3a634dca641c96b22cd0bef25a47c300f124e"
+  },
+  {
+    "utterance_id": "utt-0005",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0005.mp4",
+    "sha256": "e1c9081e0460cf19e2b764df65a137166ca71de784e28e598a7373375b5a49c5"
+  },
+  {
+    "utterance_id": "utt-0006",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0006.mp4",
+    "sha256": "2198e6f9f4eca4f1741ceac2a66c6ac1261f264c229d7f7b4a28b9c2d876720b"
+  },
+  {
+    "utterance_id": "utt-0007",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0007.mp4",
+    "sha256": "eb16fd19dc7fcf8c151cd6c4189cec2141f6c0528dd51ed65fa1a54aa24daca3"
+  },
+  {
+    "utterance_id": "utt-0008",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0008.mp4",
+    "sha256": "cc071ea27b0574514dff28037b4c569b28cb4785d7668a6bb3ae88237bf576b5"
+  },
+  {
+    "utterance_id": "utt-0009",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0009.mp4",
+    "sha256": "44f25b39579bfb0f7b81e81a7101d50611bcaf05f170160361509b916ed56323"
+  },
+  {
+    "utterance_id": "utt-0010",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0010.mp4",
+    "sha256": "2f0cc16c479bede82bf0b0333a2c18cc465abc6b163d3eced66ac8b71d3cab2f"
+  },
+  {
+    "utterance_id": "utt-0011",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0011.mp4",
+    "sha256": "331171e535b8e09758a6191eaf6a153586f45f3d02340d2beef0f57eb5da0352"
+  },
+  {
+    "utterance_id": "utt-0012",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0012.mp4",
+    "sha256": "c9b88a3a0474df32619b9bdc868e65b240d923a9eeb92631d0d7bdd962587cfa"
+  },
+  {
+    "utterance_id": "utt-0013",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0013.mp4",
+    "sha256": "16a1790aa705fa23df698229df85d5fb32691c656b57bb257c0b89e0c7a8d281"
+  },
+  {
+    "utterance_id": "utt-0014",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0014.mp4",
+    "sha256": "d1de00a32daa3b528737f1470f90c33cea5d6a21ebab6e4acd75e170c88b9426"
+  },
+  {
+    "utterance_id": "utt-0015",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0015.mp4",
+    "sha256": "798bf7e2466a9b70095146ea53d05a080b1ad4765e2debd349be81258482f1e0"
+  },
+  {
+    "utterance_id": "utt-0016",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0016.mp4",
+    "sha256": "77d98eec57755cd1abdbd00b783b48a78aaebe619886649172679e8962ba7b91"
+  },
+  {
+    "utterance_id": "utt-0017",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0017.mp4",
+    "sha256": "07008733f11cdbf69db813f152fe1eb71d2b3e34ec7050a3461589236630bcb4"
+  },
+  {
+    "utterance_id": "utt-0018",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0018.mp4",
+    "sha256": "fc65b14556cc8a2416c5b3c7b97688308fd628567aa5b049c5ba08e0ca1e5ffb"
+  },
+  {
+    "utterance_id": "utt-0019",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0019.mp4",
+    "sha256": "4492ba67d93a12148f7fade4e0c291b45953355238248cc1d9a84bb0477b3783"
+  },
+  {
+    "utterance_id": "utt-0020",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0020.mp4",
+    "sha256": "57e6d1ef749526eec66c0866b3677f38943448f2d13700235a30deff1c57c7ba"
+  },
+  {
+    "utterance_id": "utt-0021",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0021.mp4",
+    "sha256": "9b8bf771b69056e52579a893f7e9ea396c9c7663d8d1213f9caeb5a96bd73054"
+  },
+  {
+    "utterance_id": "utt-0022",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0022.mp4",
+    "sha256": "970a910f7d5c010be54db45ae39f40f20ae29e3e0dd32cb8af86b1b80f2a27ad"
+  },
+  {
+    "utterance_id": "utt-0023",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0023.mp4",
+    "sha256": "9eba82633c66852ec8f0a8bedfa9a40c1b1fd5f775c9530747b54d5438f77547"
+  },
+  {
+    "utterance_id": "utt-0024",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0024.mp4",
+    "sha256": "d7a0c53b2d7f06bdad771f4fdf97737fb10762155146f2dd96415378425f0df7"
+  },
+  {
+    "utterance_id": "utt-0025",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0025.mp4",
+    "sha256": "a48375262b6cd58685f334f3aaec35ce734fc2450a495862a8c4b15dae09e1f1"
+  },
+  {
+    "utterance_id": "utt-0026",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0026.mp4",
+    "sha256": "f5a14636a712d23b14ae1283cea214934bc63812f84915d1804a6940d649a306"
+  },
+  {
+    "utterance_id": "utt-0027",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0027.mp4",
+    "sha256": "ce7063bad777f86312eea3190b0a86c96edb31f2ed2ffd12df4f993659024958"
+  },
+  {
+    "utterance_id": "utt-0028",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0028.mp4",
+    "sha256": "0be72dac88cb08a90daa051cb92c4c6b9d6c35d7a3b88a748eba0eb7a4832256"
+  },
+  {
+    "utterance_id": "utt-0029",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0029.mp4",
+    "sha256": "ee9304abbef2e5aa7a85613b1ee7fc76684720c442a60cae21e3fb13feee4744"
+  },
+  {
+    "utterance_id": "utt-0030",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0030.mp4",
+    "sha256": "9e9dd05243d67fd80954651d7e512ed6cb68a2b89a32d729d0e008b185df5c43"
+  },
+  {
+    "utterance_id": "utt-0031",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0031.mp4",
+    "sha256": "dc1608cbecbe7a46726d6ee1546528c44a35c90ebebe9310a1d6faa92a028f59"
+  },
+  {
+    "utterance_id": "utt-0032",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0032.mp4",
+    "sha256": "f6250e227844ae989ff0952f926484e8e8033b7127790cfe92878d1dd7e5ed88"
+  },
+  {
+    "utterance_id": "utt-0033",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0033.mp4",
+    "sha256": "b00364610c82778af58c2cdf6ee8e3db97b63aca4d7d8a787d40959e9584bba9"
+  },
+  {
+    "utterance_id": "utt-0034",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0034.mp4",
+    "sha256": "06afe89f2bfd805456e66fa9df79705939cdd31bc9671b31ecb11f5a32d58140"
+  },
+  {
+    "utterance_id": "utt-0035",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0035.mp4",
+    "sha256": "6d071da96571ada104d1675d55995e56b07b3928e76440cba0043bd01eea1f45"
+  },
+  {
+    "utterance_id": "utt-0036",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0036.mp4",
+    "sha256": "b6f3ce03ffef77ca10a42de84eabcd600a5d3147d2a26fc8466ba26970cd49cd"
+  },
+  {
+    "utterance_id": "utt-0037",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0037.mp4",
+    "sha256": "794d510d40fa57dac517849d5209bfe7e601b0efa9c7b9b66b8e417c968703c7"
+  },
+  {
+    "utterance_id": "utt-0038",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0038.mp4",
+    "sha256": "c12e38be52d0383fe10655137812e9945d8fa34ad400864b1872e668fd0a6074"
+  },
+  {
+    "utterance_id": "utt-0039",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0039.mp4",
+    "sha256": "7066f74f63760a847a40cf4b98f2cd447301c87a367411d37b036fbd83afed57"
+  },
+  {
+    "utterance_id": "utt-0040",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0040.mp4",
+    "sha256": "96737276dae7377162c0cf2190ae9d379b18474c3ff528a5d5313017157616c0"
+  },
+  {
+    "utterance_id": "utt-0041",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0041.mp4",
+    "sha256": "0384f6c6c76c904bdd67024f308a9e48b570af1c7dcafe672864a54fbb4c0487"
+  },
+  {
+    "utterance_id": "utt-0042",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0042.mp4",
+    "sha256": "9acc74b9b6ba2617f4df5379423d49c3d80f22555a6749fb884906ad3cb32a6d"
+  },
+  {
+    "utterance_id": "utt-0043",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0043.mp4",
+    "sha256": "a4754585b6966d386f0d26a0cb9cb514d040889e0c94d2c46bdaa47360a0f6c1"
+  },
+  {
+    "utterance_id": "utt-0044",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0044.mp4",
+    "sha256": "28bbdb7397f31c2ea0a7d137ac7bc040bf09923b58e6c5b7506090a07c05165e"
+  },
+  {
+    "utterance_id": "utt-0045",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0045.mp4",
+    "sha256": "55f138a99833a10d42c6c0a3149a4f727d59540a2ff49c1d117feb625c773595"
+  },
+  {
+    "utterance_id": "utt-0046",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0046.mp4",
+    "sha256": "0d2baa3edd33de3a7d16b452b6e599c0d9cf7e01cd7874b7fba6d2837c46b31f"
+  },
+  {
+    "utterance_id": "utt-0047",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0047.mp4",
+    "sha256": "0457d6743a7c87a6936fd07ad1e9466818debb9512f496e042000221e6a7899d"
+  },
+  {
+    "utterance_id": "utt-0048",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0048.mp4",
+    "sha256": "9c63e78b02eb432a5e9f83560c5b9a235e18109b81150bc651f5a3a6a87725ee"
+  },
+  {
+    "utterance_id": "utt-0049",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0049.mp4",
+    "sha256": "a8e510ea9a609e5629e7307cb78b92bf6d00b644b3a436b1178fac14d323ecb5"
+  },
+  {
+    "utterance_id": "utt-0050",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0050.mp4",
+    "sha256": "66b336ea96dcf9c0c681e26b76db133d29b676111459c759274d342d9ca04523"
+  },
+  {
+    "utterance_id": "utt-0051",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0051.mp4",
+    "sha256": "4e9af3e9564ec4b3d031c3b86e36f508c6f783837c4f2db739bf52349dd7b112"
+  },
+  {
+    "utterance_id": "utt-0052",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0052.mp4",
+    "sha256": "a4c52af94855007e1e7975995999263c1b469e5d28a52669d1eff11eb8f8203d"
+  },
+  {
+    "utterance_id": "utt-0053",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0053.mp4",
+    "sha256": "38fea899ade86bc150c79fb72bdd216e2c23d788f57f4c7baff83e2dcad24041"
+  },
+  {
+    "utterance_id": "utt-0054",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0054.mp4",
+    "sha256": "64884047300d78ca1cd7c9e0f2095f24c1df661b159dd01d07a9c782576e26e0"
+  },
+  {
+    "utterance_id": "utt-0055",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0055.mp4",
+    "sha256": "415828f403f40f13c90b7a77ca8b7f3703e533edc281ad81922de8f92a702c9b"
+  },
+  {
+    "utterance_id": "utt-0056",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0056.mp4",
+    "sha256": "e9e5e697e001c66147a867c8acac1057b0bb2d41294e32965390b5342e50b892"
+  },
+  {
+    "utterance_id": "utt-0057",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0057.mp4",
+    "sha256": "98cb4b12597e7b1670ded8441c7a4a08d93b6e77ab60f275091da5cec1d28879"
+  },
+  {
+    "utterance_id": "utt-0058",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0058.mp4",
+    "sha256": "709eab97095172845e0d0aedc7b0573e87ddf299c620c0b73d9c7cb0646d1269"
+  },
+  {
+    "utterance_id": "utt-0059",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0059.mp4",
+    "sha256": "12f2a41eedb92f5993c8f2c512614e63fc07b0dd2d5ef4b3ac65d0785216e97c"
+  },
+  {
+    "utterance_id": "utt-0060",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0060.mp4",
+    "sha256": "82703820bd61fab5cd659f2622ebda3f6e87e8005a0da417d73ca3711eccb99f"
+  },
+  {
+    "utterance_id": "utt-0061",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0061.mp4",
+    "sha256": "f52c2bb00095b55a1b6bae9c72fe13346164373c5ae90f86ef9e12cd928a9394"
+  },
+  {
+    "utterance_id": "utt-0062",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0062.mp4",
+    "sha256": "cadf135999134e2713b7d4d91e59997a2c31f42ec311f86574a889827f5fab8d"
+  },
+  {
+    "utterance_id": "utt-0063",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0063.mp4",
+    "sha256": "1bd24490300195a40948e1d1f4db7d42ec71eddb0a86dfc8e8dd0b9f82eedda6"
+  },
+  {
+    "utterance_id": "utt-0064",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0064.mp4",
+    "sha256": "3a7aa2a2aacb5396e5862eafae1b3d51b7bbe0bc5e59df36b532110c602e4fda"
+  },
+  {
+    "utterance_id": "utt-0065",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0065.mp4",
+    "sha256": "87874accdba028bfb3872250dc43b5641bdd2fe2d48ff855b8ff5adb4c0c816f"
+  },
+  {
+    "utterance_id": "utt-0066",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0066.mp4",
+    "sha256": "5d0e8b4ac8263ae27750259629090e5624989ab0b4e5cbc49a1f8ac27c8c9ee5"
+  },
+  {
+    "utterance_id": "utt-0067",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0067.mp4",
+    "sha256": "bed63e2db0a9ee239152f8d8dd3f5f7225251f346e0c5ff7021b42266b408468"
+  },
+  {
+    "utterance_id": "utt-0068",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0068.mp4",
+    "sha256": "354c20eee1a314e283d0e781f507476de2e44c1f8ad9685fb6ba0191b2a1359c"
+  },
+  {
+    "utterance_id": "utt-0069",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0069.mp4",
+    "sha256": "3411a212168de7afe677092aa72f677fd92b53ae5bff5d35c1e7ae042a06b1ed"
+  },
+  {
+    "utterance_id": "utt-0070",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0070.mp4",
+    "sha256": "c25cf77d6c93b75cd8224f8931a7b08ec219eb704c8b3caa80d32f175cf7a8a9"
+  },
+  {
+    "utterance_id": "utt-0071",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0071.mp4",
+    "sha256": "657701a137f7dd4b201a1e55bc73242232cb02e30ffcf1bc88d8a436df631e25"
+  },
+  {
+    "utterance_id": "utt-0072",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0072.mp4",
+    "sha256": "39638b036abaec9eba6ad1479d62da020c0fd317daf2c7f291a6400a46bfc14e"
+  },
+  {
+    "utterance_id": "utt-0073",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0073.mp4",
+    "sha256": "d6957c67006e1e72dca33d29d6a0dbc16476efcc7ce6ca3ccf0ce816f5119684"
+  },
+  {
+    "utterance_id": "utt-0074",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0074.mp4",
+    "sha256": "c29d2f36cdb2cf1c792215cfadec5c51ae4252d8c4a9a4289e3980a4eb310988"
+  },
+  {
+    "utterance_id": "utt-0075",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0075.mp4",
+    "sha256": "59a6603be835a484a5ed888e9ef3d8776b40fd7cb391009cfa35fc33ce8b077a"
+  },
+  {
+    "utterance_id": "utt-0076",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0076.mp4",
+    "sha256": "f14b111b2b918afb3f974e9d836df0aa33debb58c2c38ebfbb0059bd047e6eb4"
+  },
+  {
+    "utterance_id": "utt-0077",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0077.mp4",
+    "sha256": "bccf6a347034f92387f66b9b522dcbd689ad02820f96cada4c67816fa305e368"
+  },
+  {
+    "utterance_id": "utt-0078",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0078.mp4",
+    "sha256": "20c45d6ed03f6663c84f2a442294004a1a69b231bf7ab823d1c5d57dbaa03faf"
+  },
+  {
+    "utterance_id": "utt-0079",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0079.mp4",
+    "sha256": "a9c10953020bdf57bfa69064f74b94b21924e9a26832582ad37923e80509d87b"
+  },
+  {
+    "utterance_id": "utt-0080",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0080.mp4",
+    "sha256": "f30db5d161201845f17d9474c3ceadec2f32534205dd55c389dbc1268865f43a"
+  },
+  {
+    "utterance_id": "utt-0081",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0081.mp4",
+    "sha256": "6cc713f6e544ad452d67a18c9985d42a2e29235e5bf15f3ffc502b5d8a771770"
+  },
+  {
+    "utterance_id": "utt-0082",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0082.mp4",
+    "sha256": "a697bd86eb28e54b950dd4225b7fb33f59470e52f2fffc2ca2ae512fc06403de"
+  },
+  {
+    "utterance_id": "utt-0083",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0083.mp4",
+    "sha256": "f6a7addae1dd1acf39cbd4d8e8eea7f3e09cd8989957a07abf5cdd44ee24dd4c"
+  },
+  {
+    "utterance_id": "utt-0084",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0084.mp4",
+    "sha256": "e8eaa1c9bfad03b4062881b51acbda14836d589e9b38211c68a5ff21ad414b7e"
+  },
+  {
+    "utterance_id": "utt-0085",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0085.mp4",
+    "sha256": "fb6e951267c422d19607b24a016f400e4e4f5ca46cceec35f1cfc14068a6a204"
+  },
+  {
+    "utterance_id": "utt-0086",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0086.mp4",
+    "sha256": "fdb91ba05b4abd998b133adf9b32801839cb7f574793b30022da0eb2d8607b47"
+  },
+  {
+    "utterance_id": "utt-0087",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0087.mp4",
+    "sha256": "f812bcafb3b529f6ca15fe288d8da89814bd7f025a7a975376b11c211766bb09"
+  },
+  {
+    "utterance_id": "utt-0088",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0088.mp4",
+    "sha256": "54625549ba2e17c8088c76794b8ece9ec83234021472b4f19a610f4a1e430b32"
+  },
+  {
+    "utterance_id": "utt-0089",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0089.mp4",
+    "sha256": "13e81f6460ec9781d30bda2045688e55ada88935e274e2adf2556d747570d782"
+  },
+  {
+    "utterance_id": "utt-0090",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0090.mp4",
+    "sha256": "0cb1ac48bfdab4c9e7fa53bc266318f3f461d14e6c50a265ff1daafbf4b7940e"
+  },
+  {
+    "utterance_id": "utt-0091",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0091.mp4",
+    "sha256": "9ccb001f5fd0c0e01ed84d6335f0b04b51758405ba24d9a4192a4b6b3a1e1abf"
+  },
+  {
+    "utterance_id": "utt-0092",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0092.mp4",
+    "sha256": "6062797f1cf9abc3622139491c7d4590872d539e618e558cf293052eb960276a"
+  },
+  {
+    "utterance_id": "utt-0093",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0093.mp4",
+    "sha256": "f1dbee3ff95d3289de81b94c376252401bae935bd13afdbc7f2bf12f29ad6352"
+  },
+  {
+    "utterance_id": "utt-0094",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0094.mp4",
+    "sha256": "4be38553ade8a7bed6613494a146a794be38b18fbc86851bfdb2e618479c0176"
+  },
+  {
+    "utterance_id": "utt-0095",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0095.mp4",
+    "sha256": "700a6aa96d44c618a92684d887e5af109692d92264b818b8c3696e4e351061e9"
+  },
+  {
+    "utterance_id": "utt-0096",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0096.mp4",
+    "sha256": "d92e23992c000cad0408f31a5ef55e4e171f844ed9a87c2219447634d3549611"
+  },
+  {
+    "utterance_id": "utt-0097",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0097.mp4",
+    "sha256": "a3dc26241aac4a4ca7032e05af93179827da4b7ccb31dec0b985e920ac58e61b"
+  },
+  {
+    "utterance_id": "utt-0098",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0098.mp4",
+    "sha256": "989468f966a2fdfedc0fd95b22b46dd3ee6120253ac15d00d4546800364926a1"
+  },
+  {
+    "utterance_id": "utt-0099",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0099.mp4",
+    "sha256": "7c86cec2a7af52f2bb975509b4be73bfc92944d615d2aefaca5b2789c6932ad0"
+  },
+  {
+    "utterance_id": "utt-0100",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0100.mp4",
+    "sha256": "76708bd730ad275088a6689bbccfa0cb7fedc9c507aa660af0a8422d1755d75a"
+  },
+  {
+    "utterance_id": "utt-0101",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0101.mp4",
+    "sha256": "5f767adf66c20c664a07918b16bedc78ece4e65502197937a0b1a7e47ffdb9c3"
+  },
+  {
+    "utterance_id": "utt-0102",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0102.mp4",
+    "sha256": "3f08d1b67ff4aca2febed5efb258b15cdbda45c4c469b897ba78c1b2ef207a50"
+  },
+  {
+    "utterance_id": "utt-0103",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0103.mp4",
+    "sha256": "1c9874b0aa6f47e489d2f4eef50758c684dbbeeb3e0aced51e454c190e3165b0"
+  },
+  {
+    "utterance_id": "utt-0104",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0104.mp4",
+    "sha256": "03f775cf52b8925ef7728549c92fed66b2f4e8bdf898273d604951a951e14752"
+  },
+  {
+    "utterance_id": "utt-0105",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0105.mp4",
+    "sha256": "3f285bd45031a0bfef978b042128d05c35970286569227ccfe61abd3edb50f47"
+  },
+  {
+    "utterance_id": "utt-0106",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0106.mp4",
+    "sha256": "644bc9e115d59d0883af944b276f0a07073efca52091893a8c6cc2521510e7d6"
+  },
+  {
+    "utterance_id": "utt-0107",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0107.mp4",
+    "sha256": "3f3e87314bad2bd2292e1b96cb6bbd347b379c8bb3411243d6a7d396264d4131"
+  },
+  {
+    "utterance_id": "utt-0108",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0108.mp4",
+    "sha256": "d1aae7c49698aa083663b8f7b05c5115f5858893549081f09869312a6c54f835"
+  },
+  {
+    "utterance_id": "utt-0109",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0109.mp4",
+    "sha256": "67eddd3bce509d6ad099d67cec64cabe6fc970335c3b5753b9017f90480c88af"
+  },
+  {
+    "utterance_id": "utt-0110",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0110.mp4",
+    "sha256": "4f19083a65c2c5e54ce27c29dcd81e02814524428d53f67f69d633b9c69003dc"
+  },
+  {
+    "utterance_id": "utt-0111",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0111.mp4",
+    "sha256": "c3b716ef524c1208090bd661e63ac9a5b103e8c5e8100611e354e839e8ac0746"
+  },
+  {
+    "utterance_id": "utt-0112",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0112.mp4",
+    "sha256": "92258780988bc63ca002cb7149021a2247826dfebcb84a56155aef38feb4bfc6"
+  },
+  {
+    "utterance_id": "utt-0113",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0113.mp4",
+    "sha256": "aeea8f9d3aa2e680137703091aad14258f6de6723ec0b2bf45677909bdbe1a0c"
+  },
+  {
+    "utterance_id": "utt-0114",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0114.mp4",
+    "sha256": "55cbbd3dd39ac0a33406363b2608e3a031b32118df818b5bba1da00e234afd2c"
+  },
+  {
+    "utterance_id": "utt-0115",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0115.mp4",
+    "sha256": "0ed0cc8be9a398341c0d48f2b53e56cb0abb772dd703a0b00024e9d130098810"
+  },
+  {
+    "utterance_id": "utt-0116",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0116.mp4",
+    "sha256": "476d79843c02099b81e21d1ec2ff0507888c6bfa547b5a6da7148deebda646c9"
+  },
+  {
+    "utterance_id": "utt-0117",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0117.mp4",
+    "sha256": "f1a819b1e3ca1e4064cb7614fa631bef29385c717f6abf3fe076496d4da594a6"
+  },
+  {
+    "utterance_id": "utt-0118",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0118.mp4",
+    "sha256": "11e1f83719a0a650c3cb95c98a2b2d0947141fd308b1f082156f05b7b69fe2d3"
+  },
+  {
+    "utterance_id": "utt-0119",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0119.mp4",
+    "sha256": "fe3d52f65552db729bde8ea6c2d64d132c77b5ec7bd83a5c7a1dcbcfada6cd87"
+  },
+  {
+    "utterance_id": "utt-0120",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0120.mp4",
+    "sha256": "19fcd242046b4182544be2fe8146ba1116e7160e0dedde633f8c61773dccf796"
+  },
+  {
+    "utterance_id": "utt-0121",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0121.mp4",
+    "sha256": "6aa64cdb7a2bbe2852da3b1483e997903ec8c78c212b7cfc1c4949fac89b4942"
+  },
+  {
+    "utterance_id": "utt-0122",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0122.mp4",
+    "sha256": "bf9221afb382443d7a95dda24815718938e5220702beadcf0128a93c03dad321"
+  },
+  {
+    "utterance_id": "utt-0123",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0123.mp4",
+    "sha256": "8a1bc9162b49ee8224b3456a9fcd5e4ca387d3c912c36b706689a3b3327d8bfd"
+  },
+  {
+    "utterance_id": "utt-0124",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0124.mp4",
+    "sha256": "957ad1bd2f5b4a7e514c87dcacc20477b29d59d0342f4d8b3497cb0ce5c0fa79"
+  },
+  {
+    "utterance_id": "utt-0125",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0125.mp4",
+    "sha256": "da8dc31c3243e714f13a51334715b7fff7b4f0b1790a518cc29ccb13813f78fd"
+  },
+  {
+    "utterance_id": "utt-0126",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0126.mp4",
+    "sha256": "ad2e785373b1ea2ccbe2782e037c1737e76d8db61f9b7748611f7d9bb71febb9"
+  },
+  {
+    "utterance_id": "utt-0127",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0127.mp4",
+    "sha256": "efb391e5b0b5727724e2a339544f686e52bf515817b81e256be759cb62fe2d19"
+  },
+  {
+    "utterance_id": "utt-0128",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0128.mp4",
+    "sha256": "1314db97ffb4d4700b396640f6cb8f138bf94392198fb0c499938c1a71cf65ec"
+  },
+  {
+    "utterance_id": "utt-0129",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0129.mp4",
+    "sha256": "1505a81b930277a0341bf7e5d43f4d834c0f01f93e0fe9277d94dd7723ae80d2"
+  },
+  {
+    "utterance_id": "utt-0130",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0130.mp4",
+    "sha256": "e7e342153d69fa2c687e7a61febed67f76378055c329470a3e530be6177ab050"
+  },
+  {
+    "utterance_id": "utt-0131",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0131.mp4",
+    "sha256": "6e8afaac8b1c91966a855e014694c71ccbfcdb35cb285eca5c11e1acbdce560b"
+  },
+  {
+    "utterance_id": "utt-0132",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0132.mp4",
+    "sha256": "66bf8f1095159d60b005dae8465add47a0ea5b4e1d326b72c3fd5b8f223c2ce6"
+  },
+  {
+    "utterance_id": "utt-0133",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0133.mp4",
+    "sha256": "5b1a92ac4ce78309a89028e23fd6426f8cf651635eb007175c9b377fc107e336"
+  },
+  {
+    "utterance_id": "utt-0134",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0134.mp4",
+    "sha256": "8ede565d5323d5ccf33171c3e0921180a5dfcf4d4f9a6dd16496ddf5ca0e9241"
+  },
+  {
+    "utterance_id": "utt-0135",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0135.mp4",
+    "sha256": "716ff0c717a32fe21ad7fc9c1e434adea4558294107034efa58890672d7b480c"
+  },
+  {
+    "utterance_id": "utt-0136",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0136.mp4",
+    "sha256": "1b068c6767d71a9402341a00aedc86c21f0b54ae5f5b1988c7bf7ca330a8aa94"
+  },
+  {
+    "utterance_id": "utt-0137",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0137.mp4",
+    "sha256": "c45b341a62a38e47111724d2937be1ea568eab7dfe2cae5f9e2d9396f480cba0"
+  },
+  {
+    "utterance_id": "utt-0138",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0138.mp4",
+    "sha256": "a861ce226a553597824f2da62d1bb2c30eb6bf344ce0020a5c92db17b68d6d4b"
+  },
+  {
+    "utterance_id": "utt-0139",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0139.mp4",
+    "sha256": "59dc2823e0c6e80452847db7f5e45ad77ac1293976208a2fca887a5280f8cc1f"
+  },
+  {
+    "utterance_id": "utt-0140",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0140.mp4",
+    "sha256": "7e5e4328e3387c98ad93d9e31b1fdef6f35fff805579f6ef29599374b888d720"
+  },
+  {
+    "utterance_id": "utt-0141",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0141.mp4",
+    "sha256": "7494a897c05e5c003cf0a55c6ee6d2cca7f3b45d734fb4e7df26bbcf53195475"
+  },
+  {
+    "utterance_id": "utt-0142",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0142.mp4",
+    "sha256": "27c3ecda84e6778dbd7f9bef3f8de6b51b85c6d66031c6bd90b48eb7354796d3"
+  },
+  {
+    "utterance_id": "utt-0143",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0143.mp4",
+    "sha256": "f41c1aa36edc854b26f129e79c3e3e360ff7a9c2b1bbd40ddb05bb93cd648ae7"
+  },
+  {
+    "utterance_id": "utt-0144",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0144.mp4",
+    "sha256": "d3ee91dc202e06dda0e4f189860eb0dbe39e646d0fdc763f85abce94943fce58"
+  },
+  {
+    "utterance_id": "utt-0145",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0145.mp4",
+    "sha256": "b5da066c78051b2707ade3ddf0bb3616e3852eead21ca0f56051b8a86d45e7ab"
+  },
+  {
+    "utterance_id": "utt-0146",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0146.mp4",
+    "sha256": "6c9af5f16e7c7e25122f093c36bbcd82d66a2eb7f0d36c25b115c55461de8e02"
+  },
+  {
+    "utterance_id": "utt-0147",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0147.mp4",
+    "sha256": "c44f23447a640f5a53e30e010920ea469c418c457c3feb29ee265b723ae97f8d"
+  },
+  {
+    "utterance_id": "utt-0148",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0148.mp4",
+    "sha256": "6e5ea1989b02593abcac05aad80bcec82b3deed3979fa1447a327fc171a9e679"
+  },
+  {
+    "utterance_id": "utt-0149",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0149.mp4",
+    "sha256": "b7e9f36bdd2ac0adde9cf6d5509f2aac76885f3bb6d7bb3d0b186bf4a3f76931"
+  },
+  {
+    "utterance_id": "utt-0150",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0150.mp4",
+    "sha256": "e4f5aed55f172ee31f8c6e4b0dfd21a0d6cfefbf0da8bd42661c444e8bf330bc"
+  },
+  {
+    "utterance_id": "utt-0151",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0151.mp4",
+    "sha256": "c43bda2ff8b5030adf76120291d47415c6b9a2e6224312f3e7e39c7369dd684d"
+  },
+  {
+    "utterance_id": "utt-0152",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0152.mp4",
+    "sha256": "34fa7aa2ec85b907339b19cf062364388ab441d80efffa1ceb58818b9e4cdb86"
+  },
+  {
+    "utterance_id": "utt-0153",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0153.mp4",
+    "sha256": "c1bbae59c1cc1cfa4b06ba81ae3da92dcf03875fa7258e96854404beb88565cf"
+  },
+  {
+    "utterance_id": "utt-0154",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0154.mp4",
+    "sha256": "893b2203d7afec695599b3cbd91dd6a2c6573542739c730d1975068c8b209069"
+  },
+  {
+    "utterance_id": "utt-0155",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0155.mp4",
+    "sha256": "db986703eef5d33f3a59bc16e286b3e2bc060fbd6931472471aabaec748905de"
+  },
+  {
+    "utterance_id": "utt-0156",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0156.mp4",
+    "sha256": "fa225d59e5a55753802426bcd173fc4d7b068e4a1adc56bf33b145bf194b519b"
+  },
+  {
+    "utterance_id": "utt-0157",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0157.mp4",
+    "sha256": "2d3dfc7cff667979c1b1759e233066e4483e7dd466481690e5eea7e66c013756"
+  },
+  {
+    "utterance_id": "utt-0158",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0158.mp4",
+    "sha256": "f7b5ffb5071f3b12f3a03ee8a5be12aff727d692a95a2ba122535d0207f965e3"
+  },
+  {
+    "utterance_id": "utt-0159",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0159.mp4",
+    "sha256": "93bfd027f2a08951fc1d1ab27c850c2f2512fdd860b03d0dca402f1eded0a45f"
+  },
+  {
+    "utterance_id": "utt-0160",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0160.mp4",
+    "sha256": "0284125e5b9ad5ad8124ea126d91e48d4720b8f6608e299c2e5c7eb465c1e2ce"
+  },
+  {
+    "utterance_id": "utt-0161",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0161.mp4",
+    "sha256": "48ed3b1074a1a72c1db750fa793c70523fa6f14a3c962fb6f7a4f2a2f72d33cc"
+  },
+  {
+    "utterance_id": "utt-0162",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0162.mp4",
+    "sha256": "9d44d74d70cfa78039c16b0a433da2d49cd04e5b37ab7876dd21ca8a1fe88fdc"
+  },
+  {
+    "utterance_id": "utt-0163",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0163.mp4",
+    "sha256": "5d1e215f22d9c468bf5c089650912e0a095127d88da6fde3cd86f45875efa529"
+  },
+  {
+    "utterance_id": "utt-0164",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0164.mp4",
+    "sha256": "df100daa6436c696373d1c5cdc486f2a97cfe2cb4c820a28917d67f4fee04688"
+  },
+  {
+    "utterance_id": "utt-0165",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0165.mp4",
+    "sha256": "032df4383d95076a3bde4e2c8a93e6a90d1138706cd67eeba55e601653aa7611"
+  },
+  {
+    "utterance_id": "utt-0166",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0166.mp4",
+    "sha256": "91c140c92fc3e4219a6b4d1174cc544ef50c29022d0bff0136b58d55cf0c8930"
+  },
+  {
+    "utterance_id": "utt-0167",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0167.mp4",
+    "sha256": "0aa4411f28af6e92084c9c72dcb7fabe0e54932bb9075609b2bc998e021cc4ac"
+  },
+  {
+    "utterance_id": "utt-0168",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0168.mp4",
+    "sha256": "0c7471bfe9a3e6e4b609440703cc1f53ff40e772b9cb9483766b9b90b1ef9823"
+  },
+  {
+    "utterance_id": "utt-0169",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0169.mp4",
+    "sha256": "90c4f724cec61a992e70912d1967c4d9b0b26b3a75125849f8dbeda04039c953"
+  },
+  {
+    "utterance_id": "utt-0170",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0170.mp4",
+    "sha256": "c3ed8eb370814e56374e0ac5f123eef23582b213af1fddf4790ec0006e34a5e6"
+  },
+  {
+    "utterance_id": "utt-0171",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0171.mp4",
+    "sha256": "c13863ec9168b50d2e8cb26194badc27226bf4077cd992a02bce6065e707d50b"
+  },
+  {
+    "utterance_id": "utt-0172",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0172.mp4",
+    "sha256": "e18be96bd8170f8b316e9a52537aac93cad0f78f630fb21b025caafb8e4ded81"
+  },
+  {
+    "utterance_id": "utt-0173",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0173.mp4",
+    "sha256": "982318ddbffad91972fecac24dfeb01a8768d19c3b84665ef8b6e0d1eab7f061"
+  },
+  {
+    "utterance_id": "utt-0174",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0174.mp4",
+    "sha256": "bb795435739f89507228e853cdbad187f912f3c6cdc08e7d05a23a1ebb0176e6"
+  },
+  {
+    "utterance_id": "utt-0175",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0175.mp4",
+    "sha256": "745f00b41ec114ebb8beda8b2846903cdf29502392289311d29ca1848d8c4663"
+  },
+  {
+    "utterance_id": "utt-0176",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0176.mp4",
+    "sha256": "a2a292791b1d5afff148715f82a6de30cef74d38231931a10d8100c89a1d2663"
+  },
+  {
+    "utterance_id": "utt-0177",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0177.mp4",
+    "sha256": "3a2d1519d0c43c3f03b6ece23b10bb8a092a3da2df57fc563f9a8c30418596fb"
+  },
+  {
+    "utterance_id": "utt-0178",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0178.mp4",
+    "sha256": "17b208952884da0d22876c85976ffd0952d22f241ba00d3297ec890992b2f93a"
+  },
+  {
+    "utterance_id": "utt-0179",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0179.mp4",
+    "sha256": "4174c8a77abbcd669cdc55ccc7f8c18351e304882835466b05e146bae8c0610d"
+  },
+  {
+    "utterance_id": "utt-0180",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0180.mp4",
+    "sha256": "7eb8c1518caa9e61052ba39c2017a71a69ab90a86523bcb67f51d6d101049e3b"
+  },
+  {
+    "utterance_id": "utt-0181",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0181.mp4",
+    "sha256": "2a30a4de826337893b4b7ed673778a16da715a84b2e84d2f5457d47b8660cca2"
+  },
+  {
+    "utterance_id": "utt-0182",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0182.mp4",
+    "sha256": "06970219a9214782674a2372641eb8b9ff28f44b803bf35220202f44690be195"
+  },
+  {
+    "utterance_id": "utt-0183",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0183.mp4",
+    "sha256": "e6aebad7d2c23fcaed31889aff385f1eaebf07a1b99aeaad4ad6aed2482d7d08"
+  },
+  {
+    "utterance_id": "utt-0184",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0184.mp4",
+    "sha256": "1decb8618af5bda994befcc449596406dd2e0a0b0c87b0b53205159cfc603f5e"
+  },
+  {
+    "utterance_id": "utt-0185",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0185.mp4",
+    "sha256": "ba1c2788d717c52a095587bdbfd9ecd657803e0c1855ef62afabd5bd3e95165f"
+  },
+  {
+    "utterance_id": "utt-0186",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0186.mp4",
+    "sha256": "0b98bc3410ff2f64eefafa2bc714a1a9d8fe66080ff790a8e354fafac8ed7606"
+  },
+  {
+    "utterance_id": "utt-0187",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0187.mp4",
+    "sha256": "d551dd5ff7f41f2bbbf347da5041b88db5be76abb289340a0fb80957c5e4308f"
+  },
+  {
+    "utterance_id": "utt-0188",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0188.mp4",
+    "sha256": "e2f700615084dd5215ed84a15a31aa7f7f2cc2a1a91863a98b018089a99fabeb"
+  },
+  {
+    "utterance_id": "utt-0189",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0189.mp4",
+    "sha256": "e07241637e2bb29d24989ccb33f7b05e8d49196cc2e076c66a612cea29cc8151"
+  },
+  {
+    "utterance_id": "utt-0190",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0190.mp4",
+    "sha256": "0ff4d83f824440597462a649b0f3041687cdb080e88afc8118b66ee437bca583"
+  },
+  {
+    "utterance_id": "utt-0191",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0191.mp4",
+    "sha256": "d5a6dd29c6be5f43d1ff772218705603940bb338cc380234d1958bc7b6c3ce26"
+  },
+  {
+    "utterance_id": "utt-0192",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0192.mp4",
+    "sha256": "64d3d2d7ae39bfc24dee6a4a2a4c83cea5ebbaedbf07100af5e3dd13d5c0322d"
+  },
+  {
+    "utterance_id": "utt-0193",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0193.mp4",
+    "sha256": "1350eae0f45e52e895d98ecd73f9611169561dd28b72b5809ff486b6b116b3c8"
+  },
+  {
+    "utterance_id": "utt-0194",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0194.mp4",
+    "sha256": "d5a23e25df15593e515f04214d4105687c5dc71511f9f1fe1bf159d236103efc"
+  },
+  {
+    "utterance_id": "utt-0195",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0195.mp4",
+    "sha256": "28482c1574cbbd0646eddab8cc194ab8b8a4b40142328fd4e4848028898b0710"
+  },
+  {
+    "utterance_id": "utt-0196",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0196.mp4",
+    "sha256": "41a4bda7274ad6ff0fa704fef9d23e52611ead1303b011d6b3c1499b354b1d89"
+  },
+  {
+    "utterance_id": "utt-0197",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0197.mp4",
+    "sha256": "b50e7a3e1fa077e9f64c301b601bce6e8669e2bdd8d7773591c24d5eff0ed28a"
+  },
+  {
+    "utterance_id": "utt-0198",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0198.mp4",
+    "sha256": "c37079168c693c1227b7d7d7b86df9418445b0f0d12b59dfe83672676200b14e"
+  },
+  {
+    "utterance_id": "utt-0199",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0199.mp4",
+    "sha256": "b071eabd3fc59a3169ba585871ae32ee8278027b41ee817ca193891072432629"
+  },
+  {
+    "utterance_id": "utt-0200",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0200.mp4",
+    "sha256": "699aa223db06458c554bf4278f96b18d021d588c32663843b7e381fb3f8fab93"
+  },
+  {
+    "utterance_id": "utt-0201",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0201.mp4",
+    "sha256": "46023637d967049ce03f9352172793e0cbeef853f05ef9e746361080a9025b6e"
+  },
+  {
+    "utterance_id": "utt-0202",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0202.mp4",
+    "sha256": "63533f5e3d61e66962f37f0cc0c7a13cf64c9d2f4061b6984fe221dc033f05af"
+  },
+  {
+    "utterance_id": "utt-0203",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0203.mp4",
+    "sha256": "f4e78d42a2261eff53ab6b01d1d4ca471a00eeda832cdd59c9552113b62ad565"
+  },
+  {
+    "utterance_id": "utt-0204",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0204.mp4",
+    "sha256": "d3912523295240ae283731219e783db356afd6c78d457215395173ee30d22b75"
+  },
+  {
+    "utterance_id": "utt-0205",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0205.mp4",
+    "sha256": "8b5e42eef9cba6e0112c301d3a53508aa433bf513bcfe53d2e23fbbd27bb9f08"
+  },
+  {
+    "utterance_id": "utt-0206",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0206.mp4",
+    "sha256": "6211b311765c0b4e2bf27723bbebc3d8de9ccb826f9452befccf129794a9bcd2"
+  },
+  {
+    "utterance_id": "utt-0207",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0207.mp4",
+    "sha256": "99e9f7770f41b9ac970a169fc1b5a28a37edbc7421781357276d157f63cb4046"
+  },
+  {
+    "utterance_id": "utt-0208",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0208.mp4",
+    "sha256": "d5910a1f980d98b029de34087f32139cb2081e7f5dd90f485301af12dcffc3e0"
+  },
+  {
+    "utterance_id": "utt-0209",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0209.mp4",
+    "sha256": "e820283e5fb8655b0130c6113ea60b3cd6a116ed1ba7ebfa3aa7863cfdcae8e0"
+  },
+  {
+    "utterance_id": "utt-0210",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0210.mp4",
+    "sha256": "ce601b954845770233cf26c332f49ed2f32650c8c3d04ce6976be29b7e253eec"
+  },
+  {
+    "utterance_id": "utt-0211",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0211.mp4",
+    "sha256": "f82e51982ce8b5d4461c61281adcde36d09df3e7b410f1b010e7b3b41f964980"
+  },
+  {
+    "utterance_id": "utt-0212",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0212.mp4",
+    "sha256": "293114ca88b3395cc47e408ab738a71c8dc2af69372e6bd96ffcd06776c830aa"
+  },
+  {
+    "utterance_id": "utt-0213",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0213.mp4",
+    "sha256": "789f0f40404155befa559acc9b5da769ac3d26e444d8b4e2a840bacd24c8c4ff"
+  },
+  {
+    "utterance_id": "utt-0214",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0214.mp4",
+    "sha256": "423d4f8c2d1a6a1d4bbc3309d706c5c0ab50f5f39ebf073f46ca0db4a47f65b5"
+  },
+  {
+    "utterance_id": "utt-0215",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0215.mp4",
+    "sha256": "6ae5e3f17e877ac2e895a860d63a0ea1452bc02c73887fc1e85fdfe1a555b5aa"
+  },
+  {
+    "utterance_id": "utt-0216",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0216.mp4",
+    "sha256": "e12b8ff82e8076b6d937d6d6fe3cc54ab73fc558469e1def574fc25f996b8cc3"
+  },
+  {
+    "utterance_id": "utt-0217",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0217.mp4",
+    "sha256": "b12d0573783c5dfe5b6fe697986f36015ab783c64544f1fd357bdc505f8d434c"
+  },
+  {
+    "utterance_id": "utt-0218",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0218.mp4",
+    "sha256": "3648ec1696d931991e3a47bed89b4ec9f7664550fcea7ab2ba07a44a0b2f1627"
+  },
+  {
+    "utterance_id": "utt-0219",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0219.mp4",
+    "sha256": "571851b0af7d089caac758e6308102a3483ad4817386f84968c6115c0e1a8abf"
+  },
+  {
+    "utterance_id": "utt-0220",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0220.mp4",
+    "sha256": "97ce57ee0c9ef3c89db0d3b5ce5b47bb6a92d8cf9836394c99a6dbc987c00339"
+  },
+  {
+    "utterance_id": "utt-0221",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0221.mp4",
+    "sha256": "81b78d56af53d3d8a825dfad58eefabff805bcc7fb0133e62462d92ea41a28ef"
+  },
+  {
+    "utterance_id": "utt-0222",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0222.mp4",
+    "sha256": "8be69881b05beda42c9e9373d1b82a83a520ebf5d348c15f68293484738376cd"
+  },
+  {
+    "utterance_id": "utt-0223",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0223.mp4",
+    "sha256": "95e1631a157eca9bfb0ba92e5d635a925de3487e1ad05e4550906656a29880dc"
+  },
+  {
+    "utterance_id": "utt-0224",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0224.mp4",
+    "sha256": "78d6c1e24c0217248620038ae48e7858ca20865225c12074671608c1376f29f9"
+  },
+  {
+    "utterance_id": "utt-0225",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0225.mp4",
+    "sha256": "71b53e1218d51865dadf7ea2b882f566cad81d3cb2abf8bfc6bf038e5d6037ab"
+  },
+  {
+    "utterance_id": "utt-0226",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0226.mp4",
+    "sha256": "f94f1357e810ba804b62abdfa585cb65ba193ade1c46b0f1ce45148c0e807b07"
+  },
+  {
+    "utterance_id": "utt-0227",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0227.mp4",
+    "sha256": "0d211628bb5eaec3b77b5c898fa345faa764c2bd14f887fbd9198dacddc83dd4"
+  },
+  {
+    "utterance_id": "utt-0228",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0228.mp4",
+    "sha256": "93511c3c06d5e71d58ecab2b65dd2ce03c90649d9f2a7a32deab4f26e2915950"
+  },
+  {
+    "utterance_id": "utt-0229",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0229.mp4",
+    "sha256": "a653873e06986302e01ac214bb34d84a3bbabc316df60bb91945a46862933746"
+  },
+  {
+    "utterance_id": "utt-0230",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0230.mp4",
+    "sha256": "196d64a4b1644ccc739c409caad83c4cc8123d8f2cc18a0ba965d5905267f3c0"
+  },
+  {
+    "utterance_id": "utt-0231",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0231.mp4",
+    "sha256": "e08093d449d8d22bad55308e1252bb8212955d099a3055c73782427c27d8b862"
+  },
+  {
+    "utterance_id": "utt-0232",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0232.mp4",
+    "sha256": "73346bf451b79d843f38c7fb8a23037e7d9f0ca3fcd3b7b82e6dc12d7f10fc53"
+  },
+  {
+    "utterance_id": "utt-0233",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0233.mp4",
+    "sha256": "6756b7f63fea6769a8f2af1e0d40440493430ac5c5d1c3d5b92bcc9d828b6ae8"
+  },
+  {
+    "utterance_id": "utt-0234",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0234.mp4",
+    "sha256": "76c0d2d70d0028aa3b31dc9a9d3028e279f3bb2406fedde800ad215b91e9bfe5"
+  },
+  {
+    "utterance_id": "utt-0235",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0235.mp4",
+    "sha256": "8b44e2c089ec42cb9836388735a34cb3c7ccf01b6a857da97c714c0fee4b3102"
+  },
+  {
+    "utterance_id": "utt-0236",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0236.mp4",
+    "sha256": "ed10554fe5e23f78c4a858c84a81c34348da3e6f4df1f1dbba8d99459fa0c929"
+  },
+  {
+    "utterance_id": "utt-0237",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0237.mp4",
+    "sha256": "936fbcd5e80cc7543dbf9f572d1e972c03f54371c0fc1e86d3223a01b77cb9aa"
+  },
+  {
+    "utterance_id": "utt-0238",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0238.mp4",
+    "sha256": "a7a056bd1a1f8ac3d086684f7425b38810b7b03e02a1b979aaf18cc3aec168eb"
+  },
+  {
+    "utterance_id": "utt-0239",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0239.mp4",
+    "sha256": "53a006e144a1f1111065bbfea733556238989b502b06151ae4a05474af6df393"
+  },
+  {
+    "utterance_id": "utt-0240",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0240.mp4",
+    "sha256": "1d846eb7e6bacf9bd1831e54f8926530bc5c9a5fc15445f4a9dc5f954e53bf06"
+  },
+  {
+    "utterance_id": "utt-0241",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0241.mp4",
+    "sha256": "e8e445b4524c26a56dffc35b2642adeb2b1ca74f2d810059e67603ac873a3318"
+  },
+  {
+    "utterance_id": "utt-0242",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0242.mp4",
+    "sha256": "9e1935c03113af315b7b9e8a12cd90f62c79cbefa4c38b18b3fc7938e8f78555"
+  },
+  {
+    "utterance_id": "utt-0243",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0243.mp4",
+    "sha256": "28f86d68a53c595d052381fd01ef06e2f3f06cbb17991ff6d2778e3e5db357e5"
+  },
+  {
+    "utterance_id": "utt-0244",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0244.mp4",
+    "sha256": "d7a951549d60c64a50a4d44ba1443c05065de41c383ba1219af040c249f9250b"
+  },
+  {
+    "utterance_id": "utt-0245",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0245.mp4",
+    "sha256": "e6ee146f7d3cbf2560a989ecef31420c529d30a88cfc342f3ea1474795bf9646"
+  },
+  {
+    "utterance_id": "utt-0246",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0246.mp4",
+    "sha256": "9d789c32c1dbbb9ed71e3334d127f8251f2be80c78e64a0b9ecf46f193e7520a"
+  },
+  {
+    "utterance_id": "utt-0247",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0247.mp4",
+    "sha256": "3589145ddee7ea9852b4b0172bcc1486b894364a6fa1970bdee44ff84b47dd15"
+  },
+  {
+    "utterance_id": "utt-0248",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0248.mp4",
+    "sha256": "229d2763e47caf2ad14eda74936edeb7968122a46e237b35575f3066467cc7ae"
+  },
+  {
+    "utterance_id": "utt-0249",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0249.mp4",
+    "sha256": "d707e3c2e05f36c088e3a187a9cf45dfba89f936a1bf9a940a6d94326f28d4d2"
+  },
+  {
+    "utterance_id": "utt-0250",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0250.mp4",
+    "sha256": "595edc7765275d2939a4fd1a01455592fb5155ebe03b3be8659a113c3c8ca2c4"
+  },
+  {
+    "utterance_id": "utt-0251",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0251.mp4",
+    "sha256": "6c9f2e4fedc82b513f3823da5ecf0a68eecc9faace22143fe004728e311c6460"
+  },
+  {
+    "utterance_id": "utt-0252",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0252.mp4",
+    "sha256": "c46624cc089958fe1d841619351c4dca5cf8c244111911e7f658df5070f25e68"
+  },
+  {
+    "utterance_id": "utt-0253",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0253.mp4",
+    "sha256": "03349f5cdb60f61528b6868ac2ccff98ca8e24eb0c97fc765314ab6de28d71fa"
+  },
+  {
+    "utterance_id": "utt-0254",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0254.mp4",
+    "sha256": "81839ac26385ed8d6c959f74c865fb1db70052c6a782201bb882beb1bd84d748"
+  },
+  {
+    "utterance_id": "utt-0255",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0255.mp4",
+    "sha256": "5c456a5e5f5c1356c988586b243c506e08f84fe68a5e6257cbd30b9527801793"
+  },
+  {
+    "utterance_id": "utt-0256",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0256.mp4",
+    "sha256": "20f44da294b8cd0f00ca0180852362473ccd9937502355cf06b994ef79851503"
+  },
+  {
+    "utterance_id": "utt-0257",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0257.mp4",
+    "sha256": "a1ad16ce1c54bf5cfc64594541bf3beffb662f606c8b435378eab5e621036764"
+  },
+  {
+    "utterance_id": "utt-0258",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0258.mp4",
+    "sha256": "a882a3c8bbab0f612359adfc56c00558eb9d8c493fd16d84608ab7ba453c521c"
+  },
+  {
+    "utterance_id": "utt-0259",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0259.mp4",
+    "sha256": "22045a4d6631e5b749889aac58973994db6ca81b2d3e53fd34fff6d1e6269eb9"
+  },
+  {
+    "utterance_id": "utt-0260",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0260.mp4",
+    "sha256": "f12841019ba250faac1629a2d8a0337940e13293cf5ae13ad1f25cffa6572ec6"
+  },
+  {
+    "utterance_id": "utt-0261",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0261.mp4",
+    "sha256": "e19dc08329aa4598dd6a2dd6a87d48f3242ffd6fd1cfe618d6b418e2e78c86e7"
+  },
+  {
+    "utterance_id": "utt-0262",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0262.mp4",
+    "sha256": "f0615bc57779870e04d450127876c6cf07125076bb385b8f1729b655540f87de"
+  },
+  {
+    "utterance_id": "utt-0263",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0263.mp4",
+    "sha256": "39b876677df7f4549739fd70d381725702798186fccd1d9f4940130c01c6eb01"
+  },
+  {
+    "utterance_id": "utt-0264",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0264.mp4",
+    "sha256": "bdb60559edd7e6f12f85a319cf267bb2b3755bb41771bd850d650587fa3602d7"
+  },
+  {
+    "utterance_id": "utt-0265",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0265.mp4",
+    "sha256": "e7b2bac4d1fd0b9296d99cd887e1cf3c3fe64bc05db2d9e5c859fe611e94944c"
+  },
+  {
+    "utterance_id": "utt-0266",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0266.mp4",
+    "sha256": "adce32d3edf271a6fb55170e518d211b98e2bda0c8a4efb022ff72d7dda4858d"
+  },
+  {
+    "utterance_id": "utt-0267",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0267.mp4",
+    "sha256": "1f1246d6d9496769f501189f4cfcdebc705678903c855685d10f257ae42a41dc"
+  },
+  {
+    "utterance_id": "utt-0268",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0268.mp4",
+    "sha256": "02b9f0b5af18cf92acc25b7f71c393dc74acfc320cddb4011a51da9c6e41f238"
+  },
+  {
+    "utterance_id": "utt-0269",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0269.mp4",
+    "sha256": "c6422b76414bb1a13fbf68cbfa52a5ceeaaba8ec110847ffeeb97412793921b3"
+  },
+  {
+    "utterance_id": "utt-0270",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0270.mp4",
+    "sha256": "ee5d4f9ecae014a4ee0413d1691226301b9c4c0264f23f90e2f11249cd4201b9"
+  },
+  {
+    "utterance_id": "utt-0271",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0271.mp4",
+    "sha256": "ce2a7a6c15fbdbbd6729e7f0078fcb379306e3fa26337dfad58a8d1769a915fd"
+  },
+  {
+    "utterance_id": "utt-0272",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0272.mp4",
+    "sha256": "89895d9ac2f69779f35e7d356b884b3e7074313d15e2dcaf4d28e9b7323aa293"
+  },
+  {
+    "utterance_id": "utt-0273",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0273.mp4",
+    "sha256": "6ada67c443d2d48a83fa64c5f7d58f32e62f4b223094e1cb85877ed2801146f9"
+  },
+  {
+    "utterance_id": "utt-0274",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0274.mp4",
+    "sha256": "8b990ef44f1ae9d9729766613099bf4e6576d820f1b0eced044794411b7e4f2d"
+  },
+  {
+    "utterance_id": "utt-0275",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0275.mp4",
+    "sha256": "d737adf1aebba5fc30c7f8970ea59ed5e1f6035a4a32b5ec4be468624ad8e5d4"
+  },
+  {
+    "utterance_id": "utt-0276",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0276.mp4",
+    "sha256": "d7f6a4bb49e4607e85539be8bd0aaec649ac36532922adf656925cf670e02531"
+  },
+  {
+    "utterance_id": "utt-0277",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0277.mp4",
+    "sha256": "4c4128f4c5601b3664134cfea0a78c5d2e04f76eecfb6f47a5496e23f9075cae"
+  },
+  {
+    "utterance_id": "utt-0278",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0278.mp4",
+    "sha256": "c55d31f83f6a11755ef7e01ee611c6b0f11108142aade5464b7a06e7cc514687"
+  },
+  {
+    "utterance_id": "utt-0279",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0279.mp4",
+    "sha256": "04a615a179177da069382c7a389f383d8c49058561ec910f586950e37635600e"
+  },
+  {
+    "utterance_id": "utt-0280",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0280.mp4",
+    "sha256": "34efba73b8b57d2c61b3c6068e2d9fbb465cba44d67bf68557c29cbc9e7a546d"
+  },
+  {
+    "utterance_id": "utt-0281",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0281.mp4",
+    "sha256": "dcb875b52a5067a5537248267dd09ce1710cc41efb1ad5aa8e55fc9965233075"
+  },
+  {
+    "utterance_id": "utt-0282",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0282.mp4",
+    "sha256": "0a44aa2c8a30ba13e53a09eaff463361f26d8c1211e0224406a957c9ff539941"
+  },
+  {
+    "utterance_id": "utt-0283",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0283.mp4",
+    "sha256": "f5d6e4eedab909ba68ba4fd91803850e4d31185277c733ef3c4a147e0acfad48"
+  },
+  {
+    "utterance_id": "utt-0284",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0284.mp4",
+    "sha256": "b079468ae368bc7e966d7904b40d868f4095c6953cb62a31456e2ecdc29f79f0"
+  },
+  {
+    "utterance_id": "utt-0285",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0285.mp4",
+    "sha256": "683229bd5e0ad95889d6f8156a2b54213d8b8b22ae3feadd23b724248663f964"
+  },
+  {
+    "utterance_id": "utt-0286",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0286.mp4",
+    "sha256": "51c7d0e698e58f16dc08a2d1a832c7f3dc08cee840d487ce16ce515e52dcd443"
+  },
+  {
+    "utterance_id": "utt-0287",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0287.mp4",
+    "sha256": "e7c324475ea822086d75e5bd312b252c2a351e18390061836e23fcb4319d9f8a"
+  },
+  {
+    "utterance_id": "utt-0288",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0288.mp4",
+    "sha256": "03055bbd3e6b70d65c9ff2465e4c2a9d12f33db64166e7c06ab2807b44b4da1b"
+  },
+  {
+    "utterance_id": "utt-0289",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0289.mp4",
+    "sha256": "f1f00d00c1d46070668934423eb8f7a1e021b07fefd4d6a801fc36dbe6381f05"
+  },
+  {
+    "utterance_id": "utt-0290",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0290.mp4",
+    "sha256": "d36bfa9adddf26b0fcd52c097b701fcf2589e720f6f001dbe02d9e7e1985a7c2"
+  },
+  {
+    "utterance_id": "utt-0291",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0291.mp4",
+    "sha256": "e5274f6bffa4333290f74c63f97e566f69ae84f393286ca1b63ff6cba7716a0b"
+  },
+  {
+    "utterance_id": "utt-0292",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0292.mp4",
+    "sha256": "49b2dd422a0bc1c38088a660c24227ff904f5c2b3c3af1ab71c50a59ee1b11d2"
+  },
+  {
+    "utterance_id": "utt-0293",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0293.mp4",
+    "sha256": "f400e66f3d59f9643ee2aa89fdf42928721959ffe3db10880d8b1935e0e0c62d"
+  },
+  {
+    "utterance_id": "utt-0294",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0294.mp4",
+    "sha256": "ce7c0f523bcb8d1a7617e956d9c2a1e7216f42b301dbe8aed3dd450c80d6504a"
+  },
+  {
+    "utterance_id": "utt-0295",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0295.mp4",
+    "sha256": "c086426864604facd94b8737f7c92250eb1a040852374a685419f27b20ce0951"
+  },
+  {
+    "utterance_id": "utt-0296",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0296.mp4",
+    "sha256": "53d2393fa22781cd7171092c10ade565d819d1b3dce2096415697660c344904e"
+  },
+  {
+    "utterance_id": "utt-0297",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0297.mp4",
+    "sha256": "3502f5aa4d4d123eb46a98cd7dc17679028106560e0707246c81101ce72e866c"
+  },
+  {
+    "utterance_id": "utt-0298",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0298.mp4",
+    "sha256": "eab069913dd5257936bf67c1d3f3a56b96423f43975b52599242020201c1b98e"
+  },
+  {
+    "utterance_id": "utt-0299",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0299.mp4",
+    "sha256": "125283772afab1856d6fefd38961136ab7f5d2102faef39b66a9164949821613"
+  },
+  {
+    "utterance_id": "utt-0300",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0300.mp4",
+    "sha256": "a4207c91fb696c67ca43cbd2a93cc5b925d0eba29669a3de441613f7f0b6ff73"
+  },
+  {
+    "utterance_id": "utt-0301",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0301.mp4",
+    "sha256": "3459b0257b2234d0784fcbf5717268090d5253ff4c6c18601b4718079303fb57"
+  },
+  {
+    "utterance_id": "utt-0302",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0302.mp4",
+    "sha256": "09611d7c646bb3bf6108ed82d3c09280d27772945b39909fc6fffa19869c328a"
+  },
+  {
+    "utterance_id": "utt-0303",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0303.mp4",
+    "sha256": "7c4e47582c123e2eb23e9ff4535b54648f19af2a000cd9c3f2185cbe4d2ab7aa"
+  },
+  {
+    "utterance_id": "utt-0304",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0304.mp4",
+    "sha256": "17371f821980daff482e019827fe541d0e136d479cdec4f9f430ef4d7c55d60c"
+  },
+  {
+    "utterance_id": "utt-0305",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0305.mp4",
+    "sha256": "b5609505d6f752eb3963b0dcf5da83096b17fd7fd24372889a5a1e2a994a8b2d"
+  },
+  {
+    "utterance_id": "utt-0306",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0306.mp4",
+    "sha256": "ff856d373af044011aef16ec0d115c783a7661d0f6539dcafb96e88b31b3387f"
+  },
+  {
+    "utterance_id": "utt-0307",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0307.mp4",
+    "sha256": "76e29aa22e6c77c2c7b4cea9b5c1239f30657ae2f77657c626c93de1edd2cea5"
+  },
+  {
+    "utterance_id": "utt-0308",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0308.mp4",
+    "sha256": "f2e6011702adc4d5110ec95e431ba06feab07db0de98c77dd064df7c6ce7b558"
+  },
+  {
+    "utterance_id": "utt-0309",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0309.mp4",
+    "sha256": "6d93e76f23be44a0117dd6a1f4cd1b020b735c434e2b18c9d4ee041f026aac80"
+  },
+  {
+    "utterance_id": "utt-0310",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0310.mp4",
+    "sha256": "2cc0e2882fb03c49e88a0b33059e31f358336a0136f96a329941db939046779b"
+  },
+  {
+    "utterance_id": "utt-0311",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0311.mp4",
+    "sha256": "37c888f9dcd90e1454adf1afd194e9864498f9a9d3007c379c58170e0a793101"
+  },
+  {
+    "utterance_id": "utt-0312",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0312.mp4",
+    "sha256": "68ec5a4fb765c9f03cf66daaeecfe5e77683932a62249c15e199e59c855aab5d"
+  },
+  {
+    "utterance_id": "utt-0313",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0313.mp4",
+    "sha256": "5c77fce5bb3b982d51f5f44d6087f3759043287e2bc03e713731be9abb551637"
+  },
+  {
+    "utterance_id": "utt-0314",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0314.mp4",
+    "sha256": "e36cfee5dddb6b7549a9603da1ccb7361a9d0a33b3719d5615dd141d2aa438fa"
+  },
+  {
+    "utterance_id": "utt-0315",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0315.mp4",
+    "sha256": "24e9be9f894cb45c6b9a3235f81af1c025dc63b05c7195319c7fb776bebe22d7"
+  },
+  {
+    "utterance_id": "utt-0316",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0316.mp4",
+    "sha256": "55b136030842c180f80da25c04792dcecde75afae8a770122cec01119ea46229"
+  },
+  {
+    "utterance_id": "utt-0317",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0317.mp4",
+    "sha256": "6d1fdb7b360926626feee85e48d3625e4243b5a323935a4f116a2b1b905d256f"
+  },
+  {
+    "utterance_id": "utt-0318",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0318.mp4",
+    "sha256": "10b56a92f3e1525da7a7bcea54d02b5fefcf62344851fc0c1efe8399e47166b2"
+  },
+  {
+    "utterance_id": "utt-0319",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0319.mp4",
+    "sha256": "dbf3f3465aaef98e6851fa4b23f2d71bbf79d7b44658391b780f2e457f46ea7e"
+  },
+  {
+    "utterance_id": "utt-0320",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0320.mp4",
+    "sha256": "a501f40c2bd881d80cc10ab446c1afc36dc679a7872cd46d67ef6b3286a3c2b5"
+  },
+  {
+    "utterance_id": "utt-0321",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0321.mp4",
+    "sha256": "683ff6717c39737394fd6ee4e1c4cb400274df0003825e6262f4f2c350eba26f"
+  },
+  {
+    "utterance_id": "utt-0322",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0322.mp4",
+    "sha256": "8569ae8f836a960b433c83c95a8eb1b50c28ba5913f0fc7a72ae88a092666324"
+  },
+  {
+    "utterance_id": "utt-0323",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0323.mp4",
+    "sha256": "ca04b79e45208497cbf28dcf6d65679e33efe9db52c83d4432b6673aba8995e4"
+  },
+  {
+    "utterance_id": "utt-0324",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0324.mp4",
+    "sha256": "395ef46785a641645f3cc92a8cb6492903592beb385a64d6e8c98768720e8317"
+  },
+  {
+    "utterance_id": "utt-0325",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0325.mp4",
+    "sha256": "9f29308a695ab470d8b37c6d4636cc78e8a0b5ef4138d7cbb14107978a0c1f74"
+  },
+  {
+    "utterance_id": "utt-0326",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0326.mp4",
+    "sha256": "0b5ed887eb464f50bdde7d6e9ee24779361a48bc46553fa38453abdbbb7f7aea"
+  },
+  {
+    "utterance_id": "utt-0327",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0327.mp4",
+    "sha256": "f6793dec8095d2db5168e3fde011adae2927ac3c7c637e10cea946f27f01a261"
+  },
+  {
+    "utterance_id": "utt-0328",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0328.mp4",
+    "sha256": "c2483c06de4ac8aeb81c2b70b52ca7bd286abe61951806ea1307d7ec836a032e"
+  },
+  {
+    "utterance_id": "utt-0329",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0329.mp4",
+    "sha256": "1dee15165a84b754bb851e189b1615478bed4c61bd3a11b518b077c401fcb203"
+  },
+  {
+    "utterance_id": "utt-0330",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0330.mp4",
+    "sha256": "f3c3ae0339216a9050984e282277256edf42f24cd6cc8ac9ba10ff4f23268499"
+  },
+  {
+    "utterance_id": "utt-0331",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0331.mp4",
+    "sha256": "6eb9d11dbe5bd2b5bfcf46e0708e0ccb9b0549600f943f09e07efb98c6af1d3b"
+  },
+  {
+    "utterance_id": "utt-0332",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0332.mp4",
+    "sha256": "dbddeee0f1bf1320fc0487d2b01235ce1b9678c86066e8110d28e514359f30dc"
+  },
+  {
+    "utterance_id": "utt-0333",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0333.mp4",
+    "sha256": "4073f06263233324480096c4a90c6a40a5c2679a276ca994891424feb99af96e"
+  },
+  {
+    "utterance_id": "utt-0334",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0334.mp4",
+    "sha256": "96fda0c9675f3829e4ce411453a7a3c8d138ad725bca1b4f8e480d6e20b4e87c"
+  },
+  {
+    "utterance_id": "utt-0335",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0335.mp4",
+    "sha256": "d7d46bb3bd77e8c87b3be7a2219dfee9f98f86ff9f9ddcdaf70f3ffb7e8404dd"
+  },
+  {
+    "utterance_id": "utt-0336",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0336.mp4",
+    "sha256": "ec3a6823d314da43431ecb409ef3e2f58c403ce28c51a52700ce29844a089508"
+  },
+  {
+    "utterance_id": "utt-0337",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0337.mp4",
+    "sha256": "c085b2319c9836b301c40be3cf5cd12c5f1d41bf136e954e8128b7a3c6966966"
+  },
+  {
+    "utterance_id": "utt-0338",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0338.mp4",
+    "sha256": "e4c0411bec6a70990e40712c1721e16e616edb12a68e56ab66a71c464bceebf4"
+  },
+  {
+    "utterance_id": "utt-0339",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0339.mp4",
+    "sha256": "373af0a61d0f3f16a61cc61057eb19da23421e49fe24dc74d75edd359bb33bb5"
+  },
+  {
+    "utterance_id": "utt-0340",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0340.mp4",
+    "sha256": "dc01081e717ab60db5ec5121c9a114b9abdac1a54bb57224b17c6d099976982c"
+  },
+  {
+    "utterance_id": "utt-0341",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0341.mp4",
+    "sha256": "8272f5e080126142e03639029c7daf2f3f03262f0e544cf67be995bf9a63d022"
+  },
+  {
+    "utterance_id": "utt-0342",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0342.mp4",
+    "sha256": "f3227b2986130e81143bbd564421532abe60fd07341194985a00ebe1aa155ddf"
+  },
+  {
+    "utterance_id": "utt-0343",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0343.mp4",
+    "sha256": "7c71329d7256f0fde8b972d832c83f5e5dd33396e3d2bc82895168090647081a"
+  },
+  {
+    "utterance_id": "utt-0344",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0344.mp4",
+    "sha256": "72c274c11f0664c24339ebfabee6478e2dcbd2c9da78c2595b4ac923d56b4933"
+  },
+  {
+    "utterance_id": "utt-0345",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0345.mp4",
+    "sha256": "0fdb04528fb8bc2532f5ced7caef716e13e9269024590ab69b000d57cd597367"
+  },
+  {
+    "utterance_id": "utt-0346",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0346.mp4",
+    "sha256": "545d378e4f7159dec9f968093f327ba2549d0ec175214dad7aaf661a568d5b0d"
+  },
+  {
+    "utterance_id": "utt-0347",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0347.mp4",
+    "sha256": "4fa756160b85a78c074489bacb90bc4c9fdcbb96f4357cb26de3b0174213e05e"
+  },
+  {
+    "utterance_id": "utt-0348",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0348.mp4",
+    "sha256": "a74cb1f94cf1a12a96d31d38d3abed37001d319e4307077b5ff5bdb1c9144815"
+  },
+  {
+    "utterance_id": "utt-0349",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0349.mp4",
+    "sha256": "2a81bbe2d6c9877d407fb08ab1d9f9d84be55d6689ef2d0ed7781e12e2eeac6a"
+  },
+  {
+    "utterance_id": "utt-0350",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0350.mp4",
+    "sha256": "ef0645e590f7b56944b46919f4963a15faf1642633de4bd44839b23e2c5ec968"
+  },
+  {
+    "utterance_id": "utt-0351",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0351.mp4",
+    "sha256": "9aaf8e72ab7a87179b887916ac264a65debe8c99b09aa8572afb7d933bbcd4be"
+  },
+  {
+    "utterance_id": "utt-0352",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0352.mp4",
+    "sha256": "37a2ccd2ebbbc617e9fb57d22e601217894ab6d3cc17d7970a59f78e8beadd5b"
+  },
+  {
+    "utterance_id": "utt-0353",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0353.mp4",
+    "sha256": "8b5c33a409af111daaf7afce542dc7f56fadc7c4aca5f3f30902d43804ce4a41"
+  },
+  {
+    "utterance_id": "utt-0354",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0354.mp4",
+    "sha256": "ac59961d8ffb6e84009f13902152b8f937f3559031d16580b8e10510e1da65d6"
+  },
+  {
+    "utterance_id": "utt-0355",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0355.mp4",
+    "sha256": "aa0c97715c8407d0d5db25992fed69d0b2c1f2f249b4e341c63813a9b8e46346"
+  },
+  {
+    "utterance_id": "utt-0356",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0356.mp4",
+    "sha256": "725e75a22a9747367753e404781fa1d15b4cbc0b464a5ec7d03271bcb706d003"
+  },
+  {
+    "utterance_id": "utt-0357",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0357.mp4",
+    "sha256": "d7f2007b1a721db45f9027185c0e44f4655566975c5881143b3250c6edc019f1"
+  },
+  {
+    "utterance_id": "utt-0358",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0358.mp4",
+    "sha256": "fed87fff0e3049c5a80c15c5441cc3e58b32c569412b0ca4520022031cbcbca2"
+  },
+  {
+    "utterance_id": "utt-0359",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0359.mp4",
+    "sha256": "5b660e1ee6d2a825617c67afd734606ef1f3c0518a1269e76007a4165c0431b6"
+  },
+  {
+    "utterance_id": "utt-0360",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0360.mp4",
+    "sha256": "0a1ee3487bcf655982dbe6dbf9c42f340c9b25bfa923bf7f9ae3fdf0e7137999"
+  },
+  {
+    "utterance_id": "utt-0361",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0361.mp4",
+    "sha256": "76b2b29547deb448741b6e0733cc32d2c55f8ed990689974dcc030de689aa0e6"
+  },
+  {
+    "utterance_id": "utt-0362",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0362.mp4",
+    "sha256": "93261863b0f3ce269b6285053e7b076b96be9186354d5f9ba92a9d92f50fb36d"
+  },
+  {
+    "utterance_id": "utt-0363",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0363.mp4",
+    "sha256": "748046b18edfd4e373bb6b7faa370fd64ea167ccaa29b1ce25ae126d2a324847"
+  },
+  {
+    "utterance_id": "utt-0364",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0364.mp4",
+    "sha256": "d07ac45165a62611022cdf8c6d79ddcf7fc577b29ffc2097441886e40047ec57"
+  },
+  {
+    "utterance_id": "utt-0365",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0365.mp4",
+    "sha256": "19b06d3ef2691e8a84d38833cc73c51ebdc65ef39f2b7a769f1f92c3ef0dda82"
+  },
+  {
+    "utterance_id": "utt-0366",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0366.mp4",
+    "sha256": "7cae7d83178cfe2e0b29b8ecbfae5ef4768101520ba86659b29ad3d0a35804fd"
+  },
+  {
+    "utterance_id": "utt-0367",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0367.mp4",
+    "sha256": "8b1341772fe783864e96f81e54596e3d9ef519586655b4c3068161a18a02c07b"
+  },
+  {
+    "utterance_id": "utt-0368",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0368.mp4",
+    "sha256": "e23da217f520fae710ca96a9e5c79a46f5c64c4ea93839c940deb5c8adaed399"
+  },
+  {
+    "utterance_id": "utt-0369",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0369.mp4",
+    "sha256": "1152a3d630d448457228adee64226b0f55c8258acfdea763438af707a3ac3e8c"
+  },
+  {
+    "utterance_id": "utt-0370",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0370.mp4",
+    "sha256": "f4fd896f6873b354b47b6bc4a09830b91e7ccbb5e5d8ac5fcc13e7ad58aa5929"
+  },
+  {
+    "utterance_id": "utt-0371",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0371.mp4",
+    "sha256": "a5abfc494c1aa2563d1b214d4a372016cbb522061db271c83097a8c475e63991"
+  },
+  {
+    "utterance_id": "utt-0372",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0372.mp4",
+    "sha256": "8d9f00bda6f41d0a5971dcbf1e560d1c9d21db89e3958fafbe0b3fc997051543"
+  },
+  {
+    "utterance_id": "utt-0373",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0373.mp4",
+    "sha256": "1d53cc3518369eb92cfd2f8a0e8e1b6cdc0dee8d72117e2dd9841ca83eec826e"
+  },
+  {
+    "utterance_id": "utt-0374",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0374.mp4",
+    "sha256": "d0ffe5b54d174dabc56039c2ed85d42e7d8a10e0a56228c5a8df72b5ba1b393c"
+  },
+  {
+    "utterance_id": "utt-0375",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0375.mp4",
+    "sha256": "176cf4367b4af90e871e0ae4ac5a1d0a3a95d92897866c6499ab17e35211e391"
+  },
+  {
+    "utterance_id": "utt-0376",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0376.mp4",
+    "sha256": "e573e77f9c477f69f886d41dbf4eeca16c9bb2897b7fdb334a703265430abfb8"
+  },
+  {
+    "utterance_id": "utt-0377",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0377.mp4",
+    "sha256": "48f226a5508cc9a96da79fc9e3484302f1831e094e8e13d09799695486135354"
+  },
+  {
+    "utterance_id": "utt-0378",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0378.mp4",
+    "sha256": "ef026a7ba7d566658934e97f568d2c1ded05a38aa79393f6e4448ce46e220f0a"
+  },
+  {
+    "utterance_id": "utt-0379",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0379.mp4",
+    "sha256": "cd1557ef857becc32a086b18a8e9c4fc7b59b1a785e0108fb7bd8632e4267769"
+  },
+  {
+    "utterance_id": "utt-0380",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0380.mp4",
+    "sha256": "2be7570384bdfc2ccfbe516e6a1fe0f4f0604873b88b1284d9596bec126eaf41"
+  },
+  {
+    "utterance_id": "utt-0381",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0381.mp4",
+    "sha256": "d766569e67bc02daf11b0436084e262ae38289ff072d63c21f0b02b4df1f9d78"
+  },
+  {
+    "utterance_id": "utt-0382",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0382.mp4",
+    "sha256": "c9524714f7d7fd6a0cc9260f22e7cb37f95c126a10cc0fafdc9f17409e3298b6"
+  },
+  {
+    "utterance_id": "utt-0383",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0383.mp4",
+    "sha256": "c00a2184711d6b05d152e9a5a9ff0884b5278f18d9b7b7816e460a0ae074e6fd"
+  },
+  {
+    "utterance_id": "utt-0384",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0384.mp4",
+    "sha256": "7f5f462f2cd058fbe3ad06ecf9e3fafe3cb1df4580dfda8d9712e46f0bda9290"
+  },
+  {
+    "utterance_id": "utt-0385",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0385.mp4",
+    "sha256": "7af29b0a998f5a8b5ec9dad3c4292330d43ed02348ca7fbc4e1274e6a7d563ad"
+  },
+  {
+    "utterance_id": "utt-0386",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0386.mp4",
+    "sha256": "2d039a505a23a90d333a384330131bac4b69888992e5ecfccb360c5717235458"
+  },
+  {
+    "utterance_id": "utt-0387",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0387.mp4",
+    "sha256": "410b5fe34e519a805f64ec45f3fa839a61bb59caebe0c84d26803d196259b474"
+  },
+  {
+    "utterance_id": "utt-0388",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0388.mp4",
+    "sha256": "43a94ae96bfae229a3581d1eafafa6519c5668ed4f4b6549288a8426f5fd3b28"
+  },
+  {
+    "utterance_id": "utt-0389",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0389.mp4",
+    "sha256": "09c33b690bb242982f9d3c8f1083fb743ac6d3f1bca2e62f2520466489ec7b81"
+  },
+  {
+    "utterance_id": "utt-0390",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0390.mp4",
+    "sha256": "27289a57bee1fc0d0739503d78fa60be9a8f2d598f2f6403d359dfa0377d506a"
+  },
+  {
+    "utterance_id": "utt-0391",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0391.mp4",
+    "sha256": "6186d3ea3f105d8992ae2ec95ff9f98ca226535b2f627cd0b7213ea3f26410f5"
+  },
+  {
+    "utterance_id": "utt-0392",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0392.mp4",
+    "sha256": "554b1b19f9af2f8cb1b00d325f4a08be2270ffda9693cb02719a43c6f1aca4a0"
+  },
+  {
+    "utterance_id": "utt-0393",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0393.mp4",
+    "sha256": "910fe3e03d0f9a265a7f0fc012ec50c8f3894a6e44170c9f78e2342bb1ef86b8"
+  },
+  {
+    "utterance_id": "utt-0394",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0394.mp4",
+    "sha256": "50c47a6e9179663d1e29a6a3a1676c3c32d858fb8476b588c0b861f29b3b33d3"
+  },
+  {
+    "utterance_id": "utt-0395",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0395.mp4",
+    "sha256": "3daea8cfa13f1fcc33b9f1131da1a7338a91a8ba75f1dcb73fe6517023b3a923"
+  },
+  {
+    "utterance_id": "utt-0396",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0396.mp4",
+    "sha256": "d94d69d72edcf06395fba384a8eb871896abdafe6d06af42b10f852066edbf0e"
+  },
+  {
+    "utterance_id": "utt-0397",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0397.mp4",
+    "sha256": "a9188ee31d9ead733f191e1eb85ff43974d225fa01007453e8be8e23e48e923b"
+  },
+  {
+    "utterance_id": "utt-0398",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0398.mp4",
+    "sha256": "3287d1fc9b5727ea179c0c730231a716067ba95840c18103ef46ebdb5f28b265"
+  },
+  {
+    "utterance_id": "utt-0399",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0399.mp4",
+    "sha256": "dc5c2c57f6c83bf74b549e199d3ff6fdfcd2a43555b1ac702bf794901bddb360"
+  },
+  {
+    "utterance_id": "utt-0400",
+    "label": "REQUEST_WATER",
+    "path": "饮水_REQUEST_WATER/utt-0400.mp4",
+    "sha256": "bb2e0d7f46738158e57bdd7b2a6a8257863d8635466e72a6dbee4e4bf4bd694f"
+  },
+  {
+    "utterance_id": "utt-0401",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0401.mp4",
+    "sha256": "e829b11caba7cb6edbdcaaf150cbef3b9b019f3f788a28b52b8a9ecc0f5ae6f7"
+  },
+  {
+    "utterance_id": "utt-0402",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0402.mp4",
+    "sha256": "fe955b24323d0b0731b82c5f2e0126a7ac8403f0678ba1854c8ebe69273a9358"
+  },
+  {
+    "utterance_id": "utt-0403",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0403.mp4",
+    "sha256": "c13c3c2da6ed36e54b1d77ea32300395ef3bf37ed8478f0e61ea1f331272c2c9"
+  },
+  {
+    "utterance_id": "utt-0404",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0404.mp4",
+    "sha256": "3bd1c7c5ce76660f796277ba5dd71d9f267ce287064c1d87fb860932d5daf4fd"
+  },
+  {
+    "utterance_id": "utt-0405",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0405.mp4",
+    "sha256": "db78e3415036598b702a30845c7a40deac70b470d4980f25af540a259e0447f6"
+  },
+  {
+    "utterance_id": "utt-0406",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0406.mp4",
+    "sha256": "3bc641097c110cc121bd12abb88ab02e527ae89a8ee4289340cb9677a9c1edb9"
+  },
+  {
+    "utterance_id": "utt-0407",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0407.mp4",
+    "sha256": "23951c725f973621f283a92b4ffb90e5ce620a2821a9ea59d95e2b5b610840b7"
+  },
+  {
+    "utterance_id": "utt-0408",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0408.mp4",
+    "sha256": "626a6b7ef283d6e425867d8a110aed192fa0c42822d6c036fa58503533f1db52"
+  },
+  {
+    "utterance_id": "utt-0409",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0409.mp4",
+    "sha256": "d20a3020f53c2b4415a15d0ac2c533e592ad99fba5159d8a646ffd89c101a235"
+  },
+  {
+    "utterance_id": "utt-0410",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0410.mp4",
+    "sha256": "8cdd8959ef581d13edb45b5edc9c561a0dfa61d9a84554e5411357f5b1848e5b"
+  },
+  {
+    "utterance_id": "utt-0411",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0411.mp4",
+    "sha256": "5396a7891194ffc27acae97a9653c73a7d1831a2ed97944e65b1959f802108f8"
+  },
+  {
+    "utterance_id": "utt-0412",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0412.mp4",
+    "sha256": "a0b98a20936e1a88452292f2b22e72adfda223ed44857edb6f9cdad34cad19fb"
+  },
+  {
+    "utterance_id": "utt-0413",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0413.mp4",
+    "sha256": "5029a19e6cf6569eea32be9b081b2f30e75ac3226a688d537908667cc66f12ec"
+  },
+  {
+    "utterance_id": "utt-0414",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0414.mp4",
+    "sha256": "7135b5f79561680d96b86e4f533c13a9ce2ec616613b30cd131dd1f502702774"
+  },
+  {
+    "utterance_id": "utt-0415",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0415.mp4",
+    "sha256": "ebdbc5f70a8528a85824f500bcb929d62c62326585bb384bbaf06edb92e1f062"
+  },
+  {
+    "utterance_id": "utt-0416",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0416.mp4",
+    "sha256": "541c150c502c7bd93c8352c16faf5cf3947db45ed93cc2bcf35f791a48d4414c"
+  },
+  {
+    "utterance_id": "utt-0417",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0417.mp4",
+    "sha256": "0f6a434957b7a69b33b4083c62bacbeb01d74896d643fccb4bde09769460e619"
+  },
+  {
+    "utterance_id": "utt-0418",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0418.mp4",
+    "sha256": "d450867e24bf4024258d4e13f2546d12d06637035fe5486f13c0f0968a7f067e"
+  },
+  {
+    "utterance_id": "utt-0419",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0419.mp4",
+    "sha256": "3d59d43505e9826f9ca7aae44fe63df2b457d5ab7a95c5b1c1397d6705ec54e1"
+  },
+  {
+    "utterance_id": "utt-0420",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0420.mp4",
+    "sha256": "8c4c327416279a5c2d1173d7e57d623ff291647e739ec1961e42169433647ea1"
+  },
+  {
+    "utterance_id": "utt-0421",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0421.mp4",
+    "sha256": "db086043e1048a8c84288763dfbb05084a20c299e940149fecce084e41f38037"
+  },
+  {
+    "utterance_id": "utt-0422",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0422.mp4",
+    "sha256": "e4f004803c8b937f97056b290abff7ca43ff8a0d78dde866486de53137b4133e"
+  },
+  {
+    "utterance_id": "utt-0423",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0423.mp4",
+    "sha256": "128637cbc6c47736f333642c1ca24f44e8ddd45d0bacff272272eebd919623f7"
+  },
+  {
+    "utterance_id": "utt-0424",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0424.mp4",
+    "sha256": "cd973cd7b22d63ac42b0110589422868520ea09fdafe9f4592e3798a34e1699b"
+  },
+  {
+    "utterance_id": "utt-0425",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0425.mp4",
+    "sha256": "265a3af896d8ea2935adecb55846a2a0b5f5c75cb9a21b245183536b9c1d0014"
+  },
+  {
+    "utterance_id": "utt-0426",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0426.mp4",
+    "sha256": "a0362dce77530937da94436fb89f86d2677b55360dc5164f26643286b5c80afc"
+  },
+  {
+    "utterance_id": "utt-0427",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0427.mp4",
+    "sha256": "d5dddeba5244741e9380b5451e65aa476c7ecfbba4875edab3d73337120924cc"
+  },
+  {
+    "utterance_id": "utt-0428",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0428.mp4",
+    "sha256": "c4e0f4dc9155f601378f7f95e95a065e1aa4ce6dfcac09c8115d40e344b0bc5e"
+  },
+  {
+    "utterance_id": "utt-0429",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0429.mp4",
+    "sha256": "1460f9392599f85353335bb0d177f1e7719680f8bd49ce004d8e91a5b0fd58dd"
+  },
+  {
+    "utterance_id": "utt-0430",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0430.mp4",
+    "sha256": "69e1f925f5d6fc92986ca2b03ca6f46c44a819cdf2c3831bc900df3e0f0b6cee"
+  },
+  {
+    "utterance_id": "utt-0431",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0431.mp4",
+    "sha256": "73747a7bc5fc4d34d9e564baa50723a75ff2d27bcc8f6ad2cd5d8636dd7ca75d"
+  },
+  {
+    "utterance_id": "utt-0432",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0432.mp4",
+    "sha256": "db63bcc41ca63aadf43f94b0dacf7db9f14a3db43828851dd78ae8b075c972dd"
+  },
+  {
+    "utterance_id": "utt-0433",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0433.mp4",
+    "sha256": "d698c79bbccfbd2cafc1bb0d2580b60a153469f05db35d6ec2cea6d105719ecf"
+  },
+  {
+    "utterance_id": "utt-0434",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0434.mp4",
+    "sha256": "4e1540158d96eebe23ad496500232731845b28c8dd2d4123aa41f9f49e7e88f7"
+  },
+  {
+    "utterance_id": "utt-0435",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0435.mp4",
+    "sha256": "7cb3326a42fcbff5c2534dd99cf38049a9f04ba402c6ee4e008225f770a67756"
+  },
+  {
+    "utterance_id": "utt-0436",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0436.mp4",
+    "sha256": "1bdbc948b47caf9e9e7e2f58c9940c1a56a4bd451e2dbb43b2adaa92b779271d"
+  },
+  {
+    "utterance_id": "utt-0437",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0437.mp4",
+    "sha256": "ca95e3f07e77659a2309ad855f26ccc95dfabd1dbdb8f7641e139f6dde058830"
+  },
+  {
+    "utterance_id": "utt-0438",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0438.mp4",
+    "sha256": "a75814f98359599f08a22ada0ee91a6fe738f464628ac234196990f35b568795"
+  },
+  {
+    "utterance_id": "utt-0439",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0439.mp4",
+    "sha256": "df9b1fa1e22337c65a2e7cdc653aa2b3119e20fc6f2668f2418c45912275fb2e"
+  },
+  {
+    "utterance_id": "utt-0440",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0440.mp4",
+    "sha256": "3172109d18e319fb12beaec7770a2639ad559d2ea364ca33c9cf5a7bd5563690"
+  },
+  {
+    "utterance_id": "utt-0441",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0441.mp4",
+    "sha256": "2e32f51b96c9e2036ca20572c45729b207c81014388ab224a615d800a8d6049f"
+  },
+  {
+    "utterance_id": "utt-0442",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0442.mp4",
+    "sha256": "52107a542acbf9f50c57bc767b9bd10b9f9ba1adae16e8335617c57cd5385a7b"
+  },
+  {
+    "utterance_id": "utt-0443",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0443.mp4",
+    "sha256": "e3fd3055c1ee6592b6ab3b5214941f73b13c0cbc911139d4c8cc2d690e1f1333"
+  },
+  {
+    "utterance_id": "utt-0444",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0444.mp4",
+    "sha256": "b02e502b5604c04475effef78c0525d1f672c59b3fae3c14f1fbf2b8e493100e"
+  },
+  {
+    "utterance_id": "utt-0445",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0445.mp4",
+    "sha256": "0c338c63b7eaedb8e5a0e007c13b3e232e0ff77958afc6d0e427813068bba650"
+  },
+  {
+    "utterance_id": "utt-0446",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0446.mp4",
+    "sha256": "f5a91f53a2159de4bdfb8f146f12d81b6063cfb294f117ca513e7cfe65d1d79d"
+  },
+  {
+    "utterance_id": "utt-0447",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0447.mp4",
+    "sha256": "25139077dd5e0deabf2473d6ea69cff9dfaaa3f6053c37ee13ed290be5cb32f7"
+  },
+  {
+    "utterance_id": "utt-0448",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0448.mp4",
+    "sha256": "e65d6d674ca3c4f8c8d7b4bee0a459291dc93bc5a104520d786533f381aa5315"
+  },
+  {
+    "utterance_id": "utt-0449",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0449.mp4",
+    "sha256": "44820720e70875cb558c3ee23002e24ac4284ea7cbf68b714fc6e47a5c7e7bc0"
+  },
+  {
+    "utterance_id": "utt-0450",
+    "label": "REQUEST_FOOD",
+    "path": "用餐_REQUEST_FOOD/utt-0450.mp4",
+    "sha256": "1d6a0dc17673ad6f353aedc005ee94f7f85caf9878b2bc26e80442a08b87b9c9"
+  },
+  {
+    "utterance_id": "utt-0451",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0451.mp4",
+    "sha256": "c54d9801f1234cfabef9efaf3275b3690a9ee06cf60c7a774d89312245949bf1"
+  },
+  {
+    "utterance_id": "utt-0452",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0452.mp4",
+    "sha256": "398725275117fb9702152378c35b4999fd7987153231d00ac3178d6fe1b7b8cb"
+  },
+  {
+    "utterance_id": "utt-0453",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0453.mp4",
+    "sha256": "350f673a2aca32fc904ed64bb1072e9df0a9dd0a9fd8b17164b0e65999bcd9ae"
+  },
+  {
+    "utterance_id": "utt-0454",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0454.mp4",
+    "sha256": "0f57d1b0500b8f738b3cdf0c8737332c63317159a798b6c244c270c89544db7c"
+  },
+  {
+    "utterance_id": "utt-0455",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0455.mp4",
+    "sha256": "b909f2adb2c4bd8b9018a53b45fc8126e3ec0241b3872ef3d87e303665141dbb"
+  },
+  {
+    "utterance_id": "utt-0456",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0456.mp4",
+    "sha256": "f840eaa13d99d3699c4b3026f73f4d3d67a3440d5f949b4d25d85f9730db22f4"
+  },
+  {
+    "utterance_id": "utt-0457",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0457.mp4",
+    "sha256": "0ceb2c96e3dafe63311b4f61ae1f69f09b48e62eda3c6cd9f45d6272626e8094"
+  },
+  {
+    "utterance_id": "utt-0458",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0458.mp4",
+    "sha256": "453ffbfbe15dc5a88fcae7be0caf07a87aab2f6cf8cc5e676a118227d0098188"
+  },
+  {
+    "utterance_id": "utt-0459",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0459.mp4",
+    "sha256": "4efdfd68c72ae14e4804de8583f67eac5abedaa687752ea173edbf432989d220"
+  },
+  {
+    "utterance_id": "utt-0460",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0460.mp4",
+    "sha256": "d6a10d589f1256b6e62f7b4253a0a47cacc21900d6d737bfca65d42f03008968"
+  },
+  {
+    "utterance_id": "utt-0461",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0461.mp4",
+    "sha256": "3aba00b64a30280511d2b2ff1d1f748a307e2d8030c9559101dee287e9c55cea"
+  },
+  {
+    "utterance_id": "utt-0462",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0462.mp4",
+    "sha256": "e9a061a7e7e0170e0c23b887a2b9752f816c60d79ffc38586493a66599ec146e"
+  },
+  {
+    "utterance_id": "utt-0463",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0463.mp4",
+    "sha256": "f49208c5811c64acafb642c36867d439d4d1b1c6aa0c246115b118e1c4606004"
+  },
+  {
+    "utterance_id": "utt-0464",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0464.mp4",
+    "sha256": "2a7dc285df5f40bb1025d8389897c3c215247887f47b3686a706f9c3b2640efd"
+  },
+  {
+    "utterance_id": "utt-0465",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0465.mp4",
+    "sha256": "0baf4d8e4529ae80ebdc069b84f620baff4447a304fa698018210434f4225af0"
+  },
+  {
+    "utterance_id": "utt-0466",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0466.mp4",
+    "sha256": "040092f6bbd60676936625940dcbb8dc17d998378703cedc2beb59d584173b4a"
+  },
+  {
+    "utterance_id": "utt-0467",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0467.mp4",
+    "sha256": "2bad602251a07571485f058e05e155927f7dedd41c1f21f940a8da3c103731a1"
+  },
+  {
+    "utterance_id": "utt-0468",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0468.mp4",
+    "sha256": "fc1f640bfa9641e27ccaeeaad9fb395fae20e0c6da4b84f2eeb03d012aeac399"
+  },
+  {
+    "utterance_id": "utt-0469",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0469.mp4",
+    "sha256": "add826811440f8dadeed94f76bb14e543614f584657d45191f255efc8cb4df4a"
+  },
+  {
+    "utterance_id": "utt-0470",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0470.mp4",
+    "sha256": "7cb7bb5bfe99242272cd245ee9ebd6ec0fdb644da15d55fbf727014d2aee1215"
+  },
+  {
+    "utterance_id": "utt-0471",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0471.mp4",
+    "sha256": "594639f607119b996feb91d8c479a302449c2f485c359bad41526f268de1baf8"
+  },
+  {
+    "utterance_id": "utt-0472",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0472.mp4",
+    "sha256": "10bb71eed40ad9a12fda4a1662cf7c00f20f388847da61a83569fca6876b38e0"
+  },
+  {
+    "utterance_id": "utt-0473",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0473.mp4",
+    "sha256": "a569618c5cbe785aad29c25794d9951a177770f17921b9b809f9085eaef881d8"
+  },
+  {
+    "utterance_id": "utt-0474",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0474.mp4",
+    "sha256": "bc1aaa0e4f1d8bd251f978af8653eb6f63155b5489eac52b1ab29e09e09a1bc6"
+  },
+  {
+    "utterance_id": "utt-0475",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0475.mp4",
+    "sha256": "7cf44f8f471f40e6efbd3ac9fcdbe04c234234e98d9b1a6700c2be6199ef464c"
+  },
+  {
+    "utterance_id": "utt-0476",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0476.mp4",
+    "sha256": "6576816d7bf5f3648528fd1d6a9a36a197a2fcee31531f236d791d21c54922b9"
+  },
+  {
+    "utterance_id": "utt-0477",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0477.mp4",
+    "sha256": "854569e7d078a090503b7be361a79a0959f949e640e62b4bf394bce41b22b2a6"
+  },
+  {
+    "utterance_id": "utt-0478",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0478.mp4",
+    "sha256": "7348716a2487092cba0a7d63854ad39ea7071b49e72ccc7f992c9b481edffc34"
+  },
+  {
+    "utterance_id": "utt-0479",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0479.mp4",
+    "sha256": "cb80bbc246ca717405720336f762f869fe9ffed98eedc5909a06ee35d4dce623"
+  },
+  {
+    "utterance_id": "utt-0480",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0480.mp4",
+    "sha256": "9826c3baab9f40fdc00a90c9f86db9a0974f64a68dd2959c5c1dec0bb9b9b6bc"
+  },
+  {
+    "utterance_id": "utt-0481",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0481.mp4",
+    "sha256": "3f00b3821e07a447f3d5ca0e2a333af00ec64ae192199a6dfee637a44895620f"
+  },
+  {
+    "utterance_id": "utt-0482",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0482.mp4",
+    "sha256": "7b73489005d6d5db0033864f2d4b9e4b92319797869e50fe5ca4e94fb311dd21"
+  },
+  {
+    "utterance_id": "utt-0483",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0483.mp4",
+    "sha256": "44890350a0582ead727c0ace0b265b8cdfbb79670b91a8934ae0671030080867"
+  },
+  {
+    "utterance_id": "utt-0484",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0484.mp4",
+    "sha256": "0bde706dfc44046f253cf271fc1c654fd373d33b08a442db9aac5a49a8ea641d"
+  },
+  {
+    "utterance_id": "utt-0485",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0485.mp4",
+    "sha256": "630488642797a5804dc43bb77818391d07c8b456a5fc98f1ef1c02b62f36cdb3"
+  },
+  {
+    "utterance_id": "utt-0486",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0486.mp4",
+    "sha256": "bd456c180e1cbaeac7d14ee1bb17ce88f9e18483e47f4f823ad49069870c0922"
+  },
+  {
+    "utterance_id": "utt-0487",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0487.mp4",
+    "sha256": "4a6c88cafa9d59ad849c878823fce6f9064f78d1f8879df77c567c0da863a3bc"
+  },
+  {
+    "utterance_id": "utt-0488",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0488.mp4",
+    "sha256": "1cf843efbb3993c1143cc4f98ce75cc895571163ecdf08bac862726ac7596041"
+  },
+  {
+    "utterance_id": "utt-0489",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0489.mp4",
+    "sha256": "ad4ed0263bc0c13d2ce92073f770f2556ad1d418bc782cdd26f644d906576518"
+  },
+  {
+    "utterance_id": "utt-0490",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0490.mp4",
+    "sha256": "95344309fcb533b48ef34dd5faffca27e2ed16bc3ae857843299eb5d9c6e8d5f"
+  },
+  {
+    "utterance_id": "utt-0491",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0491.mp4",
+    "sha256": "5cccb431c504941e6c64d3af7c3613f8d6a568dedccd019ede7e0469866ad427"
+  },
+  {
+    "utterance_id": "utt-0492",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0492.mp4",
+    "sha256": "b6652d74ca299c8e495b564d0ac3a64b46cd8c6a5033688eeba8f6362c9de9ba"
+  },
+  {
+    "utterance_id": "utt-0493",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0493.mp4",
+    "sha256": "9a36c1677136e6c3bfa86fc6208ad2b79f5cff4722b1f141cce1cb39e8c3ac47"
+  },
+  {
+    "utterance_id": "utt-0494",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0494.mp4",
+    "sha256": "4ace4de39852171cb22d6861ce7848874df01e0506b4ccb24ada0e6a48b2b36f"
+  },
+  {
+    "utterance_id": "utt-0495",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0495.mp4",
+    "sha256": "23f801c12770c1839d81b5c691980b2abef1dff84023cc8e3508bac2b909e4fa"
+  },
+  {
+    "utterance_id": "utt-0496",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0496.mp4",
+    "sha256": "c5a7d88609a4e3f718b1120f3f47c0b5fb69c9baff2dbfadf9a067306a32a777"
+  },
+  {
+    "utterance_id": "utt-0497",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0497.mp4",
+    "sha256": "45841cc2c6e50878abaae95590ca340039a16e3fee0a5897ba5348ed6c88ede2"
+  },
+  {
+    "utterance_id": "utt-0498",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0498.mp4",
+    "sha256": "cbc51428209c266b809995e62fbd6e5c9f87ac1351d74c500415be5bf51ff31b"
+  },
+  {
+    "utterance_id": "utt-0499",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0499.mp4",
+    "sha256": "8aa7be327759cc9b1a819b6ed4bd1668a3b7240b0b19b224f934a729c8f8459b"
+  },
+  {
+    "utterance_id": "utt-0500",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0500.mp4",
+    "sha256": "4286dc1354392affe2b5a9d902e3a672cd568e0cd694e5bcaa036e63cf9cc1d0"
+  },
+  {
+    "utterance_id": "utt-0501",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0501.mp4",
+    "sha256": "cf1c43dfd22076c5f4f4798b36312bb9dc2fae544f9c72db7a9e5974385178da"
+  },
+  {
+    "utterance_id": "utt-0502",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0502.mp4",
+    "sha256": "6d951c63d761f4989951400cf857f3915bafdad553e8d0848bd066d1d3fd85f0"
+  },
+  {
+    "utterance_id": "utt-0503",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0503.mp4",
+    "sha256": "ee8cdc392a0fe3dc2e4e28dae60f1f57c41383dd5ab0b9428ff76759c084c648"
+  },
+  {
+    "utterance_id": "utt-0504",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0504.mp4",
+    "sha256": "f63a74e0625105675bdab26e5d3b7998215e329b4babc5bbaebb5c9da9ac00aa"
+  },
+  {
+    "utterance_id": "utt-0505",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0505.mp4",
+    "sha256": "7c74df8b60496cd8c74f35841ec4f1e841e8d4b9ecf1c1f1def502273575c7ce"
+  },
+  {
+    "utterance_id": "utt-0506",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0506.mp4",
+    "sha256": "3eb3471eb0a1247b9d4c71575269c877c2271f85c0910f6e48d420d553627f81"
+  },
+  {
+    "utterance_id": "utt-0507",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0507.mp4",
+    "sha256": "c3b8beb34d7c961a951d38b7ed217ffd9e420cf58ecc65fd573804dccee7b00a"
+  },
+  {
+    "utterance_id": "utt-0508",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0508.mp4",
+    "sha256": "ae60eec138ac4d0a1045cd6552a1b3f4e44ad2d3f9d25d15b12ecf68e702396e"
+  },
+  {
+    "utterance_id": "utt-0509",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0509.mp4",
+    "sha256": "05ee26fc22f4ebd838db4be1704a722ca53e781f598a1c02afd445ca99a2fc70"
+  },
+  {
+    "utterance_id": "utt-0510",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0510.mp4",
+    "sha256": "41d3ddcc4cf825e85b3b399026d643c4a243f0f2c2a119025206fa819d327bc6"
+  },
+  {
+    "utterance_id": "utt-0511",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0511.mp4",
+    "sha256": "9b08bfa1937fba83fa1f434295fa30abd93105089dbbe67cfd68f2af0366ca11"
+  },
+  {
+    "utterance_id": "utt-0512",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0512.mp4",
+    "sha256": "57b5d2f039e9da47b93ce180b5e71221a7a84b22bc7d6147308d0f80b8dac798"
+  },
+  {
+    "utterance_id": "utt-0513",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0513.mp4",
+    "sha256": "1c107ea0e96b0c82d45cdb31eca82da84cae64a9c6a16be85f4b5f34ca5dcb98"
+  },
+  {
+    "utterance_id": "utt-0514",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0514.mp4",
+    "sha256": "ee62cc6456134905efb1ef30f794432ca6724f378b3d3794a5176068ce119059"
+  },
+  {
+    "utterance_id": "utt-0515",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0515.mp4",
+    "sha256": "8d08339ea0d44d763893af99e99533c1b2bca5651f88fdf77931cd9fc27034c7"
+  },
+  {
+    "utterance_id": "utt-0516",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0516.mp4",
+    "sha256": "276fef1362689ef0ae207e6fd73e1112cca4d5aafbe022273bb246f82d06ab07"
+  },
+  {
+    "utterance_id": "utt-0517",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0517.mp4",
+    "sha256": "2094d8b2e76fe92ee84f808fb0f0feb163ec9f9cddc766028f3f6cc24b5221f8"
+  },
+  {
+    "utterance_id": "utt-0518",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0518.mp4",
+    "sha256": "4f409f4c2811fa10742ed2560108bba2a6ac482601f01615f62191eb9e1c9fa3"
+  },
+  {
+    "utterance_id": "utt-0519",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0519.mp4",
+    "sha256": "6f3edd34c512c9cddbab6021b32d5436725601965354e8e6cc82934a62eea20e"
+  },
+  {
+    "utterance_id": "utt-0520",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0520.mp4",
+    "sha256": "792d012585210f5337a12ccf29562bb459f8671c058c078c0985b0699ebdf1af"
+  },
+  {
+    "utterance_id": "utt-0521",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0521.mp4",
+    "sha256": "e9d317a75dc7bbbdf462e12266c771a983f59e858a16dfdd521b97c6a7e39c6c"
+  },
+  {
+    "utterance_id": "utt-0522",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0522.mp4",
+    "sha256": "e487f389e3328f79bf9f0acba04827b04e0c1ac6bbda9d302605d3ddbac583d1"
+  },
+  {
+    "utterance_id": "utt-0523",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0523.mp4",
+    "sha256": "c5ce71248414da91a0c72d0789218bf65dd83ba22071f077fa9beec21146fe92"
+  },
+  {
+    "utterance_id": "utt-0524",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0524.mp4",
+    "sha256": "6c29ad2735240ac46be5fd233e8b59e1e3da2c02f708c0469814079c22bdb5a4"
+  },
+  {
+    "utterance_id": "utt-0525",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0525.mp4",
+    "sha256": "f4d5cb36732075633d3f77dfd1f3f674ba194fff89700f3b5c53bc4f9f224155"
+  },
+  {
+    "utterance_id": "utt-0526",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0526.mp4",
+    "sha256": "4c75ea4f548c9f806d0459267777ab9e822d11c1d06a910fb2dd20ba2127513c"
+  },
+  {
+    "utterance_id": "utt-0527",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0527.mp4",
+    "sha256": "029ecdb3a5e6299b104c97fadcdff1ae27bedd0af36eae0886e1cb6d7115b1c5"
+  },
+  {
+    "utterance_id": "utt-0528",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0528.mp4",
+    "sha256": "2ab4a15f49b07d193f0ab74c92e00fccaad93902e08d6cdbff358bdb0b3f61a6"
+  },
+  {
+    "utterance_id": "utt-0529",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0529.mp4",
+    "sha256": "b830b251862266e9bcc54dfa46c95bb52152db009e3757614c86a78a04bfb7d4"
+  },
+  {
+    "utterance_id": "utt-0530",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0530.mp4",
+    "sha256": "8cd0291df9159f234ad32825bb39906e4475ed0fa5624f263e6f8bdaebfb3976"
+  },
+  {
+    "utterance_id": "utt-0531",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0531.mp4",
+    "sha256": "4f2b62545c992d2eabed139f6ada6d9a615754cbba6ee087a0ee111f5f499d55"
+  },
+  {
+    "utterance_id": "utt-0532",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0532.mp4",
+    "sha256": "ef22f89792a55eaccc969df57677cee9bb7f1f9a879514d619a704981f51ec75"
+  },
+  {
+    "utterance_id": "utt-0533",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0533.mp4",
+    "sha256": "e64bb4dab7c0be6e781e6968a9fcbd4e6c6dc752214d9766803ef99d81b55c67"
+  },
+  {
+    "utterance_id": "utt-0534",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0534.mp4",
+    "sha256": "6ccc4d70812122e08998da34584beeda1d259259ca394abc0f5c9b2aa876943d"
+  },
+  {
+    "utterance_id": "utt-0535",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0535.mp4",
+    "sha256": "ec9ad5223a24850b917d048a9f09ff79e26e230953d980a549d766cb47742975"
+  },
+  {
+    "utterance_id": "utt-0536",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0536.mp4",
+    "sha256": "b35c4b667294a03cd45339e5053d374ca88db9530bce09ac5ae08f765d2bf519"
+  },
+  {
+    "utterance_id": "utt-0537",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0537.mp4",
+    "sha256": "5c92a759094d2153da5e136f88e9a3a582e2e52fe5d761de1248c3a09aa1bbfd"
+  },
+  {
+    "utterance_id": "utt-0538",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0538.mp4",
+    "sha256": "d84b35c4ccb62af23890ac7d1ea2ec9bdf591dc49d0435afeb504377889f5101"
+  },
+  {
+    "utterance_id": "utt-0539",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0539.mp4",
+    "sha256": "fa0f1a21e0a8a99ae334eb7fd9f766398e259af46068af2ea16244fbd4577bd5"
+  },
+  {
+    "utterance_id": "utt-0540",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0540.mp4",
+    "sha256": "004e64d23320934d83de766735362ef302522af661d5d17ee8e8e489b36e8d78"
+  },
+  {
+    "utterance_id": "utt-0541",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0541.mp4",
+    "sha256": "913d75ef16f71e5d2e0a0db5451ef2a7c543e988b132610ae9d4e50c366830df"
+  },
+  {
+    "utterance_id": "utt-0542",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0542.mp4",
+    "sha256": "39aa54fdf78e458866d2cb4013235aa6403776f0ec929744fd6cb17b212b26af"
+  },
+  {
+    "utterance_id": "utt-0543",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0543.mp4",
+    "sha256": "cdf023ab1be7a536fa0a972bfafae64b2b1d94c0f94ebaa0e98a6313482a94d2"
+  },
+  {
+    "utterance_id": "utt-0544",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0544.mp4",
+    "sha256": "58e90d506f3070433a3fdb5f34dea1dc431066c8561a863888c029dc9b646a0b"
+  },
+  {
+    "utterance_id": "utt-0545",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0545.mp4",
+    "sha256": "46d8a75973711684a868b564cfa954997fbea4829450fddd8267bd78a49b7169"
+  },
+  {
+    "utterance_id": "utt-0546",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0546.mp4",
+    "sha256": "54d676e26a829bbdeadb54435b88951826fe529bac901172ad64308eb27fabf4"
+  },
+  {
+    "utterance_id": "utt-0547",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0547.mp4",
+    "sha256": "d68cb12b9b01d4fbcc5d4afe14e05333d9825a77522e98f8da8afae0cb283a32"
+  },
+  {
+    "utterance_id": "utt-0548",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0548.mp4",
+    "sha256": "034885be2d64416554dc49557e882e60bc1e415754e9324aad467c9e643249a9"
+  },
+  {
+    "utterance_id": "utt-0549",
+    "label": "CALL_CAREGIVER",
+    "path": "护理协助_CALL_CAREGIVER/utt-0549.mp4",
+    "sha256": "d6c7ebfd6a0c97d412f454e91391441105b96610541077db5b600213df15137e"
+  },
+  {
+    "utterance_id": "utt-0550",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0550.mp4",
+    "sha256": "e39f009b099fd59d79ebeb7835464b613b11339f8b5b9a7870fa0d1fe8d27a47"
+  },
+  {
+    "utterance_id": "utt-0551",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0551.mp4",
+    "sha256": "03a45e015e3b498576644da6f285088abf57bc413857eb18c97e937195dda914"
+  },
+  {
+    "utterance_id": "utt-0552",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0552.mp4",
+    "sha256": "ef0158536a1a7d806f8ac0d4d98ad2e9efda62c3e7daf6bce918b2017c5eb3b1"
+  },
+  {
+    "utterance_id": "utt-0553",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0553.mp4",
+    "sha256": "a6c6b211158e786acc8cd9d65ab7b65be5e08104be3962f0d5f45f1a3661b7a5"
+  },
+  {
+    "utterance_id": "utt-0554",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0554.mp4",
+    "sha256": "2f3a0722cbc78aaf62f045aa58ec142e65762273c7ebf41d5f2508955244c2d6"
+  },
+  {
+    "utterance_id": "utt-0555",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0555.mp4",
+    "sha256": "58e12c3953972ed825675752b8f1127beeec116da5180a863492b4e4690f9b35"
+  },
+  {
+    "utterance_id": "utt-0556",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0556.mp4",
+    "sha256": "2c6b27bf2c4c3c84c5cf30baa013538ff6cb003170a3d23538bd493871f9689f"
+  },
+  {
+    "utterance_id": "utt-0557",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0557.mp4",
+    "sha256": "c79ea731adc56e9b1400263894631e87aa9cf98748d5f45780cad5535a470211"
+  },
+  {
+    "utterance_id": "utt-0558",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0558.mp4",
+    "sha256": "2f9e76a4be0a039711d28a238379c0bf96eb226b453df35c2432455df14a2f00"
+  },
+  {
+    "utterance_id": "utt-0559",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0559.mp4",
+    "sha256": "3f95b36c6289b5adc8e34f0f5325d1d5612ebcb6fbf51469af2c0e067e332d46"
+  },
+  {
+    "utterance_id": "utt-0560",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0560.mp4",
+    "sha256": "4f73a506612dd1496b6ed5d101275b3d76e90a656899e9f0ddb8a0536a2d4d62"
+  },
+  {
+    "utterance_id": "utt-0561",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0561.mp4",
+    "sha256": "2ba27617eb9497eba045a9e8a282d479b23828629252998157a96fa41fc0510b"
+  },
+  {
+    "utterance_id": "utt-0562",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0562.mp4",
+    "sha256": "21ef8856dcf345462112a59ca0924e135210abb93b69d3a208856b037b997d46"
+  },
+  {
+    "utterance_id": "utt-0563",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0563.mp4",
+    "sha256": "04303e67b25b670909d6dc6586bd3778ede1f953b0eaa7f2f3fd81de4c81cec3"
+  },
+  {
+    "utterance_id": "utt-0564",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0564.mp4",
+    "sha256": "96642d8fc7b247b750464feccf1c0d88dc9f9c6f6557371af4ebfdd32cb455fa"
+  },
+  {
+    "utterance_id": "utt-0565",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0565.mp4",
+    "sha256": "b9204f4683a142acc875488b27b6902ab3d5b92c6a30ea04f8238a49c0055eac"
+  },
+  {
+    "utterance_id": "utt-0566",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0566.mp4",
+    "sha256": "dec59a5971da95d2dc9c01310197e6e28cddb4f9367a41b5e4414f966e704f53"
+  },
+  {
+    "utterance_id": "utt-0567",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0567.mp4",
+    "sha256": "a9ec76a1e3f872cf6c1d069ad8453a31c2ab34a951c0668d83197b3f570144c7"
+  },
+  {
+    "utterance_id": "utt-0568",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0568.mp4",
+    "sha256": "a31010180187ddf721517365ef69cfa91b3d2831f8302dd645fe9641ac7183b8"
+  },
+  {
+    "utterance_id": "utt-0569",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0569.mp4",
+    "sha256": "6470c03b32ada10f29f4139de140133f1a955393c54d1038e41be6e78b561207"
+  },
+  {
+    "utterance_id": "utt-0570",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0570.mp4",
+    "sha256": "503f1e84e9e0d25e64a17e5f8bf7459e22597e1079c9376f68dfdcfc60f51914"
+  },
+  {
+    "utterance_id": "utt-0571",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0571.mp4",
+    "sha256": "3ca3fc47974bf1a6f572de0e2544f30644eb20d091af6fb355b1d64512769a1f"
+  },
+  {
+    "utterance_id": "utt-0572",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0572.mp4",
+    "sha256": "854da1f24e7fe1fec15c17b2a6f9f661b661d2023c15682b522a86bce6d95499"
+  },
+  {
+    "utterance_id": "utt-0573",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0573.mp4",
+    "sha256": "90b7f4d10429e1705df8d62983d135c148eebcf5be6bc6e8000cb0beb396b552"
+  },
+  {
+    "utterance_id": "utt-0574",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0574.mp4",
+    "sha256": "066de88527a4b82ddf4720bb84697c1006b66aea4e9373948162b259ef84d73c"
+  },
+  {
+    "utterance_id": "utt-0575",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0575.mp4",
+    "sha256": "14743bc76f16566cdc354b73745df94bbe976ee653c9515157318a38230e61b6"
+  },
+  {
+    "utterance_id": "utt-0576",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0576.mp4",
+    "sha256": "eee552d9ea84379b66dd15029f6816ba8bfed534bc8c6b606fa9044a8d106924"
+  },
+  {
+    "utterance_id": "utt-0577",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0577.mp4",
+    "sha256": "1c94cf4ac2d42c857fab9eaf346ba10f92c7c2e662e3f4858f96b58237117088"
+  },
+  {
+    "utterance_id": "utt-0578",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0578.mp4",
+    "sha256": "99990aaa5361300921d6d4fe6720e83b1ac62e7c22c2673bd3744a234ac8b884"
+  },
+  {
+    "utterance_id": "utt-0579",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0579.mp4",
+    "sha256": "bf2ea427c3cad88bb00ee1e032bf8c70e5fde1be8f1b2f0192ae1cdd5ab05e60"
+  },
+  {
+    "utterance_id": "utt-0580",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0580.mp4",
+    "sha256": "e60969f59f9b947a3f30c910c4f2e2ea5bfba7ff0b8e85e6a5335639e624f6da"
+  },
+  {
+    "utterance_id": "utt-0581",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0581.mp4",
+    "sha256": "1a7b6ef43f6128c1e6decf86c81c6add3e29dfce1af99c0f16106526fd975082"
+  },
+  {
+    "utterance_id": "utt-0582",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0582.mp4",
+    "sha256": "f7cbcba6f282ec9935ea1f06294015ceb1011810175720e59ed751c8c2047cf4"
+  },
+  {
+    "utterance_id": "utt-0583",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0583.mp4",
+    "sha256": "00ba21bc900fccca40bfb70cb860e9f941f2199aca86a58e23b8158470197180"
+  },
+  {
+    "utterance_id": "utt-0584",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0584.mp4",
+    "sha256": "8656a9896e98efd747a6bdec82ed9148e18eaee11d067b07f1303005e44b7b5a"
+  },
+  {
+    "utterance_id": "utt-0585",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0585.mp4",
+    "sha256": "df4e79383b7d9f7e0e5c5425046a6cd8fcfab158490373cf81cbbca502ab2e8a"
+  },
+  {
+    "utterance_id": "utt-0586",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0586.mp4",
+    "sha256": "14605a2dfe5f4f4bfeb59615c17ab0f56f9eb87a1703133b373c0a5cfcda2b11"
+  },
+  {
+    "utterance_id": "utt-0587",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0587.mp4",
+    "sha256": "758973d435edeb27614996028ea8a8f36be02444b37d52a77cebcec4b9a7b17b"
+  },
+  {
+    "utterance_id": "utt-0588",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0588.mp4",
+    "sha256": "414600c8b4c072205f5c3b659c93e0943e4ab60f17f4b62b7478e8ab64d17885"
+  },
+  {
+    "utterance_id": "utt-0589",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0589.mp4",
+    "sha256": "d7974489c7a96340a19838b37a101eab8680cebd24bb689f43802da7e65726a5"
+  },
+  {
+    "utterance_id": "utt-0590",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0590.mp4",
+    "sha256": "949006edda2bb0554c4dc2a31207c162b5c57968329dd490420f0d43c37d258b"
+  },
+  {
+    "utterance_id": "utt-0591",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0591.mp4",
+    "sha256": "14b5838cb265e3ecbf6420b62183ca4ef7f99a1528690766a74ce3c21fdc47e1"
+  },
+  {
+    "utterance_id": "utt-0592",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0592.mp4",
+    "sha256": "421dc86f0d5d597f5dc2ece174f0172d2c16f73b94b50a5f436c2b1934f47a41"
+  },
+  {
+    "utterance_id": "utt-0593",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0593.mp4",
+    "sha256": "6b9df1866b15bb86012ac86abfc83a7ba115848b574419858b69ad63ffd55917"
+  },
+  {
+    "utterance_id": "utt-0594",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0594.mp4",
+    "sha256": "50244e614f3d5bf1bdb324ac32ba1dc82ce30397e23a00796b6e1c2d0ba92841"
+  },
+  {
+    "utterance_id": "utt-0595",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0595.mp4",
+    "sha256": "208ae1ab0f4673764883bb370edd7ad8b5095cacede21a1b32f7c4ad6294d3c6"
+  },
+  {
+    "utterance_id": "utt-0596",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0596.mp4",
+    "sha256": "69af8243b72c7bf53b6d7a1988b312264b205bf97b07db0cfc290a6ccb12fcf3"
+  },
+  {
+    "utterance_id": "utt-0597",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0597.mp4",
+    "sha256": "98b8c54836a1c7e94c320ea9cef66a7b9e29d077b08636127c593a4c83b49054"
+  },
+  {
+    "utterance_id": "utt-0598",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0598.mp4",
+    "sha256": "fa217284006777023be25787d0674f7c9cdf352111bfe2ea6b473248a013c9c5"
+  },
+  {
+    "utterance_id": "utt-0599",
+    "label": "MEDICINE_REMINDER",
+    "path": "用药_MEDICINE_REMINDER/utt-0599.mp4",
+    "sha256": "f78f34f1fce2417acc8b27108927b20f5be30e99491e0432991519d5081bd1fc"
+  },
+  {
+    "utterance_id": "utt-0600",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0600.mp4",
+    "sha256": "9823e1e13b8717abd9b5baca8a3e99b93f2ba9f306e9e45ad657e7da097e8fce"
+  },
+  {
+    "utterance_id": "utt-0601",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0601.mp4",
+    "sha256": "f9f522871ca2f3d4530a9761319cb0ac98930901d2b0b46c21ef1d4a59238bbc"
+  },
+  {
+    "utterance_id": "utt-0602",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0602.mp4",
+    "sha256": "4d1954301868935d23075a09986145e60a383f418dd2a4330578236379359dad"
+  },
+  {
+    "utterance_id": "utt-0603",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0603.mp4",
+    "sha256": "f680217f09ef01b70c037bb5ef32f5ce792dc813d36327105946dc3ba5ebcf09"
+  },
+  {
+    "utterance_id": "utt-0604",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0604.mp4",
+    "sha256": "7633fb97b66e055c56ab53fe278d393a82eae53d6de534c5bf7b4a49c7e50c1f"
+  },
+  {
+    "utterance_id": "utt-0605",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0605.mp4",
+    "sha256": "d9d16f8089c3780fb7bb234e8d00e224d668c82bc0e4220766922c728eebcd7a"
+  },
+  {
+    "utterance_id": "utt-0606",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0606.mp4",
+    "sha256": "75201f47dc3a629eaa9548db88414099bd00bc7a6f188b5bd2a29a76cb6063d2"
+  },
+  {
+    "utterance_id": "utt-0607",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0607.mp4",
+    "sha256": "9ec813f43246519fb79fc64b9321b12b31a4463824f78df0d3041b767238d893"
+  },
+  {
+    "utterance_id": "utt-0608",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0608.mp4",
+    "sha256": "e1f7eddf6ceb6d1808b51a920cef3343c34ed3d9ce335577e31ada425d672c71"
+  },
+  {
+    "utterance_id": "utt-0609",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0609.mp4",
+    "sha256": "0541b1b1e52a05b5e1945f681fdc75111fa34b1ebdd71b7ed522fa7766e8b9b4"
+  },
+  {
+    "utterance_id": "utt-0610",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0610.mp4",
+    "sha256": "2d48218379fc299363fa4d72c8d842b462397d91102810827bd9a1e472d20ff0"
+  },
+  {
+    "utterance_id": "utt-0611",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0611.mp4",
+    "sha256": "b52778ef1b78526500818f487732def9160714e7181ebe96a73b0c2debec41dd"
+  },
+  {
+    "utterance_id": "utt-0612",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0612.mp4",
+    "sha256": "4e1499a62dda686a82f0ede64df93d6b4bc9ce159a74555e2a13b2651a9dee9a"
+  },
+  {
+    "utterance_id": "utt-0613",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0613.mp4",
+    "sha256": "cb5a42eceaaac4fc61b2f940f58df1db9223e4737753bb2eb7a539b30904c9f6"
+  },
+  {
+    "utterance_id": "utt-0614",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0614.mp4",
+    "sha256": "30c70f17543006ef253b2f59c4d111f985f348bab7701c36d02b5e701c7af6d8"
+  },
+  {
+    "utterance_id": "utt-0615",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0615.mp4",
+    "sha256": "738641afe3679ac6b643f1d6d33b5cb11f82cbd5cff6e8a4a0e88d1dde887d5c"
+  },
+  {
+    "utterance_id": "utt-0616",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0616.mp4",
+    "sha256": "c190a9a8813148ab731115892d29902ffec7abaf2dcaa41fd04afccf49612333"
+  },
+  {
+    "utterance_id": "utt-0617",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0617.mp4",
+    "sha256": "1d55dd2422a8c9f8f771be4be4dc4572047fbf05b0ff492de712c45da60276ff"
+  },
+  {
+    "utterance_id": "utt-0618",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0618.mp4",
+    "sha256": "6a8d1acf6ce0ae24de4847b06ad785b0fcb3efe4a6cb0b0cb9aad4e9ca694272"
+  },
+  {
+    "utterance_id": "utt-0619",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0619.mp4",
+    "sha256": "d5ffde9b12a5c67da83a1ee2ac0a872b5042985a689b2544524a2975eebca65f"
+  },
+  {
+    "utterance_id": "utt-0620",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0620.mp4",
+    "sha256": "6944458a84b0b1bcbf2270bf6d53bd74d0f1188dcfe57c77f7232da09d031834"
+  },
+  {
+    "utterance_id": "utt-0621",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0621.mp4",
+    "sha256": "829ac3b3a9c9a07bad376e70c20098757ca6c5ecdaae49df3cb9d8449860ebdb"
+  },
+  {
+    "utterance_id": "utt-0622",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0622.mp4",
+    "sha256": "5fa27ff89a384d53822c6cf8f03f3ab6738f0d00e83523f325f52c764e7a4f99"
+  },
+  {
+    "utterance_id": "utt-0623",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0623.mp4",
+    "sha256": "8e453e25ae8ca180411bd0fb3654372cf173f1b9a3413c273f95236ed702e8c5"
+  },
+  {
+    "utterance_id": "utt-0624",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0624.mp4",
+    "sha256": "1f02eb7db94967e773299ef95c32deb9d2ddb2476ae6116de70816607c8c418c"
+  },
+  {
+    "utterance_id": "utt-0625",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0625.mp4",
+    "sha256": "1e018c27bb94e1f4402e005820015cb9aa0fdd65c712b612b96488dae0f8a401"
+  },
+  {
+    "utterance_id": "utt-0626",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0626.mp4",
+    "sha256": "a78d17cc248cbf03ad27cca54c98cb1452ca28aaeca79d8736d12ff6cfd97ff5"
+  },
+  {
+    "utterance_id": "utt-0627",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0627.mp4",
+    "sha256": "36cc55a5d8111f916808e8134c3ea58c92de86266f1bbaa2174df70125a704d4"
+  },
+  {
+    "utterance_id": "utt-0628",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0628.mp4",
+    "sha256": "390872b9ff0c01bb923f89ff3aff310a0fbe9ee3c73d3e7fcb65b0170f65863f"
+  },
+  {
+    "utterance_id": "utt-0629",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0629.mp4",
+    "sha256": "d97d2e2fd812dfcf7ce24968d857333a784c71bbc2312eeff3fa2efb6403ad53"
+  },
+  {
+    "utterance_id": "utt-0630",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0630.mp4",
+    "sha256": "15464350862c20b7fbe325e2584130c2ee2e225e57c2131248a431e9aa74b63b"
+  },
+  {
+    "utterance_id": "utt-0631",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0631.mp4",
+    "sha256": "41ee2addf8c20c0f98d284bad13aa23a7269b9b5f5d643ec0f3b33fd834037e6"
+  },
+  {
+    "utterance_id": "utt-0632",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0632.mp4",
+    "sha256": "7559de41de63ef656caf43ba689d2a61b79b90aebd38aa5c7d2320fae84cae2c"
+  },
+  {
+    "utterance_id": "utt-0633",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0633.mp4",
+    "sha256": "a53b2b061f3a5acdf82b19c200beed307d97758edb4b6f04c329dff0c0bbc306"
+  },
+  {
+    "utterance_id": "utt-0634",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0634.mp4",
+    "sha256": "ebd4d0e0dc28376b1875493444994000cbd27298d72ba3f580a3233551d629da"
+  },
+  {
+    "utterance_id": "utt-0635",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0635.mp4",
+    "sha256": "8964750434544297e643a32d4a67866b19d12311197687c8498c129f82c54b3c"
+  },
+  {
+    "utterance_id": "utt-0636",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0636.mp4",
+    "sha256": "49410782537dbf1330c9e50fcf3121982de92a83928fa495c15aff8f9530b3a8"
+  },
+  {
+    "utterance_id": "utt-0637",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0637.mp4",
+    "sha256": "69b7d29a94d3f791a0229eb39dc475320b81fcab6f261532f6073c164f79043f"
+  },
+  {
+    "utterance_id": "utt-0638",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0638.mp4",
+    "sha256": "b9e2ae28c9561e9fa04c6d5aadef4ac759bca715fe859a736c408048b6c8f3ab"
+  },
+  {
+    "utterance_id": "utt-0639",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0639.mp4",
+    "sha256": "7feff68685a9ac282fc5feebf2e3d9a4d927d388d9b836e3d2924d20c0e86302"
+  },
+  {
+    "utterance_id": "utt-0640",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0640.mp4",
+    "sha256": "92625197a7ded24d4e08a75912c818262f3e28a19e4ad3be0dc6e592d5c41ba0"
+  },
+  {
+    "utterance_id": "utt-0641",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0641.mp4",
+    "sha256": "97fc0465da2cc0d221ebc4d5a58dcd83591120af6126e8795a1e5b19e4d8d68a"
+  },
+  {
+    "utterance_id": "utt-0642",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0642.mp4",
+    "sha256": "3c72ceeedce7c1af1c06c3029b243a1c8241e32967b9a4d0c6d89e553f3f51e8"
+  },
+  {
+    "utterance_id": "utt-0643",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0643.mp4",
+    "sha256": "22b03118cfa8450bcfd93f8d8ef36e98ec9a1aafcadd0ce14c0055f71e7ec4eb"
+  },
+  {
+    "utterance_id": "utt-0644",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0644.mp4",
+    "sha256": "facf3c3661f3438092ebce4e61472f0b57b040674266db57ece2fda2ac41415d"
+  },
+  {
+    "utterance_id": "utt-0645",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0645.mp4",
+    "sha256": "696bfbcad7a8d8901d3f4de0513672ec1461903899957d3e668c3a2344f5a19c"
+  },
+  {
+    "utterance_id": "utt-0646",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0646.mp4",
+    "sha256": "9ad2b8cff390dde6e2bea56f6b9ee17bfaff74229bb78a4ee8663ce5376235c9"
+  },
+  {
+    "utterance_id": "utt-0647",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0647.mp4",
+    "sha256": "f543664947f2f438a9afaf00276a3ba01d31dfae183522cbf9b3b6217421ed9d"
+  },
+  {
+    "utterance_id": "utt-0648",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0648.mp4",
+    "sha256": "b5a140193e0c91ad5d3e6500c365a98c47b6e22bcbac9fa0a50810b8646c08ef"
+  },
+  {
+    "utterance_id": "utt-0649",
+    "label": "SOS",
+    "path": "紧急求助_SOS/utt-0649.mp4",
+    "sha256": "9f9254182d6989fa588566ae97636b858c2eb903ecdbb73994fb4cce5462f061"
+  },
+  {
+    "utterance_id": "utt-0650",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0650.mp4",
+    "sha256": "61a1f47cdae02d9bcc52b593e02ea5885f605c9e36e9fb585b5ab54c28d09e4c"
+  },
+  {
+    "utterance_id": "utt-0651",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0651.mp4",
+    "sha256": "91b8f797aff58cc28ee6ae177d5e1a287f90144b095f0b17616fabcf31f5f144"
+  },
+  {
+    "utterance_id": "utt-0652",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0652.mp4",
+    "sha256": "b60cc46053e71ab1ce1ea88397aa29aa3d728d53a905d5da40a41bb09a7e4a65"
+  },
+  {
+    "utterance_id": "utt-0653",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0653.mp4",
+    "sha256": "dc6da284c1181f4d636c9b6998325e8cd97230cf619990dcb4186056ab832d32"
+  },
+  {
+    "utterance_id": "utt-0654",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0654.mp4",
+    "sha256": "17ca40cdca589752ba917805fe58eca0002005a2bd635fcb64828e07cbc35f97"
+  },
+  {
+    "utterance_id": "utt-0655",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0655.mp4",
+    "sha256": "7f831a4a5c5c0502efc68514721b500b609d472c9769df451729df0c6d51ddec"
+  },
+  {
+    "utterance_id": "utt-0656",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0656.mp4",
+    "sha256": "ebeb28088d4959d538c89d2030b9d99400a26018704c6b44179a29ccc3e8f1b8"
+  },
+  {
+    "utterance_id": "utt-0657",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0657.mp4",
+    "sha256": "afe844bbada1babca1f82f366ab946678182897636425f12fccd9f157c0e1639"
+  },
+  {
+    "utterance_id": "utt-0658",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0658.mp4",
+    "sha256": "02fcc357e3cea920a946d0e22fbd808ab370e46283e9e72492d776bd5e5c108f"
+  },
+  {
+    "utterance_id": "utt-0659",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0659.mp4",
+    "sha256": "f2bfca92a94d374b185c96596a247c897b3220e6d684d07e09e7d56e9d4bf97a"
+  },
+  {
+    "utterance_id": "utt-0660",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0660.mp4",
+    "sha256": "bbeafd1e0019c3507ead932312c39fb82a73220f4018f6fd4e7c3f118fabaf2c"
+  },
+  {
+    "utterance_id": "utt-0661",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0661.mp4",
+    "sha256": "509e900fc85ac1cdafbdb9b51a6207e81ae5052abf9216f5efa750e1e3d8c208"
+  },
+  {
+    "utterance_id": "utt-0662",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0662.mp4",
+    "sha256": "7652bed7ee490b5d13c9e080a1a3f8b0050d76e81a5f803a3feae607d50e20b7"
+  },
+  {
+    "utterance_id": "utt-0663",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0663.mp4",
+    "sha256": "0fbb31ba60a1ab643d99a49abc6094849260dfd67b41c39f0cb6632ed61e9b4b"
+  },
+  {
+    "utterance_id": "utt-0664",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0664.mp4",
+    "sha256": "361f63542d4daef6d7b3e331b90d3bfd5bec9e81d246946bb9e18558a56b654e"
+  },
+  {
+    "utterance_id": "utt-0665",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0665.mp4",
+    "sha256": "3bbd5eacf0930ac41f69675fe523b1ed6c13775d7f4b1bb4e3bb7114c196e7d3"
+  },
+  {
+    "utterance_id": "utt-0666",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0666.mp4",
+    "sha256": "9aac8bb0e521232630076efb74b9b22e6845440491719a1e0afe8484ec16d998"
+  },
+  {
+    "utterance_id": "utt-0667",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0667.mp4",
+    "sha256": "ba678db23d7360585d7f5061b64503cc86e6d88622edd8d5d52c7af1981151fc"
+  },
+  {
+    "utterance_id": "utt-0668",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0668.mp4",
+    "sha256": "bebb4d192209067f587458f1da0c0c811263b6bc04fea26c9013db812dcc325a"
+  },
+  {
+    "utterance_id": "utt-0669",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0669.mp4",
+    "sha256": "90b999227f3346d05ce13a9a269c83dff60393388d5e33aae61aed9eb68f8d08"
+  },
+  {
+    "utterance_id": "utt-0670",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0670.mp4",
+    "sha256": "c84f6b6159ff60d7116fe77ade535ba5a467396daefc16815dd80f9fdb2cabed"
+  },
+  {
+    "utterance_id": "utt-0671",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0671.mp4",
+    "sha256": "21756e656bb1b6d9b198ce97fc4232163015b583be2194ebc680b3fd62e4a6dd"
+  },
+  {
+    "utterance_id": "utt-0672",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0672.mp4",
+    "sha256": "efdfeb247b48d213ad55910f418502215e2ac0c263f21b1118b5a0d5af2c5a45"
+  },
+  {
+    "utterance_id": "utt-0673",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0673.mp4",
+    "sha256": "e9cde690fd213533a9ed7a963cb66f3235c00a418bc8639a24a192be5f193dd7"
+  },
+  {
+    "utterance_id": "utt-0674",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0674.mp4",
+    "sha256": "b6f3a4ed35040a42627e6e6688604cd010eeff1ec1ab8c5f1213f23c57336fba"
+  },
+  {
+    "utterance_id": "utt-0675",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0675.mp4",
+    "sha256": "7e35bb3fd67f591bd24688cd8f742d3fa07b89162cb1eaaf0edf40377dc4cc8a"
+  },
+  {
+    "utterance_id": "utt-0676",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0676.mp4",
+    "sha256": "1d7eae4c923447b52b49a29c33b79823e64647c755525b4a20e717cda0f809bd"
+  },
+  {
+    "utterance_id": "utt-0677",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0677.mp4",
+    "sha256": "11a2599293242000b6b7b4e8d7e0392a6d5b9af653b86afcf93d7e256e1c1e84"
+  },
+  {
+    "utterance_id": "utt-0678",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0678.mp4",
+    "sha256": "5256ebbcdb2fcff61952a2235753943644356c2ed452f39cce68b86c78be79a7"
+  },
+  {
+    "utterance_id": "utt-0679",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0679.mp4",
+    "sha256": "ddabdb75a954bb9387254ee807eee5532a658898c9c858c5f580540030616692"
+  },
+  {
+    "utterance_id": "utt-0680",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0680.mp4",
+    "sha256": "f29636e986e15c08a3c6be0a52f4e3b4a42edcc21e1c3d148e5a43e568a4a38a"
+  },
+  {
+    "utterance_id": "utt-0681",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0681.mp4",
+    "sha256": "7c1d162547fa5f8bf400f6d72c49b0077df2c01090905e609e1c51c6dfc95aff"
+  },
+  {
+    "utterance_id": "utt-0682",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0682.mp4",
+    "sha256": "2a2961dd80fbe0c81f851370b4a0cefc65341dbfff13db22a9765ed26fbec763"
+  },
+  {
+    "utterance_id": "utt-0683",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0683.mp4",
+    "sha256": "effef4b4a3ee9e41e1bc7094a4f781d93e97a32935036cf9fe0556d1ddfa93a8"
+  },
+  {
+    "utterance_id": "utt-0684",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0684.mp4",
+    "sha256": "4f00c4145e2c861e4b58c55d715c7c5f57259f69138d3b99c153879f33415ea0"
+  },
+  {
+    "utterance_id": "utt-0685",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0685.mp4",
+    "sha256": "1954628f00fd9ef71eac733271c2fd19c0f2414c40bcd9245ee704d7b8886057"
+  },
+  {
+    "utterance_id": "utt-0686",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0686.mp4",
+    "sha256": "0f8a73a979143290cf56fe6fa33d9dba9e74571e8d979ca16868c7cc580cd7fa"
+  },
+  {
+    "utterance_id": "utt-0687",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0687.mp4",
+    "sha256": "234ba6c5604982d773f6e27803396bfd6674ecd0870cbba54436e8b19f808fcc"
+  },
+  {
+    "utterance_id": "utt-0688",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0688.mp4",
+    "sha256": "95d566a3e8b91b44b93550b2aa28971dc90ef365e6b525116aa44167c3773dc2"
+  },
+  {
+    "utterance_id": "utt-0689",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0689.mp4",
+    "sha256": "c0bffed3cc02009ca69701c2fe888fb206fa61dd679542f0e44dbcade3e1ac20"
+  },
+  {
+    "utterance_id": "utt-0690",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0690.mp4",
+    "sha256": "264629fb0b70a9837230cc129e21b0949446a7f47c11c87433396745fc65c41c"
+  },
+  {
+    "utterance_id": "utt-0691",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0691.mp4",
+    "sha256": "356cc7b2951ecdc10c4ae70d74b907c74b726427b42720644e6cdc986bebb2fd"
+  },
+  {
+    "utterance_id": "utt-0692",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0692.mp4",
+    "sha256": "2e23de774a9cc6fb699060a43d5eb39c92e405846dc1d173f5248d8cb77fb2a0"
+  },
+  {
+    "utterance_id": "utt-0693",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0693.mp4",
+    "sha256": "54617bd329f370eae28b4fbdaedb175b9645b2f2d40cfb6bfcb0b15589688e92"
+  },
+  {
+    "utterance_id": "utt-0694",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0694.mp4",
+    "sha256": "271675658bf9bb1ab3d6bdb7af44119e634758f98764ffed466b337e166262c9"
+  },
+  {
+    "utterance_id": "utt-0695",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0695.mp4",
+    "sha256": "f379be8a498c2089afe07fcefeb424d1296be76826d8a788cd3668e176504c77"
+  },
+  {
+    "utterance_id": "utt-0696",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0696.mp4",
+    "sha256": "6beda8cb8f2321444314c36f9d53b054feddb6ccbb26209c580970935e09ad7a"
+  },
+  {
+    "utterance_id": "utt-0697",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0697.mp4",
+    "sha256": "70d680a36b71150366c7d15ec960403764d7d58f56d7cde3b6aa3347bb3ab953"
+  },
+  {
+    "utterance_id": "utt-0698",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0698.mp4",
+    "sha256": "44689a928ea4549bdf50105608b9e8904f531429c0a798f6e0b809ba8e98c169"
+  },
+  {
+    "utterance_id": "utt-0699",
+    "label": "UNKNOWN",
+    "path": "其他_UNKNOWN/utt-0699.mp4",
+    "sha256": "2f6c07af1c11a2d215464fa5b6bd3712604a6619a9f286275bd4788554e2ab18"
+  },
+  {
+    "utterance_id": "utt-0700",
+    "label": "REQUEST_TOILET",
+    "path": "如厕_REQUEST_TOILET/utt-0700.mp4",
+    "sha256": "df8306442f3d24631174d457a3e9a6bdcde6622ccedfe003e00666b64dc446c4"
+  }
+]
