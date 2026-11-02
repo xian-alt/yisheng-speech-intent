@@ -23,6 +23,6 @@
 - [SVM配置](yisheng-speech-intent/configs/svm_baseline.json)：训练参数、开发集选择、版本和模型哈希。
 - [SVM结果](yisheng-speech-intent/results/svm/)：逐条预测、指标、延迟明细和资源记录。
 
-七类标签为 `REQUEST_WATER`、`REQUEST_FOOD`、`REQUEST_TOILET`、`CALL_CAREGIVER`、`MEDICINE_REMINDER`、`SOS`、`UNKNOWN`。类别定义及决策规则见 [中文提示词](yisheng-speech-intent/data/training/prompt.txt)。
+七类标签为 `REQUEST_WATER`、`REQUEST_FOOD`、`REQUEST_TOILET`、`CALL_CAREGIVER`、`MEDICINE_REMINDER`、`SOS`、`UNKNOWN`。
 
 模型权重需另行准备；SVM训练和评估可在CPU运行。原始录音见仓库的录音目录，文本和归档预测见 `data/evaluation.sqlite3`。第三方组件及使用条款见 [LICENSING.md](yisheng-speech-intent/LICENSING.md)。
