@@ -1,0 +1,181 @@
+{
+  "asr": {
+    "total": 700,
+    "correct": 689,
+    "accuracy": 0.9842857142857143,
+    "macro_precision": 0.9857697366375293,
+    "macro_recall": 0.9842857142857142,
+    "macro_f1": 0.9849744446860067,
+    "invalid_outputs": 1,
+    "per_class": {
+      "REQUEST_WATER": {
+        "precision": 0.9900990099009901,
+        "recall": 1.0,
+        "f1": 0.9950248756218906,
+        "support": 100
+      },
+      "REQUEST_FOOD": {
+        "precision": 0.9803921568627451,
+        "recall": 1.0,
+        "f1": 0.99009900990099,
+        "support": 100
+      },
+      "REQUEST_TOILET": {
+        "precision": 1.0,
+        "recall": 0.98,
+        "f1": 0.98989898989899,
+        "support": 100
+      },
+      "CALL_CAREGIVER": {
+        "precision": 0.9797979797979798,
+        "recall": 0.97,
+        "f1": 0.9748743718592964,
+        "support": 100
+      },
+      "MEDICINE_REMINDER": {
+        "precision": 1.0,
+        "recall": 0.98,
+        "f1": 0.98989898989899,
+        "support": 100
+      },
+      "SOS": {
+        "precision": 0.9900990099009901,
+        "recall": 1.0,
+        "f1": 0.9950248756218906,
+        "support": 100
+      },
+      "UNKNOWN": {
+        "precision": 0.96,
+        "recall": 0.96,
+        "f1": 0.96,
+        "support": 100
+      }
+    },
+    "sos": {
+      "TP": 100,
+      "FP": 1,
+      "FN": 0,
+      "TN": 599,
+      "miss_rate": 0.0,
+      "false_alarm_rate": 0.0016666666666666668
+    },
+    "confusion": {
+      "REQUEST_WATER": {
+        "REQUEST_WATER": 100
+      },
+      "REQUEST_FOOD": {
+        "REQUEST_FOOD": 100
+      },
+      "REQUEST_TOILET": {
+        "REQUEST_TOILET": 98,
+        "REQUEST_WATER": 1,
+        "UNKNOWN": 1
+      },
+      "CALL_CAREGIVER": {
+        "CALL_CAREGIVER": 97,
+        "UNKNOWN": 3
+      },
+      "MEDICINE_REMINDER": {
+        "MEDICINE_REMINDER": 98,
+        "CALL_CAREGIVER": 2
+      },
+      "SOS": {
+        "SOS": 100
+      },
+      "UNKNOWN": {
+        "UNKNOWN": 96,
+        "REQUEST_FOOD": 2,
+        "__FAILED__": 1,
+        "SOS": 1
+      }
+    }
+  },
+  "proofread": {
+    "total": 700,
+    "correct": 693,
+    "accuracy": 0.99,
+    "macro_precision": 0.991498738109105,
+    "macro_recall": 0.99,
+    "macro_f1": 0.9906957619284,
+    "invalid_outputs": 1,
+    "per_class": {
+      "REQUEST_WATER": {
+        "precision": 0.9900990099009901,
+        "recall": 1.0,
+        "f1": 0.9950248756218906,
+        "support": 100
+      },
+      "REQUEST_FOOD": {
+        "precision": 0.9803921568627451,
+        "recall": 1.0,
+        "f1": 0.99009900990099,
+        "support": 100
+      },
+      "REQUEST_TOILET": {
+        "precision": 1.0,
+        "recall": 0.99,
+        "f1": 0.9949748743718593,
+        "support": 100
+      },
+      "CALL_CAREGIVER": {
+        "precision": 1.0,
+        "recall": 0.97,
+        "f1": 0.9847715736040609,
+        "support": 100
+      },
+      "MEDICINE_REMINDER": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 100
+      },
+      "SOS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 100
+      },
+      "UNKNOWN": {
+        "precision": 0.97,
+        "recall": 0.97,
+        "f1": 0.97,
+        "support": 100
+      }
+    },
+    "sos": {
+      "TP": 100,
+      "FP": 0,
+      "FN": 0,
+      "TN": 600,
+      "miss_rate": 0.0,
+      "false_alarm_rate": 0.0
+    },
+    "confusion": {
+      "REQUEST_WATER": {
+        "REQUEST_WATER": 100
+      },
+      "REQUEST_FOOD": {
+        "REQUEST_FOOD": 100
+      },
+      "REQUEST_TOILET": {
+        "REQUEST_TOILET": 99,
+        "REQUEST_WATER": 1
+      },
+      "CALL_CAREGIVER": {
+        "CALL_CAREGIVER": 97,
+        "UNKNOWN": 3
+      },
+      "MEDICINE_REMINDER": {
+        "MEDICINE_REMINDER": 100
+      },
+      "SOS": {
+        "SOS": 100
+      },
+      "UNKNOWN": {
+        "UNKNOWN": 97,
+        "REQUEST_FOOD": 2,
+        "__FAILED__": 1
+      }
+    }
+  }
+}

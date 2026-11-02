@@ -1,0 +1,210 @@
+{
+  "asr": {
+    "total": 700,
+    "correct": 342,
+    "accuracy": 0.48857142857142855,
+    "macro_precision": 0.5393123095351343,
+    "macro_recall": 0.48857142857142855,
+    "macro_f1": 0.4570327981061216,
+    "invalid_outputs": 0,
+    "per_class": {
+      "REQUEST_WATER": {
+        "precision": 0.9868421052631579,
+        "recall": 0.75,
+        "f1": 0.8522727272727272,
+        "support": 100
+      },
+      "REQUEST_FOOD": {
+        "precision": 0.9333333333333333,
+        "recall": 0.28,
+        "f1": 0.4307692307692308,
+        "support": 100
+      },
+      "REQUEST_TOILET": {
+        "precision": 0.09900990099009901,
+        "recall": 0.1,
+        "f1": 0.09950248756218907,
+        "support": 100
+      },
+      "CALL_CAREGIVER": {
+        "precision": 0.30578512396694213,
+        "recall": 0.74,
+        "f1": 0.43274853801169594,
+        "support": 100
+      },
+      "MEDICINE_REMINDER": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 100
+      },
+      "SOS": {
+        "precision": 0.5157894736842106,
+        "recall": 0.98,
+        "f1": 0.6758620689655174,
+        "support": 100
+      },
+      "UNKNOWN": {
+        "precision": 0.9344262295081968,
+        "recall": 0.57,
+        "f1": 0.7080745341614907,
+        "support": 100
+      }
+    },
+    "sos": {
+      "TP": 98,
+      "FP": 92,
+      "FN": 2,
+      "TN": 508,
+      "miss_rate": 0.02,
+      "false_alarm_rate": 0.15333333333333332
+    },
+    "confusion": {
+      "REQUEST_WATER": {
+        "REQUEST_WATER": 75,
+        "REQUEST_TOILET": 19,
+        "UNKNOWN": 1,
+        "SOS": 4,
+        "REQUEST_FOOD": 1
+      },
+      "REQUEST_FOOD": {
+        "REQUEST_FOOD": 28,
+        "REQUEST_TOILET": 52,
+        "CALL_CAREGIVER": 8,
+        "SOS": 12
+      },
+      "REQUEST_TOILET": {
+        "CALL_CAREGIVER": 75,
+        "SOS": 14,
+        "REQUEST_TOILET": 10,
+        "UNKNOWN": 1
+      },
+      "CALL_CAREGIVER": {
+        "SOS": 24,
+        "CALL_CAREGIVER": 74,
+        "REQUEST_TOILET": 2
+      },
+      "MEDICINE_REMINDER": {
+        "CALL_CAREGIVER": 80,
+        "SOS": 12,
+        "REQUEST_TOILET": 6,
+        "UNKNOWN": 2
+      },
+      "SOS": {
+        "SOS": 98,
+        "CALL_CAREGIVER": 2
+      },
+      "UNKNOWN": {
+        "UNKNOWN": 57,
+        "SOS": 26,
+        "REQUEST_FOOD": 1,
+        "REQUEST_TOILET": 12,
+        "CALL_CAREGIVER": 3,
+        "REQUEST_WATER": 1
+      }
+    }
+  },
+  "proofread": {
+    "total": 700,
+    "correct": 341,
+    "accuracy": 0.48714285714285716,
+    "macro_precision": 0.5469896138959653,
+    "macro_recall": 0.48714285714285716,
+    "macro_f1": 0.45634522165141433,
+    "invalid_outputs": 0,
+    "per_class": {
+      "REQUEST_WATER": {
+        "precision": 0.9868421052631579,
+        "recall": 0.75,
+        "f1": 0.8522727272727272,
+        "support": 100
+      },
+      "REQUEST_FOOD": {
+        "precision": 0.9655172413793104,
+        "recall": 0.28,
+        "f1": 0.434108527131783,
+        "support": 100
+      },
+      "REQUEST_TOILET": {
+        "precision": 0.1,
+        "recall": 0.1,
+        "f1": 0.10000000000000002,
+        "support": 100
+      },
+      "CALL_CAREGIVER": {
+        "precision": 0.30327868852459017,
+        "recall": 0.74,
+        "f1": 0.43023255813953487,
+        "support": 100
+      },
+      "MEDICINE_REMINDER": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 100
+      },
+      "SOS": {
+        "precision": 0.5077720207253886,
+        "recall": 0.98,
+        "f1": 0.6689419795221844,
+        "support": 100
+      },
+      "UNKNOWN": {
+        "precision": 0.9655172413793104,
+        "recall": 0.56,
+        "f1": 0.7088607594936709,
+        "support": 100
+      }
+    },
+    "sos": {
+      "TP": 98,
+      "FP": 95,
+      "FN": 2,
+      "TN": 505,
+      "miss_rate": 0.02,
+      "false_alarm_rate": 0.15833333333333333
+    },
+    "confusion": {
+      "REQUEST_WATER": {
+        "REQUEST_WATER": 75,
+        "REQUEST_TOILET": 20,
+        "UNKNOWN": 1,
+        "SOS": 4
+      },
+      "REQUEST_FOOD": {
+        "REQUEST_FOOD": 28,
+        "REQUEST_TOILET": 51,
+        "CALL_CAREGIVER": 9,
+        "SOS": 12
+      },
+      "REQUEST_TOILET": {
+        "CALL_CAREGIVER": 75,
+        "SOS": 15,
+        "REQUEST_TOILET": 10
+      },
+      "CALL_CAREGIVER": {
+        "SOS": 24,
+        "CALL_CAREGIVER": 74,
+        "REQUEST_TOILET": 2
+      },
+      "MEDICINE_REMINDER": {
+        "CALL_CAREGIVER": 81,
+        "SOS": 13,
+        "REQUEST_TOILET": 5,
+        "UNKNOWN": 1
+      },
+      "SOS": {
+        "SOS": 98,
+        "CALL_CAREGIVER": 2
+      },
+      "UNKNOWN": {
+        "UNKNOWN": 56,
+        "SOS": 27,
+        "REQUEST_FOOD": 1,
+        "REQUEST_TOILET": 12,
+        "CALL_CAREGIVER": 3,
+        "REQUEST_WATER": 1
+      }
+    }
+  }
+}

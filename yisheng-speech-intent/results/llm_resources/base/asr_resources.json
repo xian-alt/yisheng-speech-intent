@@ -1,0 +1,13 @@
+{
+  "calls": 700,
+  "mean_ms": 146.62348814285716,
+  "sample_std_ms": 57.059984687932435,
+  "median_ms": 142.33620000000002,
+  "p95_ms": 263.11607,
+  "warmup_calls": 20,
+  "recordings": 700,
+  "prediction_cache_enabled": false,
+  "peak_allocated_bytes": 1026089472,
+  "peak_reserved_bytes": 1073741824,
+  "boundary": "ASR transcripts only, 700 uncached batch1 classification calls. Includes tokenization, synchronized generation, decoding and parsing; excludes ASR audio transcription, checkpoint load and disk I/O. CUDA peak includes model weights, is process-specific, not device-wide usage."
+}

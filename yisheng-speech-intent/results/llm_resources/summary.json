@@ -1,0 +1,510 @@
+{
+  "paper_version": 41,
+  "methods": {
+    "base": {
+      "metrics": {
+        "asr": {
+          "total": 700,
+          "correct": 342,
+          "accuracy": 0.48857142857142855,
+          "macro_precision": 0.5393123095351343,
+          "macro_recall": 0.48857142857142855,
+          "macro_f1": 0.4570327981061216,
+          "invalid_outputs": 0,
+          "per_class": {
+            "REQUEST_WATER": {
+              "precision": 0.9868421052631579,
+              "recall": 0.75,
+              "f1": 0.8522727272727272,
+              "support": 100
+            },
+            "REQUEST_FOOD": {
+              "precision": 0.9333333333333333,
+              "recall": 0.28,
+              "f1": 0.4307692307692308,
+              "support": 100
+            },
+            "REQUEST_TOILET": {
+              "precision": 0.09900990099009901,
+              "recall": 0.1,
+              "f1": 0.09950248756218907,
+              "support": 100
+            },
+            "CALL_CAREGIVER": {
+              "precision": 0.30578512396694213,
+              "recall": 0.74,
+              "f1": 0.43274853801169594,
+              "support": 100
+            },
+            "MEDICINE_REMINDER": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 100
+            },
+            "SOS": {
+              "precision": 0.5157894736842106,
+              "recall": 0.98,
+              "f1": 0.6758620689655174,
+              "support": 100
+            },
+            "UNKNOWN": {
+              "precision": 0.9344262295081968,
+              "recall": 0.57,
+              "f1": 0.7080745341614907,
+              "support": 100
+            }
+          },
+          "sos": {
+            "TP": 98,
+            "FP": 92,
+            "FN": 2,
+            "TN": 508,
+            "miss_rate": 0.02,
+            "false_alarm_rate": 0.15333333333333332
+          },
+          "confusion": {
+            "REQUEST_WATER": {
+              "REQUEST_WATER": 75,
+              "REQUEST_TOILET": 19,
+              "UNKNOWN": 1,
+              "SOS": 4,
+              "REQUEST_FOOD": 1
+            },
+            "REQUEST_FOOD": {
+              "REQUEST_FOOD": 28,
+              "REQUEST_TOILET": 52,
+              "CALL_CAREGIVER": 8,
+              "SOS": 12
+            },
+            "REQUEST_TOILET": {
+              "CALL_CAREGIVER": 75,
+              "SOS": 14,
+              "REQUEST_TOILET": 10,
+              "UNKNOWN": 1
+            },
+            "CALL_CAREGIVER": {
+              "SOS": 24,
+              "CALL_CAREGIVER": 74,
+              "REQUEST_TOILET": 2
+            },
+            "MEDICINE_REMINDER": {
+              "CALL_CAREGIVER": 80,
+              "SOS": 12,
+              "REQUEST_TOILET": 6,
+              "UNKNOWN": 2
+            },
+            "SOS": {
+              "SOS": 98,
+              "CALL_CAREGIVER": 2
+            },
+            "UNKNOWN": {
+              "UNKNOWN": 57,
+              "SOS": 26,
+              "REQUEST_FOOD": 1,
+              "REQUEST_TOILET": 12,
+              "CALL_CAREGIVER": 3,
+              "REQUEST_WATER": 1
+            }
+          }
+        },
+        "proofread": {
+          "total": 700,
+          "correct": 341,
+          "accuracy": 0.48714285714285716,
+          "macro_precision": 0.5469896138959653,
+          "macro_recall": 0.48714285714285716,
+          "macro_f1": 0.45634522165141433,
+          "invalid_outputs": 0,
+          "per_class": {
+            "REQUEST_WATER": {
+              "precision": 0.9868421052631579,
+              "recall": 0.75,
+              "f1": 0.8522727272727272,
+              "support": 100
+            },
+            "REQUEST_FOOD": {
+              "precision": 0.9655172413793104,
+              "recall": 0.28,
+              "f1": 0.434108527131783,
+              "support": 100
+            },
+            "REQUEST_TOILET": {
+              "precision": 0.1,
+              "recall": 0.1,
+              "f1": 0.10000000000000002,
+              "support": 100
+            },
+            "CALL_CAREGIVER": {
+              "precision": 0.30327868852459017,
+              "recall": 0.74,
+              "f1": 0.43023255813953487,
+              "support": 100
+            },
+            "MEDICINE_REMINDER": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0,
+              "support": 100
+            },
+            "SOS": {
+              "precision": 0.5077720207253886,
+              "recall": 0.98,
+              "f1": 0.6689419795221844,
+              "support": 100
+            },
+            "UNKNOWN": {
+              "precision": 0.9655172413793104,
+              "recall": 0.56,
+              "f1": 0.7088607594936709,
+              "support": 100
+            }
+          },
+          "sos": {
+            "TP": 98,
+            "FP": 95,
+            "FN": 2,
+            "TN": 505,
+            "miss_rate": 0.02,
+            "false_alarm_rate": 0.15833333333333333
+          },
+          "confusion": {
+            "REQUEST_WATER": {
+              "REQUEST_WATER": 75,
+              "REQUEST_TOILET": 20,
+              "UNKNOWN": 1,
+              "SOS": 4
+            },
+            "REQUEST_FOOD": {
+              "REQUEST_FOOD": 28,
+              "REQUEST_TOILET": 51,
+              "CALL_CAREGIVER": 9,
+              "SOS": 12
+            },
+            "REQUEST_TOILET": {
+              "CALL_CAREGIVER": 75,
+              "SOS": 15,
+              "REQUEST_TOILET": 10
+            },
+            "CALL_CAREGIVER": {
+              "SOS": 24,
+              "CALL_CAREGIVER": 74,
+              "REQUEST_TOILET": 2
+            },
+            "MEDICINE_REMINDER": {
+              "CALL_CAREGIVER": 81,
+              "SOS": 13,
+              "REQUEST_TOILET": 5,
+              "UNKNOWN": 1
+            },
+            "SOS": {
+              "SOS": 98,
+              "CALL_CAREGIVER": 2
+            },
+            "UNKNOWN": {
+              "UNKNOWN": 56,
+              "SOS": 27,
+              "REQUEST_FOOD": 1,
+              "REQUEST_TOILET": 12,
+              "CALL_CAREGIVER": 3,
+              "REQUEST_WATER": 1
+            }
+          }
+        }
+      },
+      "asr_resources": {
+        "calls": 700,
+        "mean_ms": 146.62348814285716,
+        "sample_std_ms": 57.059984687932435,
+        "median_ms": 142.33620000000002,
+        "p95_ms": 263.11607,
+        "warmup_calls": 20,
+        "recordings": 700,
+        "prediction_cache_enabled": false,
+        "peak_allocated_bytes": 1026089472,
+        "peak_reserved_bytes": 1073741824,
+        "boundary": "ASR transcripts only, 700 uncached batch1 classification calls. Includes tokenization, synchronized generation, decoding and parsing; excludes ASR audio transcription, checkpoint load and disk I/O. CUDA peak includes model weights, is process-specific, not device-wide usage."
+      },
+      "development_resources": {
+        "calls": 225,
+        "mean_ms": 168.316284,
+        "sample_std_ms": 75.50427391595548,
+        "median_ms": 146.567,
+        "p95_ms": 312.1039599999999,
+        "warmup_calls": 20,
+        "development_samples": 75,
+        "passes": 3,
+        "pass_mean_latency_ms": [
+          142.92449866666666,
+          187.577684,
+          174.44666933333332
+        ],
+        "mean_of_pass_means_ms": 168.316284,
+        "sample_std_of_pass_means_ms": 22.94913851007517,
+        "peak_allocated_bytes": 1025211904,
+        "peak_reserved_bytes": 1073741824,
+        "repeat_prediction_disagreements": 0,
+        "accuracy_per_pass": [
+          0.36,
+          0.36,
+          0.36
+        ],
+        "boundary": "Uncached single-text tokenization+GPU generation+decoding+parsing, synchronized wall time; model weights included in process-specific CUDA peaks; excludes ASR, initial model load, disk I/O, and prediction cache. Repeats are inference passes, not independently trained models."
+      },
+      "dev_accuracy_per_pass": [
+        0.36,
+        0.36,
+        0.36
+      ],
+      "dev_macro_f1_per_pass": [
+        0.34188854753370884,
+        0.34188854753370884,
+        0.34188854753370884
+      ],
+      "archived_prediction_disagreements": {
+        "asr": 0,
+        "proofread": 0
+      },
+      "proofread_cached": 688
+    },
+    "lora": {
+      "metrics": {
+        "asr": {
+          "total": 700,
+          "correct": 689,
+          "accuracy": 0.9842857142857143,
+          "macro_precision": 0.9857697366375293,
+          "macro_recall": 0.9842857142857142,
+          "macro_f1": 0.9849744446860067,
+          "invalid_outputs": 1,
+          "per_class": {
+            "REQUEST_WATER": {
+              "precision": 0.9900990099009901,
+              "recall": 1.0,
+              "f1": 0.9950248756218906,
+              "support": 100
+            },
+            "REQUEST_FOOD": {
+              "precision": 0.9803921568627451,
+              "recall": 1.0,
+              "f1": 0.99009900990099,
+              "support": 100
+            },
+            "REQUEST_TOILET": {
+              "precision": 1.0,
+              "recall": 0.98,
+              "f1": 0.98989898989899,
+              "support": 100
+            },
+            "CALL_CAREGIVER": {
+              "precision": 0.9797979797979798,
+              "recall": 0.97,
+              "f1": 0.9748743718592964,
+              "support": 100
+            },
+            "MEDICINE_REMINDER": {
+              "precision": 1.0,
+              "recall": 0.98,
+              "f1": 0.98989898989899,
+              "support": 100
+            },
+            "SOS": {
+              "precision": 0.9900990099009901,
+              "recall": 1.0,
+              "f1": 0.9950248756218906,
+              "support": 100
+            },
+            "UNKNOWN": {
+              "precision": 0.96,
+              "recall": 0.96,
+              "f1": 0.96,
+              "support": 100
+            }
+          },
+          "sos": {
+            "TP": 100,
+            "FP": 1,
+            "FN": 0,
+            "TN": 599,
+            "miss_rate": 0.0,
+            "false_alarm_rate": 0.0016666666666666668
+          },
+          "confusion": {
+            "REQUEST_WATER": {
+              "REQUEST_WATER": 100
+            },
+            "REQUEST_FOOD": {
+              "REQUEST_FOOD": 100
+            },
+            "REQUEST_TOILET": {
+              "REQUEST_TOILET": 98,
+              "REQUEST_WATER": 1,
+              "UNKNOWN": 1
+            },
+            "CALL_CAREGIVER": {
+              "CALL_CAREGIVER": 97,
+              "UNKNOWN": 3
+            },
+            "MEDICINE_REMINDER": {
+              "MEDICINE_REMINDER": 98,
+              "CALL_CAREGIVER": 2
+            },
+            "SOS": {
+              "SOS": 100
+            },
+            "UNKNOWN": {
+              "UNKNOWN": 96,
+              "REQUEST_FOOD": 2,
+              "__FAILED__": 1,
+              "SOS": 1
+            }
+          }
+        },
+        "proofread": {
+          "total": 700,
+          "correct": 693,
+          "accuracy": 0.99,
+          "macro_precision": 0.991498738109105,
+          "macro_recall": 0.99,
+          "macro_f1": 0.9906957619284,
+          "invalid_outputs": 1,
+          "per_class": {
+            "REQUEST_WATER": {
+              "precision": 0.9900990099009901,
+              "recall": 1.0,
+              "f1": 0.9950248756218906,
+              "support": 100
+            },
+            "REQUEST_FOOD": {
+              "precision": 0.9803921568627451,
+              "recall": 1.0,
+              "f1": 0.99009900990099,
+              "support": 100
+            },
+            "REQUEST_TOILET": {
+              "precision": 1.0,
+              "recall": 0.99,
+              "f1": 0.9949748743718593,
+              "support": 100
+            },
+            "CALL_CAREGIVER": {
+              "precision": 1.0,
+              "recall": 0.97,
+              "f1": 0.9847715736040609,
+              "support": 100
+            },
+            "MEDICINE_REMINDER": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 100
+            },
+            "SOS": {
+              "precision": 1.0,
+              "recall": 1.0,
+              "f1": 1.0,
+              "support": 100
+            },
+            "UNKNOWN": {
+              "precision": 0.97,
+              "recall": 0.97,
+              "f1": 0.97,
+              "support": 100
+            }
+          },
+          "sos": {
+            "TP": 100,
+            "FP": 0,
+            "FN": 0,
+            "TN": 600,
+            "miss_rate": 0.0,
+            "false_alarm_rate": 0.0
+          },
+          "confusion": {
+            "REQUEST_WATER": {
+              "REQUEST_WATER": 100
+            },
+            "REQUEST_FOOD": {
+              "REQUEST_FOOD": 100
+            },
+            "REQUEST_TOILET": {
+              "REQUEST_TOILET": 99,
+              "REQUEST_WATER": 1
+            },
+            "CALL_CAREGIVER": {
+              "CALL_CAREGIVER": 97,
+              "UNKNOWN": 3
+            },
+            "MEDICINE_REMINDER": {
+              "MEDICINE_REMINDER": 100
+            },
+            "SOS": {
+              "SOS": 100
+            },
+            "UNKNOWN": {
+              "UNKNOWN": 97,
+              "REQUEST_FOOD": 2,
+              "__FAILED__": 1
+            }
+          }
+        }
+      },
+      "asr_resources": {
+        "calls": 700,
+        "mean_ms": 195.39589714285714,
+        "sample_std_ms": 72.53753381548742,
+        "median_ms": 181.9556,
+        "p95_ms": 312.79975499999995,
+        "warmup_calls": 20,
+        "recordings": 700,
+        "prediction_cache_enabled": false,
+        "peak_allocated_bytes": 1047646720,
+        "peak_reserved_bytes": 1090519040,
+        "boundary": "ASR transcripts only, 700 uncached batch1 classification calls. Includes tokenization, synchronized generation, decoding and parsing; excludes ASR audio transcription, checkpoint load and disk I/O. CUDA peak includes model weights, is process-specific, not device-wide usage."
+      },
+      "development_resources": {
+        "calls": 225,
+        "mean_ms": 229.63606711111112,
+        "sample_std_ms": 90.18490627372229,
+        "median_ms": 225.5769,
+        "p95_ms": 358.72038,
+        "warmup_calls": 20,
+        "development_samples": 75,
+        "passes": 3,
+        "pass_mean_latency_ms": [
+          241.695384,
+          228.38358666666667,
+          218.82923066666666
+        ],
+        "mean_of_pass_means_ms": 229.63606711111112,
+        "sample_std_of_pass_means_ms": 11.484414330459543,
+        "peak_allocated_bytes": 1047149056,
+        "peak_reserved_bytes": 1090519040,
+        "repeat_prediction_disagreements": 0,
+        "accuracy_per_pass": [
+          0.9733333333333334,
+          0.9733333333333334,
+          0.9733333333333334
+        ],
+        "boundary": "Uncached single-text tokenization+GPU generation+decoding+parsing, synchronized wall time; model weights included in process-specific CUDA peaks; excludes ASR, initial model load, disk I/O, and prediction cache. Repeats are inference passes, not independently trained models."
+      },
+      "dev_accuracy_per_pass": [
+        0.9733333333333334,
+        0.9733333333333334,
+        0.9733333333333334
+      ],
+      "dev_macro_f1_per_pass": [
+        0.9666048237476809,
+        0.9666048237476809,
+        0.9666048237476809
+      ],
+      "archived_prediction_disagreements": {
+        "asr": 0,
+        "proofread": 0
+      },
+      "proofread_cached": 688
+    }
+  },
+  "memory_note": "ASR latencies cover700 uncached ASR calls; asr_resources CUDA peaks cover the combined ASR/proofread evaluation stage. Development peaks cover225 dev calls. Repeated development passes are inference repeats, not training-seed variability.",
+  "verification": "All counts, reference labels, metrics, latency summaries and dev-only demonstration provenance checked."
+}

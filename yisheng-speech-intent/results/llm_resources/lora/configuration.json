@@ -1,0 +1,30 @@
+{
+  "method": "lora",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "torch": "2.7.0+cu128",
+    "transformers": "4.57.6",
+    "peft": "0.18.1",
+    "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+    "gpu_total_bytes": 8546484224,
+    "platform": "Windows-11-10.0.26200-SP0",
+    "device": "cuda:0",
+    "dtype": "float16",
+    "batch_size": 1,
+    "max_new_tokens": 16,
+    "do_sample": false,
+    "torch_threads": 4,
+    "seed": 20261025
+  },
+  "started_utc": "2026-11-02T14:50:30.276910+00:00",
+  "checkpoint_load_seconds": 2.1853217000025325,
+  "base_weight_sha256": "fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe",
+  "adapter_sha256": "4b0ca128a047a0ac71025b22cc891851276cf8f4366de8e4f786cb33605e8136",
+  "prompt_sha256": "4612ffa425bc2185de3dda6f25af83fbbf56d1c366b0365f4da28551e6eab036",
+  "selected_prompt_file_sha256": null,
+  "script_sha256": "dbb75ecff9abee001f8de0de98c5c98defdbf4bfd6b8264ce6e70445eb902af7",
+  "wrapper_sha256": "d068e4b23c306a671ab264e6cbe519d14e8b74725889d89f6a53a65c897b4a38",
+  "dataset_sha256": "790c398d8431e50ab641e2ce3a4087339512fe1961c2b84ecf551c1a315ec5cd",
+  "database_sha256": "be18ecf6b172ee72e3102fa309abf4dd934e8adc52127805910fcb5743c8ca00",
+  "scope": "Development-stage regression; no training or tuning on evaluation recordings. Resource timing excludes ASR and model load."
+}

@@ -46,3 +46,17 @@ python recognize.py --base "D:/models/Qwen2.5-0.5B-Instruct" --adapter "D:/model
 ```
 
 替换为实际模型路径；去掉 `--adapter` 使用基础模型。音频转写另需 `requirements-asr.txt` 及本地Qwen3-ASR模型。批量推理、LoRA训练和文件对应关系见 [实验复现说明](docs/实验复现说明.md)。
+
+
+## 语言模型分类资源与重复推理（论文表4）
+
+已保存基础模型和LoRA的700条ASR无缓存分类计时、两种文本条件的1400条预测、CUDA峰值显存，以及75条开发文本三轮重复推理。模型配置、完整数据和测量边界见[资源记录说明](results/llm_resources/README.md)。
+
+无需模型或GPU，仅用Python标准库复算：
+
+```powershell
+python scripts/reproduce_llm_resources.py
+python -m unittest discover -s tests -p test_llm_resources.py -v
+```
+
+该命令验证保存的分类与延迟记录，不重新测量GPU显存。重复统计针对固定检查点推理，不是独立训练。

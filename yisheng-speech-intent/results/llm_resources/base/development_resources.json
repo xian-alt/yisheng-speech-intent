@@ -1,0 +1,26 @@
+{
+  "calls": 225,
+  "mean_ms": 168.316284,
+  "sample_std_ms": 75.50427391595548,
+  "median_ms": 146.567,
+  "p95_ms": 312.1039599999999,
+  "warmup_calls": 20,
+  "development_samples": 75,
+  "passes": 3,
+  "pass_mean_latency_ms": [
+    142.92449866666666,
+    187.577684,
+    174.44666933333332
+  ],
+  "mean_of_pass_means_ms": 168.316284,
+  "sample_std_of_pass_means_ms": 22.94913851007517,
+  "peak_allocated_bytes": 1025211904,
+  "peak_reserved_bytes": 1073741824,
+  "repeat_prediction_disagreements": 0,
+  "accuracy_per_pass": [
+    0.36,
+    0.36,
+    0.36
+  ],
+  "boundary": "Uncached single-text tokenization+GPU generation+decoding+parsing, synchronized wall time; model weights included in process-specific CUDA peaks; excludes ASR, initial model load, disk I/O, and prediction cache. Repeats are inference passes, not independently trained models."
+}
