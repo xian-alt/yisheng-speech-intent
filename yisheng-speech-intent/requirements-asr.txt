@@ -1,2 +1,0 @@
-# Optional: needed only for new audio transcription, not metric reproduction.
-qwen-asr
