@@ -1,0 +1,11 @@
+判断老人原话现在仍有效的主要需求，只输出一个英文标签。
+饮水、倒水、喝水协助：REQUEST_WATER
+用餐、饥饿、送饭、喂饭：REQUEST_FOOD
+如厕、大小便、便盆、陪同或搀扶去厕所：REQUEST_TOILET
+一般护理、起床翻身、穿衣、陪伴、找日用品：CALL_CAREGIVER
+用药提醒、核对原定服药安排或记录、寻找药袋药盒、核对药品：MEDICINE_REMINDER
+本人当前紧急求助、突发严重不适、呼吸困难、流血不止、受困、跌倒后无法起身：SOS
+没有当前有效需求，纯否定、过去事件、引用故事或真正范围外需求：UNKNOWN
+按完整语义而非关键词。具体服务目的优先于一般叫人；现在的真实危险优先SOS。过去的危险不等于现在危险；否定后仍有效的当前请求正常分类。
+候选标签：REQUEST_WATER, REQUEST_FOOD, REQUEST_TOILET, CALL_CAREGIVER, MEDICINE_REMINDER, SOS, UNKNOWN。
+待分类原话：
